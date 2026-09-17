@@ -1,0 +1,176 @@
+---
+title: "Produção Intelectual"
+---
+
+## Artigos científicos
+
+### 2026
+
+<img src="assets/icons/link.png" width="12"/> Durgante FM, CC Vasconcelos, HL Hadlich, CL Mallmann, RO Perdiz, KCM Cunha, SR Chaves, C Paquini, K Torralvo, M Hopkins, J Schöngart, MTF Piedade, PA Sá, MLG Conde, & F Wittmann. **Near-infrared spectral signature enables tree species identification from herbarium specimens and standing trees in the Amazon Forest using low-cost and reference spectrometers**. Submetido para publicação, 2026.
+
+<img src="assets/icons/link.png" width="12"/> White DM, FM Durgante, MW Austin, JA Guzmán Q, JA Kennedy, CO Nichodemus, NI Ahlstrand, C Baraloto, B Bekta¸ K Boughalmi, W Cardinal-McTeague, TLP Couvreur, RP Fortier, RS Fuller, OM Grace, R Jackson, K Karbstein, S Kothari, AK Lee, JL Viana, E Martinez-Victoria, JE Meireles, TH Murphy, C Rodrigues-Vaz, D Spalink, H Tuomisto, CC Vasconcelos, & J Cavender-Bares. **A Protocol for Standardizing Measurements and Enabling Global Harmonization of Herbarium Leaf Reflectance Spectra**. Submetido para publicação, 2026.
+
+### 2025
+
+<img src="assets/icons/link.png" width="12"/> 
+<img src="assets/icons/openaccess.png" width="12"/> 
+Hadlich HL, J Schöngart, F Wittmann, CC Vasconcelos, CL Mallmann, MLG Conde, PA Sá, LO Demarchi, GB Mori, MTF Piedade, & FM Durgante. 2025. 
+<strong>Exploring the potential of field spectroscopy for tree species identification in different Amazonian forest ecosystems</strong>. 
+<em>Global Ecology and Conservation</em>, 54: e03970.
+<span class="doi-badge-inline">
+  <a href="https://doi.org/10.1016/j.gecco.2025.e03970" class="doi-badge" target="_blank">
+    <span class="doi-label">DOI</span>
+    <span class="doi-number">10.1016/j.gecco.2025.e03970</span>
+  </a>
+</span>
+
+
+<img src="assets/icons/link.png" width="12"/> 
+<img src="assets/icons/openaccess.png" width="12"/> 
+Cavender-Bares J, DM White, NI Ahlstrand, M Austin, D Bastianelli, S Bazan, K Boughalmi, W Cardinal-McTeague, E Chacón-Madrigal, TLP Couvreur, C Davis, FM Durgante, OM Grace, JA Guzmán, K Hansen, MS Hernández-Leal, MJG Hopkins, R Jackson, S Kothari, AK Lee, E Léveillé-Bourret, J Pinto-Ledezma, NLQ Casaverde, JE Meireles, B Neto-Bradley, CO Nichodemus, RH Ree, M Schmull, DE Soltis, PS Soltis, H Tuomisto, S Ustin, & CC Vasconcelos. 2025. 
+<strong>Next-generation specimen digitization: capturing reflectance spectra from the world's herbaria for modeling plant biology across time, space, and taxa</strong>. 
+<em>New Phytologist</em> (version of record).
+<span class="doi-badge-inline">
+  <a href="https://doi.org/10.1111/nph.70645" class="doi-badge" target="_blank">
+    <span class="doi-label">DOI</span>
+    <span class="doi-number">10.1111/nph.70645</span>
+  </a>
+</span>
+
+
+<img src="assets/icons/link.png" width="12"/> 
+<img src="assets/icons/openaccess.png" width="12"/> 
+Robin M, FM Durgante, CL Mallmann, HL Hadlich, C Römermann, LS Falcão, CD Lacerda, s Duvoisin, F Wittmann, MTF Piedade, J Schöngart, & EG Alves. 2025. 
+<strong>Leaf spectroscopy as a tool for predicting the presence of isoprene emissions and terpene storage in central Amazon forest trees</strong>. 
+<em>Plant Methods</em> 21(1): 78.
+<span class="doi-badge-inline">
+  <a href="https://doi.org/10.1186/s13007-025-01400-w" class="doi-badge" target="_blank">
+    <span class="doi-label">DOI</span>
+    <span class="doi-number">10.1186/s13007-025-01400-w</span>
+  </a>
+</span>
+
+<img src="assets/icons/link.png" width="12"/> 
+Vasconcelos CC, IDK Ferraz, FM Durgante, F Wittmann, J Schöngart, MTF Piedade, JLC Camargo, & MH Terra-Araujo. 2025. 
+<strong><em>Ecclinusa nervosa</em> (Sapotaceae, Chrysophylloideae), a new species discovered in Central Amazonia</strong>. 
+<em>Systematic Botany</em> 50(1): 55-66.
+<a href="https://doi.org/10.1600/036364425X17466502618821" class="doi-badge" target="_blank">
+  <span class="doi-label">DOI</span>
+  <span class="doi-number">10.1600/036364425X17466502618821</span>
+</a>
+
+## Material instrucional
+
+<img src="assets/icons/link.png" width="12"/> 
+<img src="assets/icons/openaccess.png" width="12"/>
+White DM, NI Ahlstrand, MW Austin, D Bastianelli, S Bazan, K Boughalmi, W Cardinal-McTeague, TLP Couvreur, F Durgante, OM Grace, JA Guzmán Q, K Hansen, M Hopkins, R Jackson, JA Kennedy, S Kothari, AK Lee, É Léveillé-Bourret, JE Meireles, BM Neto-Bradley, CO Nichodemus, NL Quinteros Casaverde, C Rodrigues-Vaz, M Schmull, PS Soltis, D Spalink, CC Vasconcelos, JL Viana, H Tuomisto, T Wells, & J Cavender-Bares. 2025. 
+<strong>IHerbSpec Protocol</strong>. 
+<em>Zenodo</em>.
+<a href="https://doi.org/10.5281/zenodo.15849668" class="doi-badge" target="_blank">
+  <span class="doi-label">DOI</span>
+  <span class="doi-number">10.5281/zenodo.15849668</span>
+</a>
+
+
+<img src="assets/icons/link.png" width="12"/> 
+<img src="assets/icons/openaccess.png" width="12"/>
+Vasconcelos CC & FM Durgante. 2025. 
+<strong>R codes and datasets used in the course 'Herbarium Spectroscopy with MicroNIR: theory and practice'</strong>. 
+<em>Zenodo</em>.
+<a href="https://doi.org/10.5281/zenodo.15531968" class="doi-badge" target="_blank">
+  <span class="doi-label">DOI</span>
+  <span class="doi-number">10.5281/zenodo.15531968</span>
+</a>
+
+
+## Participação em eventos
+
+<img src="assets/icons/link.png" width="12"/> Equipe SpectraPop e HerbSpectra-Amazônia. Organização do evento, apresentação de pôsteres e palestras. *In:* Workshop Franco-Brasileiro "Botânica do Futuro: Novas Abordagens para o Estudo da Flora Amazônica", Instituto Nacional de Pesquisas da Amazônia, Manaus, AM, Brasil. Junho/2026.
+
+<img src="assets/icons/link.png" width="12"/> Durgante, FM. IHerbSpec Research Symposium and Meeting, Missouri Botanical Garden, St. Louis, EUA. Maio/2026.
+
+<img src="assets/icons/link.png" width="12"/> 
+Durgante FM. Palestra: 
+<strong>Spectral herbarium from INPA: equipment, methods and applications to species identification</strong>. 
+<em>In:</em> International Herbarium Spectral Digitization (IHerbSpec) Working Group, Harvard University Herbaria, Cambridge, MA, USA. Maio/2025.
+<a href="https://www.youtube.com/live/Zko1-NvlGUE" class="doi-badge" target="_blank">
+  <span class="doi-label">YouTube</span>
+  <span class="doi-number">https://www.youtube.com/live/Zko1-NvlGUE</span>
+</a>
+
+
+<img src="assets/icons/link.png" width="12"/> Torralvo KC. Minicurso: **Teoria e delineamento de coletas espectrais de Infravermelho Próximo (NIR) para reconhecimento da biodiversidade**. *In:* 21° Simpósio Sobre Conservação e Manejo Participativo na Amazônia, Instituto de Desenvolvimento Sustentável Mamirauá, Tefé, AM, Brasil. Julho/2025.
+
+<img src="assets/icons/link.png" width="12"/> Durgante FM, JL Viana, CC Vasconcelos, HL Hadlich, & CL Mallmann. Simpósio: **Espectroscopia aplicada à identificação de plantas: avanços para herbários, manejo e conservação**. *In:* 75° Congresso Nacional de Botânica e 39ª Reunião Nordestina de Botânica, Universidade Federal do Delta do Parnaíba (UFDPar), Parnaíba, PI, Brasil. Agosto/2025.
+
+<img src="assets/icons/link.png" width="12"/> Torralvo KC, R Holanda, IY Fernandes, AP Lima, C Pasquini, FM Durgante, & WE Magnusson. Palestra: **Uso da espectroscopia nir no reconhecimento de anuros: método, testes de eficiência e perspectivas de aplicação incluindo equipamento de baixo-custo**. *In:* XI Congresso Brasileiro de Herpetologia, Sociedade Brasileira de Herpetologia, Manaus, AM, Brasil. Agosto/2025.
+
+<img src="assets/icons/link.png" width="12"/> 
+<img src="assets/icons/openaccess.png" width="12"/> 
+Lima KT, KAL Santos, JB Moreira, CC Vasconcelos, FM Durgante, & HS Pereira. 
+Resumo: <strong>Espectroscopia NIR aplicada à identificação de etnovariedades de <em>Ananas comosus</em></strong>. 
+<em>In:</em> XXI Semana de Agronomia (SEMAGRO), Universidade Federal do Amazonas (UFAM), Manaus, AM, Brasil. Outubro/2025.
+<a href="https://shre.ink/L29n" class="doi-badge" target="_blank">
+  <span class="doi-label">RESUMO</span>
+  <span class="doi-number">https://shre.ink/L29n</span>
+</a>
+
+
+<img src="assets/icons/link.png" width="12"/> Os nossos bolsistas do PIBIC/INPA — Eduardo Cunha, Eliandra Rodrigues e Yasmin Guedes — participaram da 22ª Semana Nacional de Ciência e Tecnologia do INPA. Eles integraram a equipe do Herbário INPA na divulgação das atividades desenvolvidas na coleção, apresentando ao público um pouco do trabalho científico que realizam no dia a dia. Outubro/2025.
+
+## Orientações
+
+### Em andamento
+
+[<img src="assets/icons/user.png" width="12"/>](http://lattes.cnpq.br/8490385946321507) Maria Clara Abreu Mota de Oliveira Ramos Ferro (MAUA/INPA). Mestrado PPGBOT-INPA: **Material de fundo importa? Testando padrões de reflectância na espectroscopia de folhas herborizadas em diferentes tipos de materiais de fundo e sua eficácia na discriminação de espécies**. Início: Março/2025. Orientação: Flávia Durgante. Coorientação: Caroline Vasconcelos.
+
+[<img src="assets/icons/user.png" width="12"/>](http://lattes.cnpq.br/7937040274378072) Túlio Alex Martins da Silva (MAUA/INPA). Mestrado PPGBOT-INPA: **Desvendando o gênero *Mabea* Aubl. (Euphorbioideae: Euphorbiaceae) na Pan-Amazônia**. Início: Janeiro/2026. Orientação: Layon Demarchi. Coorientação: Caroline Vasconcelos.
+
+
+### Concluídas
+
+[<img src="assets/icons/user.png" width="12"/>](http://lattes.cnpq.br/2812901246354210) Caroline L. Mallmann (UFSM/MAUA/INPA). Doutorado PPGGEO-UFSM: **Applications of Remote Sensing in a drought gradient in Amazon Forest Ecosystems**. Início: Março/2021. Orientação: Waterloo Pereira Filho. Coorientação: Flávia Durgante.
+
+[<img src="assets/icons/user.png" width="12"/>](http://lattes.cnpq.br/2228944258807319) Hilana L. Hadlich (MAUA/INPA). Doutorado PPGBOT-INPA: **Reconhecimento de espécies e características funcionais das árvores em campo por espectroscopia no visível e infravermelho próximo na Amazônia**. Início: Março/2021. Orientação: Flávia Durgante. Coorientação: Jochen Schöngart.
+
+[<img src="assets/icons/user.png" width="12"/>](http://lattes.cnpq.br/3358526069960413) Eliandra Rodrigues Ferreira (Estácio/Herbário INPA). PIBIC-INPA: **Desenvolvimento de bibliotecas espectrais para identificação de espécies no Herbário INPA: um estudo com Fabaceae e Meliaceae**. Início: Setembro/2025. Orientação: Michael Hopkins.
+
+[<img src="assets/icons/user.png" width="12"/>](http://lattes.cnpq.br/7129000327997949) Yasmin Jéssica Guimarães Guedes (UFAM/ Herbário INPA). PIBIC-INPA: **Construção de biblioteca espectral aplicada à identificação de Bignoniaceae no Herbário INPA**. Início: Setembro/2025. Orientação: Michael Hopkins.
+
+[<img src="assets/icons/user.png" width="12"/>](http://lattes.cnpq.br/6974374662437947) Cassia Sousa Ataide (UFAM/Herbário INPA). PIBIC-INPA: **Inteligência artificial aplicada à taxonomia de *Ecclinusa* (Sapotaceae): validação espectral e interoperabilidade com espectrômetros portáteis**. Início: Fevereiro/2026. Supervisão: Michael Hopkins.
+
+### Egressos
+
+[<img src="assets/icons/user.png" width="12"/>](http://lattes.cnpq.br/2142166621987119) Eduardo Leandro Cunha (UFAM/ Herbário INPA). PIBIC-INPA: **Inteligência artificial aplicada à taxonomia de *Ecclinusa* (Sapotaceae): validação espectral e interoperabilidade com espectrômetros portáteis**. Início: Setembro/2025. Fim: Janeiro/2026. Supervisão: Michael Hopkins.
+
+## Disciplinas
+
+<img src="assets/icons/learning.png" width="14"/> Durgante FM. Disciplina: **Tópico Especial - Uso de espectroscopia para reconhecimento da Biodiversidade**, realizada no período de 25/08 a 06/09/2025 (60 horas). Instituto Nacional de Pesquisas da Amazônia, curso de mestrado e doutorado do Programa de Pós-Graduação em Botânica (PPGBOT).
+
+## Aplicações web
+
+<img src="assets/icons/app.png" width="14"/> 
+Vasconcelos CC, M Hopkins, & FM Durgante. 2026. 
+<strong>Biblioteca Espectral do Projeto SpectraPop</strong> – Dashboard desenvolvido para facilitar a visualização da biblioteca espectral do Projeto SpectraPop junto ao Herbário INPA.
+<a href="https://spectrapop.shinyapps.io/dashboard/" class="doi-badge" target="_blank">
+  <span class="doi-label">APP</span>
+  <span class="doi-number">https://spectrapop.shinyapps.io/dashboard/</span>
+</a>
+
+
+<img src="assets/icons/app.png" width="14"/> 
+Vasconcelos CC, KCM Cunha, & FM Durgante. 2025. 
+<strong>iscreader app</strong> – Aplicação web desenvolvida para facilitar a importação, visualização e processamento de arquivos brutos gerados pelo espectrômetro portátil MicroNIR modelo NIR-S-G1 (InnoSpectra Corp).
+<a href="https://spectrapop.shinyapps.io/iscreaderapp/" class="doi-badge" target="_blank">
+  <span class="doi-label">APP</span>
+  <span class="doi-number">https://spectrapop.shinyapps.io/iscreaderapp/</span>
+</a>
+
+
+<img src="assets/icons/app.png" width="14"/> 
+Vasconcelos CC & FM Durgante. 2025. 
+<strong>multispecreader app</strong> – Aplicação web desenvolvida para facilitar a importação, visualização e processamento de arquivos brutos gerados pelos espectrômetros Antaris™ II (FT-NIR Analyzer, Thermo Fisher Scientific Inc.) e ASD FieldSpec® (Malvern Panalytical Ltd).
+<a href="https://spectrapop.shinyapps.io/multispecreaderapp/" class="doi-badge" target="_blank">
+  <span class="doi-label">APP</span>
+  <span class="doi-number">https://spectrapop.shinyapps.io/multispecreaderapp/</span>
+</a>

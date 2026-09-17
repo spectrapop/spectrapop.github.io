@@ -1,0 +1,131 @@
+---
+title: "Curso de Espectroscopia em herbário com NIR portátil"
+subtitle: "Teoria e prática"
+---
+
+# Apresentação
+
+Sejam bem-vindos(as)!😊
+
+Este curso foi desenvolvido para capacitar estudantes e profissionais no uso do espectrômetro portátil, abrangendo desde a configuração inicial do equipamento até a análise dos dados espectrais.
+
+Ao longo de três dias de atividades teóricas e práticas, os participantes explorarão os fundamentos da espectroscopia no infravermelho próximo (NIR) e sua aplicação na identificação de plantas.
+
+Além disso, o curso busca identificar desafios práticos no uso do equipamento, contribuindo para o desenvolvimento de um protocolo padronizado de aplicação no âmbito do [Projeto SpectraPop](/index.html).
+
+# Detalhes do curso
+
+**Onde:** Auditório, Instituto de Desenvolvimento Sustentável Mamirauá, Estrada do Bexiga, 2584 - 69553-225 - Fonte Boa, Tefé, Amazonas.
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(leaflet)
+leaflet() %>%
+  addTiles %>% # Add default OpenStreetMap map tiles
+  setView(lng = -64.731643, lat = -3.352820, zoom = 17)
+```
+
+**Data:** De 09 a 11 de junho de 2026.\
+
+**Público-alvo:** Estudantes e profissionais envolvidos no fluxo de trabalho de herbário/coleções de referência que tenham interesse no uso de espectroscopia portátil para pesquisa científica.\
+
+**Número de vagas:** 16 (vagas presenciais).\
+
+**Carga horária:** 18h (com emissão de certificado de participação).\
+
+**Formato:** Curso presencial, com aulas teóricas e atividades práticas. Para as atividades práticas, quatro laptops estarão disponíveis, e os participantes serão organizados em quatro grupos.
+
+**Material:** O material do curso será disponibilizado diretamente aos participantes ou via ⬇️ [Download](/download.html).
+
+# Cronograma
+
+## Visão geral
+
+As atividades do curso ocorrerão durante três dias seguidos, de terça a quinta-feira.
+
+As sessões da manhã serão entre 09h00 e 12h00 (horário padrão do Amazonas).
+
+As sessões da tarde serão entre 14h00 e 17h00 (horário padrão do Amazonas).
+
+## Linha do tempo
+
+### Dia 1 (terça-feira, 09/junho)
+
+#### Manhã
+
+-   Fundamentos teóricos da espectroscopia NIR e suas aplicações - parte I
+
+📚 Material complementar: Vídeo – Tour do Espectro Eletromagnético (NASA): <https://www.youtube.com/watch?v=2p7FPFvu_j0>
+
+#### Tarde
+
+-   Apresentação do dispositivo NIR-S-G1 (InnoSpectra Corp.) e
+    acessórios
+
+-   Configuração do aplicativo ISC-NIRScan GUI
+
+-   Introdução ao fluxo de trabalho com o NIR portátil
+
+### Dia 2 (quarta-feira, 10/junho)
+
+#### Manhã
+
+-   Exercício prático de aquisição de espectros e metadados de exsicatas
+
+-   As espécies listadas [neste link](https://docs.google.com/spreadsheets/d/1nDfQMOe26fblt0OLafKL6Gx1h7syhyFjfGT0lVjOYj4/edit?usp=sharing) serão testadas durante o curso.
+
+#### Tarde
+
+-   Exercício prático de aquisição de espectros e metadados de exsicatas
+
+### Dia 3 (quinta-feira, 11/junho)
+
+#### Manhã
+
+-   Fundamentos teóricos da espectroscopia NIR e suas aplicações - parte II
+
+#### Tarde
+
+-   Em ambiente R:
+    -   Instalação e carregamento das bibliotecas necessárias
+    -   Importação de dados espectrais
+    -   Visualização: avaliação da qualidade dos espectros e PCA
+    -   Preparação dos dados para análise
+    -   Análise discriminante (LDA) com validação cruzada Leave-One-Out (LOO)
+    -   Avaliação de desempenho (acurácia e matriz de confusão)
+    -   Interpretação dos resultados
+    
+-   Considerações finais sobre o curso
+
+# Equipe de organização e treinamento
+
+<img src="/assets/icons/user.png" width="12"/> Profa. Dra. Flávia Durgante (Coordenadora dos Projetos SpectraPop/HerbSpectra-Amazônia), MAUA/ATTO/INPA <a href="http://lattes.cnpq.br/9866263113578229" target="_blank"><img src="/assets/icons/lattes.png" width="18"/></a>
+
+<img src="/assets/icons/user.png" width="12"/> Dra. Samyra Ramos (Bolsista do Projeto HerbSpectra-Amazônia), MAUA/INPA <a href="http://lattes.cnpq.br/1535461703335857" target="_blank"><img src="/assets/icons/lattes.png" width="18"/></a>
+
+<img src="/assets/icons/user.png" width="12"/> Me. Kaio Cunha (Bolsista do Projeto HerbSpectra-Amazônia), MAUA/INPA <a href="http://lattes.cnpq.br/2664299098538335" target="_blank"><img src="/assets/icons/lattes.png" width="18"/></a>
+
+<img src="/assets/icons/user.png" width="12"/> Dra. Kelly Torralvo (Colaboradora do Projeto SpectraPop), IDSM <a href="http://lattes.cnpq.br/8990804799144033" target="_blank"><img src="/assets/icons/lattes.png" width="18"/></a>
+
+<img src="/assets/icons/user.png" width="12"/> Dra. Darlene Gris (Colaboradora do Projeto SpectraPop), IDSM <a href="http://lattes.cnpq.br/9797541704067903" target="_blank"><img src="/assets/icons/lattes.png" width="18"/></a>
+
+# Financiamento
+
+Este curso é apoiado pelos projetos "Rede de Herbários Espectrais da Amazônia: Espectroscopia e inteligência artificial para a identificação automatizada da biodiversidade em herbários amazônicos - HerbSpectra-Amazônia", financiado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), Chamada Pública MCTI/CNPq no. 03/2025 - Pró-Amazônia (processo no. 385465/2025-4); e "Popularização do uso da Assinatura Espectral da Espécie na identificação das árvores do Manejo Florestal Sustentável na Amazônia - SPECTRA POP”, financiado pela Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM), Edital no. 006/2024 - Mulher Faz Ciência (Processo no. 01.02.016301.04984/2024-17). O curso também conta com apoio do Herbário INPA via Chamada pública MCTI/FINEP/FNDCT no. 02/2016 – Centros Nacionais Multiusuários.
+
+# Participantes
+
+<figure style="text-align:center;">
+
+<img src="/assets/courses/6.jpeg" class="slide" style="width:100%; display:block;"/>
+
+<figcaption style="font-size:0.9rem; color:#555; margin-top:6px;">
+
+Participantes do 6º Curso do Projeto SpectraPop, Instituto de Desenvolvimento Sustentável Mamirauá, Tefé, AM. Junho de 2026.
+
+</figcaption>
+
+</figure>
+
+# Certificados
+
+Para gerar seu certificado preencha o formulário: <https://forms.gle/TMPSEC3PMazXsBUs6>

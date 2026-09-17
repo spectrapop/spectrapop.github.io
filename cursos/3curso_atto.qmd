@@ -1,0 +1,232 @@
+---
+title: "Curso para Auxiliares de Campo ATTO 2026"
+subtitle: "Turma Paulo Boca"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Apresentação
+
+O curso foi desenvolvido no âmbito do [Projeto SpectraPop](/index.html),
+com o objetivo de capacitar auxiliares de campo para atuação em
+pesquisas científicas na Amazônia, com foco em práticas seguras,
+organização de dados e coleta botânica. Realizado no sítio ATTO (Amazon
+Tall Tower Observatory), o curso integrou teoria e prática em ambiente
+real de floresta, proporcionando aos participantes uma experiência
+imersiva nas rotinas de campo.
+
+<figure style="text-align:center;">
+
+![](/assets/courses/3-1.jpeg){.slide style="display:block;"}
+
+<figcaption style="font-size:0.9rem; color:#555; margin-top:6px;">
+
+Flyer de divulgação do curso para formação de Auxiliares de Campo do
+Projeto SpectraPop.
+
+</figcaption>
+
+</figure>
+
+# Detalhes do curso
+
+**Onde:** Sítio ATTO – Amazon Tall Tower Observatory, Reserva de
+Desenvolvimento Sustentável do Uatumã, São Sebastião do Uatumã,
+Amazonas.
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(leaflet)
+leaflet() %>%
+  addTiles %>% # Add default OpenStreetMap map tiles
+  setView(lng = -59.003481, lat = -2.148550, zoom = 14)
+```
+
+**Data:** De 23 a 30 de março de 2026.\
+
+**Público-alvo:** Auxiliares de campo já atuantes na área e técnicos
+interessados em atuar como auxiliares de campo em pesquisas científicas
+na Amazônia, especialmente nas áreas de botânica, ecologia e coleta de
+dados ambientais.\
+
+**Número de vagas ofertadas:** 20 vagas.\
+
+**Carga horária:** 66h (com emissão de certificado de participação).\
+
+**Formato:** Presencial, com atividades teóricas e práticas realizadas
+em ambiente de floresta. O curso foi estruturado em regime intensivo,
+com rotinas diárias de campo, atividades práticas supervisionadas e
+aulas expositivas no período noturno.
+
+**Material:** Foram utilizados equipamentos de campo, materiais para
+coleta botânica, ferramentas de escalada, instrumentos para coleta de
+solo e insumos para preservação de amostras. As orientações foram
+fornecidas diretamente durante as atividades práticas.
+
+# Cronograma
+
+## Visão geral
+
+-   Os participantes receberam orientações sobre segurança em campo,
+    incluindo deslocamento em trilhas, uso de equipamentos e conduta em
+    ambiente de floresta.
+-   Foram abordados princípios de ética na coleta de material biológico,
+    respeitando normas científicas e ambientais.
+-   As atividades incluíram rotina intensa de campo, exigindo preparo
+    físico e adaptação às condições amazônicas.
+
+## Linha do tempo
+
+Veja a programação completa:
+
+<iframe src="/assets/documents/cronograma.pdf" width="100%" height="600px">
+
+</iframe>
+
+# Equipe
+
+## Comissão organizadora
+
+<img src="/assets/icons/user.png" width="12"/> Dra. Flávia Machado Durgante
+(MAUA/ATTO/INPA)
+<a href="xxx" target="_blank"><img src="/assets/icons/lattes.png" width="18"/></a>
+
+<img src="/assets/icons/user.png" width="12"/> Dra. Samyra Ramos Chaves
+(MAUA/INPA)
+<a href="xxx" target="_blank"><img src="/assets/icons/lattes.png" width="18"/></a>
+
+<img src="/assets/icons/user.png" width="12"/> Dra. Caroline da Cruz
+Vasconcelos (MAUA/INPA)
+<a href="xxx" target="_blank"><img src="/assets/icons/lattes.png" width="18"/></a>
+
+<img src="/assets/icons/user.png" width="12"/> Me. Kaio Cesar Marinho da Cunha
+(MAUA/INPA)
+<a href="xxx" target="_blank"><img src="/assets/icons/lattes.png" width="18"/></a>
+
+<img src="/assets/icons/user.png" width="12"/> Roberta Pereira de Souza (ATTO)
+<a href="xxx" target="_blank"><img src="/assets/icons/lattes.png" width="18"/></a>
+
+## Comunicadores científicos
+
+<img src="/assets/icons/user.png" width="12"/> Dra. Aline Radaelli Basso (ATTO)
+<a href="xxx" target="_blank"><img src="/assets/icons/lattes.png" width="18"/></a>
+
+<img src="/assets/icons/user.png" width="12"/> Luciano Lima Francisco
+(MAUA/INPA)
+<a href="xxx" target="_blank"><img src="/assets/icons/lattes.png" width="18"/></a>
+
+## Professores
+
+<img src="/assets/icons/user.png" width="12"/> Dra. Caroline da Cruz
+Vasconcelos (MAUA/INPA)
+<a href="xxx" target="_blank"><img src="/assets/icons/lattes.png" width="18"/></a>
+
+<img src="/assets/icons/user.png" width="12"/> Dra. Dirce Leimi Komura (INPA)
+<a href="xxx" target="_blank"><img src="/assets/icons/lattes.png" width="18"/></a>
+
+<img src="/assets/icons/user.png" width="12"/> Dra. Flávia Machado Durgante
+(MAUA/ATTO/INPA)
+<a href="xxx" target="_blank"><img src="/assets/icons/lattes.png" width="18"/></a>
+
+<img src="/assets/icons/user.png" width="12"/> Me. Francisco Alcinei Gomes da
+Silva (ATTO)
+<a href="xxx" target="_blank"><img src="/assets/icons/lattes.png" width="18"/></a>
+
+<img src="/assets/icons/user.png" width="12"/> Me. Francisco Javier Farroñay
+Pacaya (PDBFF/INPA)
+<a href="xxx" target="_blank"><img src="/assets/icons/lattes.png" width="18"/></a>
+
+<img src="/assets/icons/user.png" width="12"/> Dr. Layon Oreste Demarchi
+(MAUA/INPA)
+<a href="xxx" target="_blank"><img src="/assets/icons/lattes.png" width="18"/></a>
+
+<img src="/assets/icons/user.png" width="12"/> Dr. Michael John Gilbert Hopkins
+(INPA)
+<a href="xxx" target="_blank"><img src="/assets/icons/lattes.png" width="18"/></a>
+
+<img src="/assets/icons/user.png" width="12"/> Sipko Marten Bulthuis (ATTO)
+
+<img src="/assets/icons/user.png" width="12"/> Dra. Vania Nobuko Yoshikawa
+(INPA)
+<a href="xxx" target="_blank"><img src="/assets/icons/lattes.png" width="18"/></a>
+
+<img src="/assets/icons/user.png" width="12"/> Me. Yago Rodrigues Santos (ATTO)
+<a href="xxx" target="_blank"><img src="/assets/icons/lattes.png" width="18"/></a>
+
+## Professores assistentes
+
+<img src="/assets/icons/user.png" width="12"/> Alice Silva de Lima (INPA)
+<a href="xxx" target="_blank"><img src="/assets/icons/lattes.png" width="18"/></a>
+
+<img src="/assets/icons/user.png" width="12"/> Me. Kaio Cesar Marinho da Cunha
+(MAUA/INPA)
+<a href="xxx" target="_blank"><img src="/assets/icons/lattes.png" width="18"/></a>
+
+<img src="/assets/icons/user.png" width="12"/> Dra. Samyra Ramos Chaves
+(MAUA/INPA)
+<a href="xxx" target="_blank"><img src="/assets/icons/lattes.png" width="18"/></a>
+
+<img src="/assets/icons/user.png" width="12"/> Ma. Rafaela Araujo Ferreira
+Gurgel (MAUA/INPA)
+<a href="xxx" target="_blank"><img src="/assets/icons/lattes.png" width="18"/></a>
+
+## Instrutores
+
+<img src="/assets/icons/user.png" width="12"/> Francisco Marques Bezerra
+(Auxiliar de campo)
+
+<img src="/assets/icons/user.png" width="12"/> Jose Francisco Tenacol Andes Jr.
+(Auxiliar de campo)
+
+<img src="/assets/icons/user.png" width="12"/> Jose Raimundo Ferreira Nunes
+(Auxiliar de campo/Escalador)
+
+<img src="/assets/icons/user.png" width="12"/> Ocirio de Souza Pereira
+(Auxiliar de campo)
+
+## Apoio técnico
+
+<img src="/assets/icons/user.png" width="12"/> André Luiz Matos (Chefe de
+cozinha, ATTO)
+
+<img src="/assets/icons/user.png" width="12"/> Antonio Huxley Melo do
+Nascimento (Apoio logístico, ATTO)
+
+<img src="/assets/icons/user.png" width="12"/> Adi Vasconcelos Brandão
+(Auxiliar de cozinha, ATTO)
+
+<img src="/assets/icons/user.png" width="12"/> Valmir Ferreira Lima (Apoio
+logístico, ATTO)
+
+<img src="/assets/icons/user.png" width="12"/> Keven Muniz de Lima (Apoio
+logístico, ATTO)
+
+# Financiamento
+
+Este curso é parte do Projeto “Popularização do uso da Assinatura
+Espectral da Espécie na identificação das árvores do Manejo Florestal
+Sustentável na Amazônia - SPECTRA POP”, financiado pela Fundação de
+Amparo à Pesquisa do Estado do Amazonas (FAPEAM), Edital no. 006/2024 -
+Mulher Faz Ciência (Processo no. 01.02.016301.04984/2024-17).
+
+O curso também contou com o apoio institucional do INPA e de suas
+iniciativas e estruturas vinculadas, incluindo o Projeto ATTO, ATTO
+Escola, Grupo MAUA e Editora INPA. Essa integração institucional
+fortaleceu a qualidade do curso, assegurando uma formação alinhada à
+pesquisa científica de excelência e às demandas reais do trabalho de
+campo na Amazônia.
+
+# Participantes
+
+<figure style="text-align:center;">
+
+![](/assets/courses/3-2.jpeg){.slide style="display:block;"}
+
+<figcaption style="font-size:0.9rem; color:#555; margin-top:6px;">
+
+Participantes do curso para formação de Auxiliares de Campo do Projeto
+SpectraPop, realizado no sítio ATTO, março de 2026.
+
+</figcaption>
+
+</figure>

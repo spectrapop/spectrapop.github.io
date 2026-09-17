@@ -1,0 +1,1 @@
+Neste repositório compartilharemos os principais produtos do projeto "Popularização do uso da Assinatura Espectral da Espécie na identificação das árvores do Manejo Florestal Sustentável na Amazônia - SPECTRA POP" (Programa Mulher Faz Ciência – FAPEAM – Edital n.º 006/2024), coordenado pela Dra. Flávia Durgante.

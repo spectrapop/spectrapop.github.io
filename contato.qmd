@@ -1,0 +1,59 @@
+---
+title: "Contato"
+editor: visual
+---
+
+Para entrar em contato, utilize o formulário abaixo.
+
+<form action="https://formspree.io/f/xgvgnnpp" method="POST">
+
+::: mb-3
+<label class="form-label">Nome</label> <input
+type="text"
+name="name"
+class="form-control"
+required>
+:::
+
+::: mb-3
+<label class="form-label">E-mail</label> <input
+type="email"
+name="email"
+class="form-control"
+required>
+:::
+
+::: mb-3
+<label class="form-label">Instituição</label> <input
+type="text"
+name="institution"
+class="form-control">
+:::
+
+::: mb-3
+<label class="form-label">Assunto</label> <input
+type="text"
+name="subject"
+class="form-control"
+required>
+:::
+
+::: mb-3
+<label class="form-label">Mensagem</label>
+
+```{=html}
+<textarea
+name="message"
+rows="6"
+class="form-control"
+required></textarea>
+```
+:::
+
+<button class="btn btn-primary" type="submit">
+
+Enviar
+
+</button>
+
+</form>

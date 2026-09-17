@@ -1,0 +1,80 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Projeto SpectraPop"
+  favicon: assets/icons/favicon.ico
+
+  navbar:
+    logo: assets/logos/logo.png
+    right: 
+      - icon: github
+        href: https://github.com/spectrapop
+        aria-label: GitHub
+    left:
+      - text: "Início"
+        href: index.qmd
+        
+      - text: "Cursos"
+        menu:
+          - text: "2025 | 1º Curso INPA"
+            href: cursos/1curso_inpa.qmd
+          - text: "2025 | 2º Curso INPA"
+            href: cursos/2curso_inpa.qmd
+          - text: "2026 | 3º Curso ATTO"
+            href: cursos/3curso_atto.qmd
+          - text: "2026 | 4º Curso ERBOT"
+            href: cursos/4curso_erbot.qmd    
+          - text: "2026 | 5º Curso MPEG"
+            href: cursos/5curso_mpeg.qmd
+          - text: "2026 | 6º Curso IDSM"
+            href: cursos/6curso_idsm.qmd
+        
+      - text: "Produção Intelectual"
+        href: producaointelectual.qmd
+      
+      - text: "Biblioteca Espectral"
+        href: bibliotecaespectral.qmd
+      
+      - text: "Herbário INPA"
+        href: herbarioinpa.qmd
+        
+      - text: "Blog"
+        menu:
+          - text: "SpectraPop em um esforço global de digitalização espectral"
+            href: posts/spectrapop-em-um-esforco-global-de-digitalizacao-espectral.qmd
+            
+          - text: "Nasce o projeto HerbSpectra-Amazônia"
+            href: posts/nasce-o-projeto-herbspectra-amazonia.qmd
+            
+          - text: "Conheça nossos alunos de Iniciação Científica (PIBIC/INPA 2025–2026)"
+            href: posts/conheca-nossos-pibics-2025.qmd
+            
+          - text: "Novo artigo confirma o potencial da espectroscopia na Amazônia"
+            href: posts/novo-artigo-confirma-o-potencial-da-espectroscopia-na-amazonia.qmd
+     
+      - text: "Galeria de Fotos"
+        href: galeria.qmd         
+     
+      - text: "Contato"
+        href: contato.qmd
+        
+      - text: "Download"
+        href: download.qmd   
+  page-footer:
+    left: "© 2025-2026 Projeto SpectraPop. Todos os direitos reservados."
+    right: 
+      - href: https://ccvasconcelos.github.io/
+        text: Desenvolvido por Caroline C. Vasconcelos
+format:
+  html:
+    theme:
+      light: flatly
+      dark: superhero
+    lightbox: true
+    css: styles.css
+    toc: true
+    toc-location: right
+    toc-title: "Nesta página"
+    include-in-header: visitor-map.js

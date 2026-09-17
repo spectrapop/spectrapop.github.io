@@ -1,0 +1,315 @@
+---
+title: "Galeria de Fotos"
+editor: visual
+---
+
+::: scroll-container
+<figure>
+
+<img src="assets/photos/04_curso1.jpg"/>
+
+<figcaption>Turma do 1º Curso SpectraPop. Abr/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/05_harvard (1).jpeg"/>
+
+<figcaption>Participantes do workshop inaugural do IHerbSpec. Mai/2025.</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/05_harvard (2).jpeg"/>
+
+<figcaption>Flávia Durgante palestrando em Harvard. Mai/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/05_harvard (3).jpeg"/>
+
+<figcaption>Mike Hopkins e Flávia Durgante em Harvard. Mai/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/08_cnbot (1).jpeg"/>
+
+<figcaption>Flávia Durgante no CNBot. Ago/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/08_cnbot (3).jpeg"/>
+
+<figcaption>SpectraPop no CNBot. Ago/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/08_disciplina (1).jpeg"/>
+
+<figcaption>Flávia Durgante no PPGBot-INPA. Ago/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/08_disciplina (2).jpg"/>
+
+<figcaption>Disciplina de espectroscopia no PPGBot-INPA. Ago/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/09_herbario (1).jpeg"/>
+
+<figcaption>IC's atuando no Herbário INPA. Set/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/09_herbario (2).jpeg"/>
+
+<figcaption>IC's atuando no Herbário INPA. Set/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/09_herbario (3).jpeg"/>
+
+<figcaption>IC's atuando no Herbário INPA. Set/2025</figcaption>
+
+</figure>
+
+<figure><img src="assets/photos/09_herbario (4).jpeg"/></figure>
+
+<figure>
+
+<img src="assets/photos/10_snct (1).jpeg"/>
+
+<figcaption>Equipe do Herbário INPA na Semana Nacional de C&T do INPA. Out/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/11_pibic_eduardo.jpeg"/>
+
+<figcaption>IC's apresentando seus projetos no INPA. Nov/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/11_pibic_eliandra.jpg"/>
+
+<figcaption>IC's apresentando seus projetos no INPA. Nov/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/11_pibic_yasmin.jpeg"/>
+
+<figcaption>IC's apresentando seus projetos no INPA. Nov/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/12_curso2 (1).jpeg"/>
+
+<figcaption>Turma do 2º Curso SpectraPop. Dez/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/12_curso2 (2).jpeg"/>
+
+<figcaption>Aula prática no 2º Curso SpectraPop. Dez/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/12_curso2 (3).jpeg"/>
+
+<figcaption>Aula prática no 2º Curso SpectraPop</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/12_curso2 (4).jpeg"/>
+
+<figcaption>Aula prática no 2º Curso SpectraPop</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/12_curso2 (5).jpeg"/>
+
+<figcaption>Aula prática no 2º Curso SpectraPop</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/13_curso4.jpeg"/>
+
+<figcaption>Turma Paulo Boca durante curso realizado no sítio ATTO. Mar/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/14_disciplinaMike.jpeg"/>
+
+<figcaption>Turma de mestrado do PPGBOT conhecendo sobre os estudos espectrais. Mar/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/BEL (1.1).jpg"/>
+
+<figcaption>Minicurso no 4º ERBOT Norte. Belém-PA. Abr/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/BEL (1.2).jpeg"/>
+
+<figcaption>Visita ao Herbário IAN. Belém-PA. Abr/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/BEL (2).jpeg"/>
+
+<figcaption>4º ERBOT Norte. Belém-PA. Abr/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/BEL (3).jpeg"/>
+
+<figcaption>4º ERBOT Norte. Belém-PA. Abr/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/BEL (4).jpeg"/>
+
+<figcaption>1º Curso HerbSpectra no MPEG. Belém-PA. Mai/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/BEL (5).jpeg"/>
+
+<figcaption>Visita ao Herbário MG. Belém-PA. Mai/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/BEL (6).jpeg"/>
+
+<figcaption>Visita ao Herbário MG. Belém-PA. Mai/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/BEL (7).jpeg"/>
+
+<figcaption>1º Curso HerbSpectra no MPEG. Belém-PA. Mai/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/BEL (8).jpeg"/>
+
+<figcaption>1º Curso HerbSpectra no MPEG. Belém-PA. Mai/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/BEL (9).jpeg"/>
+
+<figcaption>
+
+</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/BEL (10).jpeg"/>
+
+<figcaption>1º Curso HerbSpectra no MPEG. Belém-PA. Mai/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/IHerbSpec Meeting MOBOT 002.jpg"/>
+
+<figcaption>IHerbSpec Research Symposium and Meeting. Missouri Botanical Garden. May 19-20, 2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/curso tefe treinamento.jpeg"/>
+
+<figcaption>Curso em Tefé, AM. Jun/2026</figcaption>
+
+</figure>
+
+
+<figure>
+
+<img src="assets/photos/cursotefe.jpeg"/>
+
+<figcaption>Curso em Tefé, AM. Jun/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/equipe spetrapop.jpeg"/>
+
+<figcaption>Equipe SpectraPop no Workshop do CFBBA. INPA, Manaus. Jun/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="assets/photos/workshop cfbba.jpeg"/>
+
+<figcaption>Participantes do Workshop do CFBBA. INPA, Manaus. Jun/2026</figcaption>
+
+</figure>
+:::

@@ -1,0 +1,133 @@
+
+---
+title: Conheça nossos alunos de Iniciação Científica (PIBIC/INPA 2025–2026)
+date: '2025-11-20'
+slug: conheca-nossos-pibics-2025
+subtitle: 'Este post apresenta um pouco sobre quem são esses jovens pesquisadores e os projetos que estão desenvolvendo no Herbário INPA'
+summary: ''
+authors:
+  - name: 'Caroline C. Vasconcelos'
+    url: 'https://ccvasconcelos.github.io/pt/'
+lastmod: '2025-11-20T22:00:00-04:00'
+
+---
+
+Na semana do dia 17 de novembro 2025, o Instituto Nacional de Pesquisas da Amazônia ([INPA](https://www.gov.br/cnpq/pt-br)) sediou a sessão de apresentações parciais do Programa Institucional de Bolsas de Iniciação ([PIBIC](https://www.gov.br/inpa/pt-br/assuntos/capacitacao/iniciacao-cientifica)) em Desenvolvimento Tecnológico e Inovação do CNPq/INPA, com participação entusiasmada dos nossos alunos na área de Botânica.
+
+O PIBIC/INPA tem como objetivo estimular os estudantes do ensino superior nas atividades, metodologias, conhecimentos e práticas próprias ao desenvolvimento tecnológico e processos de inovação. O público-alvo consiste em estudantes de graduação regularmente matriculados em Instituições de Ensino Superior, públicas e privadas, de cursos compatíveis com as áreas de abrangência propostas no programa, tais como:
+
+-   Tecnologias Estratégicas, nos seguintes setores: Espacial, Nuclear, Cibernética, e Segurança Pública e de Fronteira
+-   Tecnologias Habilitadoras, nos seguintes setores: Inteligência Artificial, Internet das Coisas, Materiais Avançados, Biotecnologia e Nanotecnologia.
+-   Tecnologias de Produção, nos seguintes setores: Indústria, Agronegócio, Comunicações, Infraestrutura e Serviços.
+-   Tecnologias para o Desenvolvimento Sustentável, nos seguintes setores: Cidades Inteligentes e Sustentáveis, Energias Renováveis, Bioeconomia, Tratamento e Reciclagem de Resíduos Sólidos, Tratamento de Poluição, Monitoramento, prevenção e recuperação de desastres naturais e ambientais, e Preservação Ambiental.
+-   Tecnologias para Qualidade de Vida, nos seguintes setores: Saúde, Saneamento Básico, Segurança Hídrica e Tecnologias Assistivas.
+
+Mantido pela da Coordenação de Capacitação, o PIBIC é uma parceria entre o INPA e o Conselho Nacional de Desenvolvimento Científico e Tecnológico ([CNPq](https://www.gov.br/cnpq/pt-br)), que atua na concessão das bolsas de pesquisa.
+
+------------------------------------------------------------------------
+
+# Eduardo Leandro Cunha
+
+<figure>
+
+<img src="/assets/photos/Eduardo.jpeg" width="800"/>
+
+<figcaption style="font-size: 0.8em;">
+
+Foto por Maria Clara Ferro (2025).
+
+</figcaption>
+
+</figure>
+
+**Instituição:** Universidade Federal do Amazonas (UFAM)
+
+**Curso:** Engenharia da Computação
+
+**Período:** 6º
+
+**Lattes:** <http://lattes.cnpq.br/2142166621987119>
+
+**Projeto desenvolvido no INPA:** Inteligência artificial aplicada à taxonomia de *Ecclinusa* (Sapotaceae): validação espectral e interoperabilidade com espectrômetros portáteis
+
+**Orientador:** Dr. Michael Hopkins
+
+**Co-orientadora:** Dra. Caroline Vasconcelos
+
+**Colaboradoras:** Dra. Flávia Durgante, Dra. Samyra Ramos e Maria Clara Ferro
+
+O trabalho do Eduardo investiga como assinaturas espectrais de folhas (obtidas em exsicatas do Herbário INPA) podem ajudar a identificar espécies do gênero *Ecclinusa*, um grupo desafiador da família Sapotaceae. O foco do projeto é testar se espectrômetros portáteis, como o ISC NIR-S-G1 (micronir), conseguem reproduzir com boa acurácia os resultados de equipamentos de alta resolução, como o ASD FieldSpec 4. Com isso, o projeto contribui para tornar a espectroscopia mais acessível a herbários tropicais, fortalecer o uso da tecnologia no INPA e ampliar nossas bibliotecas espectrais.
+
+------------------------------------------------------------------------
+
+# Eliandra Rodrigues Ferreira
+
+<figure>
+
+<img src="/assets/photos/Eliandra.jpg" width="800"/>
+
+<figcaption style="font-size: 0.8em;">
+
+Foto por Jéssica Soares (2025).
+
+</figcaption>
+
+</figure>
+
+**Instituição:** Estácio do Amazonas
+
+**Curso:** Bacharelado em Ciências Biológicas
+
+**Período:** 6º
+
+**Lattes:** <https://lattes.cnpq.br/3358526069960413>
+
+**Projeto desenvolvido no INPA:** Desenvolvimento de bibliotecas espectrais para identificação de espécies no Herbário INPA: um estudo com Fabaceae e Meliaceae
+
+**Orientador:** Dr. Michael Hopkins
+
+**Co-orientadora:** Dra. Flávia Durgante
+
+**Colaboradoras:** Dra. Caroline Vasconcelos, Dra. Samyra Ramos e Maria Clara Ferro
+
+A pesquisa da Eliandra é voltada para duas famílias de grande importância ecológica e econômica (Fabaceae e Meliaceae), incluindo espécies listadas na CITES, como *Dipteryx* (popularmente conhecidas como cumaru) e *Cedrela* (cedro). Usando espectroscopia de reflectância em exsicatas, ela está construindo uma biblioteca espectral robusta que permitirá identificar rapidamente espécies ameaçadas e apoiar a fiscalização e a curadoria taxonômica do herbário.
+
+------------------------------------------------------------------------
+
+# Yasmin Jéssica Guimarães Guedes
+
+<figure>
+
+<img src="/assets/photos/Yasmin.jpeg" width="800"/>
+
+<figcaption style="font-size: 0.8em;">
+
+Foto por Maria Clara Ferro (2025).
+
+</figcaption>
+
+</figure>
+
+**Instituição:** Universidade Federal do Amazonas (UFAM)
+
+**Curso:** Licenciatura em Biologia
+
+**Período:** 6° período
+
+**Lattes:** <https://lattes.cnpq.br/7129000327997949>
+
+**Projeto desenvolvido no INPA:** Construção de biblioteca espectral aplicada à identificação de Bignoniaceae no Herbário INPA
+
+**Orientador:** Dr. Michael Hopkins
+
+**Co-orientadora:** Dra. Flávia Durgante
+
+**Colaboradoras:** Dra. Caroline Vasconcelos, Dra. Samyra Ramos e Maria Clara Ferro
+
+A Yasmin trabalha com Bignoniaceae, uma família emblemática da flora sul-americana e que também inclui espécies sob proteção da CITES. Seu objetivo é desenvolver uma biblioteca espectral capaz de diferenciar espécies de *Handroanthus* e *Tabebuia*, grupos com alto valor madeireiro e frequente confusão taxonômica. O projeto reforça o papel dos herbários na identificação de espécies ameaçadas e abre portas para o uso de espectroscopia como ferramenta de monitoramento ambiental.
+
+------------------------------------------------------------------------
+
+Por fim, é um privilégio acompanhar a formação desses novos pesquisadores e ver como tecnologias emergentes — como espectroscopia de reflectância, aprendizado de máquina e bibliotecas digitais — estão transformando a forma como investigamos, curamos e compreendemos a biodiversidade amazônica.
+
+Parabéns aos alunos pelas apresentações e pelo comprometimento com a ciência produzida na Amazônia! 👏

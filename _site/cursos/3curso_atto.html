@@ -1,0 +1,1081 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.5.57">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Curso para Auxiliares de Campo ATTO 2026 – Projeto SpectraPop</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../assets/icons/favicon.ico" rel="icon">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script>
+
+document.addEventListener("DOMContentLoaded", function () {
+
+
+
+  const toc = document.getElementById("TOC");
+
+
+
+  if (toc) {
+
+
+
+    const visitorBox = document.createElement("div");
+
+
+
+    visitorBox.innerHTML = `
+
+      <div style="
+
+        margin-top: 35px;
+
+        padding-top: 20px;
+
+        border-top: 1px solid #dee2e6;
+
+        text-align: center;
+
+      ">
+
+        <div style="
+
+          font-size: 0.85rem;
+
+          font-weight: 600;
+
+          margin-bottom: 10px;
+
+          opacity: 0.8;
+
+        ">       
+
+        </div>
+
+      </div>
+
+    `;
+
+
+
+    toc.appendChild(visitorBox);
+
+
+
+    const script = document.createElement("script");
+
+    script.type = "text/javascript";
+
+    script.id = "mapmyvisitors";
+
+    script.src = "https://mapmyvisitors.com/map.js?d=VB4CQ-pHjslsyMmR0rw4s_DypvFk9m4uOmjvwzOeddI&cl=ffffff&w=a";
+
+
+
+    visitorBox.appendChild(script);
+
+  }
+
+
+
+});
+
+</script>
+<link href="../site_libs/htmltools-fill-0.5.8.1/fill.css" rel="stylesheet">
+
+<script src="../site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
+
+<script src="../site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+
+<link href="../site_libs/leaflet-1.3.1/leaflet.css" rel="stylesheet">
+
+<script src="../site_libs/leaflet-1.3.1/leaflet.js"></script>
+
+<link href="../site_libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet">
+
+<script src="../site_libs/proj4-2.6.2/proj4.min.js"></script>
+
+<script src="../site_libs/Proj4Leaflet-1.0.1/proj4leaflet.js"></script>
+
+<link href="../site_libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css" rel="stylesheet">
+
+<script src="../site_libs/leaflet-binding-2.2.2/leaflet.js"></script>
+
+
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../assets/logos/logo.png" alt="" class="navbar-logo">
+    </a>
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Projeto SpectraPop</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">Início</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-cursos" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Cursos</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-cursos">    
+        <li>
+    <a class="dropdown-item" href="../cursos/1curso_inpa.html">
+ <span class="dropdown-text">2025 | 1º Curso INPA</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../cursos/2curso_inpa.html">
+ <span class="dropdown-text">2025 | 2º Curso INPA</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../cursos/3curso_atto.html">
+ <span class="dropdown-text">2026 | 3º Curso ATTO</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../cursos/4curso_erbot.html">
+ <span class="dropdown-text">2026 | 4º Curso ERBOT</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../cursos/5curso_mpeg.html">
+ <span class="dropdown-text">2026 | 5º Curso MPEG</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../cursos/6curso_idsm.html">
+ <span class="dropdown-text">2026 | 6º Curso IDSM</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../producaointelectual.html"> 
+<span class="menu-text">Produção Intelectual</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../bibliotecaespectral.html"> 
+<span class="menu-text">Biblioteca Espectral</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../herbarioinpa.html"> 
+<span class="menu-text">Herbário INPA</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-blog" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Blog</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-blog">    
+        <li>
+    <a class="dropdown-item" href="../posts/spectrapop-em-um-esforco-global-de-digitalizacao-espectral.html">
+ <span class="dropdown-text">SpectraPop em um esforço global de digitalização espectral</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../posts/nasce-o-projeto-herbspectra-amazonia.html">
+ <span class="dropdown-text">Nasce o projeto HerbSpectra-Amazônia</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../posts/conheca-nossos-pibics-2025.html">
+ <span class="dropdown-text">Conheça nossos alunos de Iniciação Científica (PIBIC/INPA 2025–2026)</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../posts/novo-artigo-confirma-o-potencial-da-espectroscopia-na-amazonia.html">
+ <span class="dropdown-text">Novo artigo confirma o potencial da espectroscopia na Amazônia</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../galeria.html"> 
+<span class="menu-text">Galeria de Fotos</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../contato.html"> 
+<span class="menu-text">Contato</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../download.html"> 
+<span class="menu-text">Download</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/ccvasconcelos/spectrapop"> <i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Nesta página</h2>
+   
+  <ul>
+  <li><a href="#apresentação" id="toc-apresentação" class="nav-link active" data-scroll-target="#apresentação">Apresentação</a></li>
+  <li><a href="#detalhes-do-curso" id="toc-detalhes-do-curso" class="nav-link" data-scroll-target="#detalhes-do-curso">Detalhes do curso</a></li>
+  <li><a href="#cronograma" id="toc-cronograma" class="nav-link" data-scroll-target="#cronograma">Cronograma</a>
+  <ul class="collapse">
+  <li><a href="#visão-geral" id="toc-visão-geral" class="nav-link" data-scroll-target="#visão-geral">Visão geral</a></li>
+  <li><a href="#linha-do-tempo" id="toc-linha-do-tempo" class="nav-link" data-scroll-target="#linha-do-tempo">Linha do tempo</a></li>
+  </ul></li>
+  <li><a href="#equipe" id="toc-equipe" class="nav-link" data-scroll-target="#equipe">Equipe</a>
+  <ul class="collapse">
+  <li><a href="#comissão-organizadora" id="toc-comissão-organizadora" class="nav-link" data-scroll-target="#comissão-organizadora">Comissão organizadora</a></li>
+  <li><a href="#comunicadores-científicos" id="toc-comunicadores-científicos" class="nav-link" data-scroll-target="#comunicadores-científicos">Comunicadores científicos</a></li>
+  <li><a href="#professores" id="toc-professores" class="nav-link" data-scroll-target="#professores">Professores</a></li>
+  <li><a href="#professores-assistentes" id="toc-professores-assistentes" class="nav-link" data-scroll-target="#professores-assistentes">Professores assistentes</a></li>
+  <li><a href="#instrutores" id="toc-instrutores" class="nav-link" data-scroll-target="#instrutores">Instrutores</a></li>
+  <li><a href="#apoio-técnico" id="toc-apoio-técnico" class="nav-link" data-scroll-target="#apoio-técnico">Apoio técnico</a></li>
+  </ul></li>
+  <li><a href="#financiamento" id="toc-financiamento" class="nav-link" data-scroll-target="#financiamento">Financiamento</a></li>
+  <li><a href="#participantes" id="toc-participantes" class="nav-link" data-scroll-target="#participantes">Participantes</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Curso para Auxiliares de Campo ATTO 2026</h1>
+<p class="subtitle lead">Turma Paulo Boca</p>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="apresentação" class="level1">
+<h1>Apresentação</h1>
+<p>O curso foi desenvolvido no âmbito do <a href="..\index.html">Projeto SpectraPop</a>, com o objetivo de capacitar auxiliares de campo para atuação em pesquisas científicas na Amazônia, com foco em práticas seguras, organização de dados e coleta botânica. Realizado no sítio ATTO (Amazon Tall Tower Observatory), o curso integrou teoria e prática em ambiente real de floresta, proporcionando aos participantes uma experiência imersiva nas rotinas de campo.</p>
+<figure style="text-align:center;" class="figure">
+<p><a href="..\assets/courses/3-1.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="..\assets/courses/3-1.jpeg" class="slide img-fluid figure-img" style="display:block;"></a></p>
+<figcaption style="font-size:0.9rem; color:#555; margin-top:6px;">
+<p>Flyer de divulgação do curso para formação de Auxiliares de Campo do Projeto SpectraPop.</p>
+</figcaption>
+</figure>
+</section>
+<section id="detalhes-do-curso" class="level1">
+<h1>Detalhes do curso</h1>
+<p><strong>Onde:</strong> Sítio ATTO – Amazon Tall Tower Observatory, Reserva de Desenvolvimento Sustentável do Uatumã, São Sebastião do Uatumã, Amazonas.</p>
+<div class="cell">
+<div class="cell-output-display">
+<div class="leaflet html-widget html-fill-item" id="htmlwidget-dbf9c1d616230bd0c550" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-dbf9c1d616230bd0c550">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]}],"setView":[[-2.14855,-59.003481],14,[]]},"evals":[],"jsHooks":[]}</script>
+</div>
+</div>
+<p><strong>Data:</strong> De 23 a 30 de março de 2026.<br>
+</p>
+<p><strong>Público-alvo:</strong> Auxiliares de campo já atuantes na área e técnicos interessados em atuar como auxiliares de campo em pesquisas científicas na Amazônia, especialmente nas áreas de botânica, ecologia e coleta de dados ambientais.<br>
+</p>
+<p><strong>Número de vagas ofertadas:</strong> 20 vagas.<br>
+</p>
+<p><strong>Carga horária:</strong> 66h (com emissão de certificado de participação).<br>
+</p>
+<p><strong>Formato:</strong> Presencial, com atividades teóricas e práticas realizadas em ambiente de floresta. O curso foi estruturado em regime intensivo, com rotinas diárias de campo, atividades práticas supervisionadas e aulas expositivas no período noturno.</p>
+<p><strong>Material:</strong> Foram utilizados equipamentos de campo, materiais para coleta botânica, ferramentas de escalada, instrumentos para coleta de solo e insumos para preservação de amostras. As orientações foram fornecidas diretamente durante as atividades práticas.</p>
+</section>
+<section id="cronograma" class="level1">
+<h1>Cronograma</h1>
+<section id="visão-geral" class="level2">
+<h2 class="anchored" data-anchor-id="visão-geral">Visão geral</h2>
+<ul>
+<li>Os participantes receberam orientações sobre segurança em campo, incluindo deslocamento em trilhas, uso de equipamentos e conduta em ambiente de floresta.</li>
+<li>Foram abordados princípios de ética na coleta de material biológico, respeitando normas científicas e ambientais.</li>
+<li>As atividades incluíram rotina intensa de campo, exigindo preparo físico e adaptação às condições amazônicas.</li>
+</ul>
+</section>
+<section id="linha-do-tempo" class="level2">
+<h2 class="anchored" data-anchor-id="linha-do-tempo">Linha do tempo</h2>
+<p>Veja a programação completa:</p>
+<iframe src="../assets/documents/cronograma.pdf" width="100%" height="600px">
+</iframe>
+</section>
+</section>
+<section id="equipe" class="level1">
+<h1>Equipe</h1>
+<section id="comissão-organizadora" class="level2">
+<h2 class="anchored" data-anchor-id="comissão-organizadora">Comissão organizadora</h2>
+<p><img src="../assets/icons/user.png" width="12"> Dra. Flávia Machado Durgante (MAUA/ATTO/INPA) <a href="xxx" target="_blank"><img src="../assets/icons/lattes.png" width="18"></a></p>
+<p><img src="../assets/icons/user.png" width="12"> Dra. Samyra Ramos Chaves (MAUA/INPA) <a href="xxx" target="_blank"><img src="../assets/icons/lattes.png" width="18"></a></p>
+<p><img src="../assets/icons/user.png" width="12"> Dra. Caroline da Cruz Vasconcelos (MAUA/INPA) <a href="xxx" target="_blank"><img src="../assets/icons/lattes.png" width="18"></a></p>
+<p><img src="../assets/icons/user.png" width="12"> Me. Kaio Cesar Marinho da Cunha (MAUA/INPA) <a href="xxx" target="_blank"><img src="../assets/icons/lattes.png" width="18"></a></p>
+<p><img src="../assets/icons/user.png" width="12"> Roberta Pereira de Souza (ATTO) <a href="xxx" target="_blank"><img src="../assets/icons/lattes.png" width="18"></a></p>
+</section>
+<section id="comunicadores-científicos" class="level2">
+<h2 class="anchored" data-anchor-id="comunicadores-científicos">Comunicadores científicos</h2>
+<p><img src="../assets/icons/user.png" width="12"> Dra. Aline Radaelli Basso (ATTO) <a href="xxx" target="_blank"><img src="../assets/icons/lattes.png" width="18"></a></p>
+<p><img src="../assets/icons/user.png" width="12"> Luciano Lima Francisco (MAUA/INPA) <a href="xxx" target="_blank"><img src="../assets/icons/lattes.png" width="18"></a></p>
+</section>
+<section id="professores" class="level2">
+<h2 class="anchored" data-anchor-id="professores">Professores</h2>
+<p><img src="../assets/icons/user.png" width="12"> Dra. Caroline da Cruz Vasconcelos (MAUA/INPA) <a href="xxx" target="_blank"><img src="../assets/icons/lattes.png" width="18"></a></p>
+<p><img src="../assets/icons/user.png" width="12"> Dra. Dirce Leimi Komura (INPA) <a href="xxx" target="_blank"><img src="../assets/icons/lattes.png" width="18"></a></p>
+<p><img src="../assets/icons/user.png" width="12"> Dra. Flávia Machado Durgante (MAUA/ATTO/INPA) <a href="xxx" target="_blank"><img src="../assets/icons/lattes.png" width="18"></a></p>
+<p><img src="../assets/icons/user.png" width="12"> Me. Francisco Alcinei Gomes da Silva (ATTO) <a href="xxx" target="_blank"><img src="../assets/icons/lattes.png" width="18"></a></p>
+<p><img src="../assets/icons/user.png" width="12"> Me. Francisco Javier Farroñay Pacaya (PDBFF/INPA) <a href="xxx" target="_blank"><img src="../assets/icons/lattes.png" width="18"></a></p>
+<p><img src="../assets/icons/user.png" width="12"> Dr.&nbsp;Layon Oreste Demarchi (MAUA/INPA) <a href="xxx" target="_blank"><img src="../assets/icons/lattes.png" width="18"></a></p>
+<p><img src="../assets/icons/user.png" width="12"> Dr.&nbsp;Michael John Gilbert Hopkins (INPA) <a href="xxx" target="_blank"><img src="../assets/icons/lattes.png" width="18"></a></p>
+<p><img src="../assets/icons/user.png" width="12"> Sipko Marten Bulthuis (ATTO)</p>
+<p><img src="../assets/icons/user.png" width="12"> Dra. Vania Nobuko Yoshikawa (INPA) <a href="xxx" target="_blank"><img src="../assets/icons/lattes.png" width="18"></a></p>
+<p><img src="../assets/icons/user.png" width="12"> Me. Yago Rodrigues Santos (ATTO) <a href="xxx" target="_blank"><img src="../assets/icons/lattes.png" width="18"></a></p>
+</section>
+<section id="professores-assistentes" class="level2">
+<h2 class="anchored" data-anchor-id="professores-assistentes">Professores assistentes</h2>
+<p><img src="../assets/icons/user.png" width="12"> Alice Silva de Lima (INPA) <a href="xxx" target="_blank"><img src="../assets/icons/lattes.png" width="18"></a></p>
+<p><img src="../assets/icons/user.png" width="12"> Me. Kaio Cesar Marinho da Cunha (MAUA/INPA) <a href="xxx" target="_blank"><img src="../assets/icons/lattes.png" width="18"></a></p>
+<p><img src="../assets/icons/user.png" width="12"> Dra. Samyra Ramos Chaves (MAUA/INPA) <a href="xxx" target="_blank"><img src="../assets/icons/lattes.png" width="18"></a></p>
+<p><img src="../assets/icons/user.png" width="12"> Ma. Rafaela Araujo Ferreira Gurgel (MAUA/INPA) <a href="xxx" target="_blank"><img src="../assets/icons/lattes.png" width="18"></a></p>
+</section>
+<section id="instrutores" class="level2">
+<h2 class="anchored" data-anchor-id="instrutores">Instrutores</h2>
+<p><img src="../assets/icons/user.png" width="12"> Francisco Marques Bezerra (Auxiliar de campo)</p>
+<p><img src="../assets/icons/user.png" width="12"> Jose Francisco Tenacol Andes Jr. (Auxiliar de campo)</p>
+<p><img src="../assets/icons/user.png" width="12"> Jose Raimundo Ferreira Nunes (Auxiliar de campo/Escalador)</p>
+<p><img src="../assets/icons/user.png" width="12"> Ocirio de Souza Pereira (Auxiliar de campo)</p>
+</section>
+<section id="apoio-técnico" class="level2">
+<h2 class="anchored" data-anchor-id="apoio-técnico">Apoio técnico</h2>
+<p><img src="../assets/icons/user.png" width="12"> André Luiz Matos (Chefe de cozinha, ATTO)</p>
+<p><img src="../assets/icons/user.png" width="12"> Antonio Huxley Melo do Nascimento (Apoio logístico, ATTO)</p>
+<p><img src="../assets/icons/user.png" width="12"> Adi Vasconcelos Brandão (Auxiliar de cozinha, ATTO)</p>
+<p><img src="../assets/icons/user.png" width="12"> Valmir Ferreira Lima (Apoio logístico, ATTO)</p>
+<p><img src="../assets/icons/user.png" width="12"> Keven Muniz de Lima (Apoio logístico, ATTO)</p>
+</section>
+</section>
+<section id="financiamento" class="level1">
+<h1>Financiamento</h1>
+<p>Este curso é parte do Projeto “Popularização do uso da Assinatura Espectral da Espécie na identificação das árvores do Manejo Florestal Sustentável na Amazônia - SPECTRA POP”, financiado pela Fundação de Amparo à Pesquisa do Estado do Amazonas (FAPEAM), Edital no. 006/2024 - Mulher Faz Ciência (Processo no. 01.02.016301.04984/2024-17).</p>
+<p>O curso também contou com o apoio institucional do INPA e de suas iniciativas e estruturas vinculadas, incluindo o Projeto ATTO, ATTO Escola, Grupo MAUA e Editora INPA. Essa integração institucional fortaleceu a qualidade do curso, assegurando uma formação alinhada à pesquisa científica de excelência e às demandas reais do trabalho de campo na Amazônia.</p>
+</section>
+<section id="participantes" class="level1">
+<h1>Participantes</h1>
+<figure style="text-align:center;" class="figure">
+<p><a href="..\assets/courses/3-2.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="..\assets/courses/3-2.jpeg" class="slide img-fluid figure-img" style="display:block;"></a></p>
+<figcaption style="font-size:0.9rem; color:#555; margin-top:6px;">
+<p>Participantes do curso para formação de Auxiliares de Campo do Projeto SpectraPop, realizado no sítio ATTO, março de 2026.</p>
+</figcaption>
+</figure>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>© 2025-2026 Projeto SpectraPop. Todos os direitos reservados.</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="https://ccvasconcelos.github.io/">
+<p>Desenvolvido por Caroline C. Vasconcelos</p>
+</a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","openEffect":"zoom","selector":".lightbox","loop":false,"descPosition":"bottom"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
+
+
+
+
+</body></html>

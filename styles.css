@@ -1,0 +1,206 @@
+/* Cor de fundo do menu */
+.navbar {
+  background-color: #0e0740 !important;  
+}
+
+/* Cor do texto do menu */
+.navbar .navbar-nav .nav-link,
+.navbar .navbar-brand {
+  color: #ffffff !important;
+}
+
+/* Cor do texto quando passar o mouse */
+.navbar .navbar-nav .nav-link:hover {
+  color: #17c8d4 !important; 
+}
+
+<style>
+
+
+
+/* Layout*/
+
+.icon-card h4 {
+  color: #1f3d2b;   
+  font-weight: 700;
+  margin-top: 12px;
+}
+
+.icon-card {
+/*  border: 1px solid #2e7d32;        /* verde bem suave */
+  color: #4f5d57;     /* cinza esverdeado escuro */
+  background: white ;/* #dbead5 */
+  padding: 0rem;
+  font-weight: 320;
+  border-radius: 18px;
+  text-align: center;
+  
+}
+
+/* Força o grid a ignorar o layout de colunas do Quarto */
+.page-columns .icon-stats {
+  display: grid !important;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+
+  max-width: 1100px;
+  margin: 3rem auto;
+  padding: 0 4rem;
+}
+
+/* Fundação ocupa linha inteira */
+.text-justify {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+/* Botao visite */
+
+.cta-wrapper {
+  text-align: center;
+}
+
+.cta-button {
+  display: inline-block;
+  margin: 2rem auto;
+  padding: 14px 28px;
+  background-color: #2e7d32;
+  color: white;
+  font-weight: 600;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+/* Fundo visite o acervo */
+.cta-section {
+  background-color: #f0f7f0;
+  padding: 40px;
+  border-radius: 15px;
+  margin: 3rem 0;
+  /* Adiciona uma sombra bem suave */
+  box-shadow: 0 4px 15px rgba(0,0,0,0.05); 
+  border: 1px solid #e0eee0; /* Uma borda sutil para definir o limite */
+}
+
+/* Ajuste opcional: remove a margem do título dentro do destaque para ficar centralizado */
+.cta-section h3 {
+  margin-top: 0;
+  text-align: center;
+}
+
+
+/* Contato */
+
+.contact-list li {
+  list-style: none;
+  margin-bottom: 0.6rem;
+}
+
+.contact-list img {
+  width: 20px;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+
+/* Redes sociais */
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 32px;
+  margin-top: 24px;
+}
+
+.social-icons img {
+  width: 56px;
+  height: 56px;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.social-icons a:hover img {
+  transform: scale(1.12);
+  opacity: 0.85;
+}
+
+/* Galeria de fotos */
+.scroll-container {
+  background-color: #0e0740;
+  overflow-x: auto;
+  white-space: nowrap;
+  padding: 20px;
+  display: flex;
+  gap: 20px;
+}
+
+.scroll-container figure {
+  margin: 0;
+  text-align: center;
+  color: #17c8d4; 
+  flex-shrink: 0;
+}
+
+.scroll-container img {
+  height: 380px;
+  border-radius: 14px;
+  display: block;
+}
+
+.scroll-container figcaption {
+  margin-top: 8px;
+  font-size: 0.8rem;
+  line-height: 1.3;
+}
+
+</style>
+
+
+
+/* 🌿 Aumentar altura da barra */
+.navbar {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.navbar-brand img {
+  max-height: 80px;
+  max-width: 80px;
+}
+
+
+h1 {
+  color:#0e0740;
+  font-weight: 600;
+}
+
+h2, h3 {
+  color: #0e0740;
+  font-weight: 500;
+}
+
+
+.doi-line {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.doi-badge {
+  display: inline-flex;
+  text-decoration: none;
+  border-radius: 4px;
+  overflow: hidden;
+  vertical-align: middle;
+}
+
+.doi-label {
+  background: #555;
+  color: white;
+  padding: 3px 6px;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.doi-number {
+  background: #007ec6;
+  color: white;
+  padding: 3px 8px;
+  font-size: 13px;
+}
