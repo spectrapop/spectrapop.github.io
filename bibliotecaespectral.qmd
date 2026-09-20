@@ -2,7 +2,7 @@
 title: "Biblioteca Espectral"
 format:
   html:
-    theme: cosmo
+    theme: [cosmo, custom.scss]
 editor: 
   markdown: 
     wrap: 72

@@ -4,3 +4,6 @@
 .Ruserdata
 
 /.quarto/
+
+# Cache do projeto em inglês (_en)
+/_en/.quarto/

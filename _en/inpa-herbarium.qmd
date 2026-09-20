@@ -1,0 +1,117 @@
+---
+title: "INPA Herbarium"
+format:
+  html:
+    theme: [cosmo, ../custom.scss]
+    css: ../styles.css
+editor:
+  markdown:
+    wrap: 72
+---
+### Overview
+
+<section class="icon-stats">
+
+::: {.icon-card}
+<img src="../assets/icons/calendar.svg" alt="Founded">
+<h4>Founded in 1954</h4>
+<p>
+  Carries out activities of documentation, identification and preservation of plants, supporting teaching, scientific research and biodiversity conservation.
+</p>
+:::
+
+::: {.icon-card}
+<img src="../assets/icons/plant.svg" alt="Herbarium">
+<h4> 300,000+ records</h4>
+<p>
+  The largest herbarium in the Brazilian Amazon and the 5th largest in Brazil. Brazilian flora accounts for more than 90% of the specimens, making it a national and international reference.
+</p>
+:::
+
+::: {.icon-card}
+<img src="../assets/icons/fungi.svg" alt="Fungi">
+<h4> 30,000+ records</h4>
+<p>
+ An important reference for fungi of the Amazon region, especially macrofungi.
+</p>
+:::
+
+::: {.icon-card}
+<img src="../assets/icons/briofitas.svg" alt="Bryophytes">
+<h4> 20,000+ records</h4>
+<p>A collection of Amazonian mosses and liverworts, important for understanding the biodiversity and conservation of these groups.</p>
+:::
+
+::: {.icon-card}
+<img src="../assets/icons/wood.svg" alt="Xylarium">
+<h4> 10,000+ records</h4>
+<p>
+  The xylarium (wood collection) has great scientific, historical and cultural value, and is a reference for studies of the region's biodiversity.
+</p>
+:::
+
+::: {.icon-card}
+<img src="../assets/icons/carpo.svg" alt="Carpological collection">
+<h4> 3,000+ records</h4>
+<p>
+ The most representative carpological (fruit and seed) collection in the Amazon. It contributes significantly to the systematics of Amazonian fruits.
+</p>
+:::
+
+::: {.cta-section}
+### Visit the collection
+
+<p class="text-justify">
+The INPA Herbarium collection is currently available on the
+<strong><i>species</i>Link</strong> network platform, which brings together
+biological records from several regions of Brazil and South America.
+</p>
+
+::: cta-wrapper
+<a class="cta-button"
+     href="https://specieslink.net/search/records/col/694"
+     target="_blank"> Access the virtual collection \> </a>
+:::
+:::
+
+### Contact
+
+<ul class="contact-list">
+
+<li><img src="../assets/icons/user.svg"/>Curator: Michael J. G. Hopkins</li>
+
+<li><img src="../assets/icons/user.svg"/>Deputy curator: Vânia N. Yoshikawa</li>
+
+<li><img src="../assets/icons/user.svg"/>Manager: Mariana R. Mesquita</li>
+
+<li><img src="../assets/icons/map.svg"/> Av. André Araújo, 2936 - 69067-375 -
+Manaus, AM, Brazil</li>
+
+<li><img src="../assets/icons/phone.svg"/> +55 (92) 3643-3129</li>
+
+<li><img src="../assets/icons/email.svg"/>
+<a href="mailto:herbarioinpa@gmail.com" target="_blank">herbarioinpa@gmail.com</a></li>
+
+</ul>
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, fig.height=3.5}
+library(leaflet)
+
+leaflet() %>%
+  addTiles() %>%
+  setView(lng =  -59.986914, lat = -3.095557, zoom = 17)
+```
+
+### Social media
+
+<div class="social-icons">
+
+<a href="https://instagram.com/herbarioinpa/" target="_blank" aria-label="Instagram">
+  <img src="../assets/icons/instagram.svg" alt="Instagram">
+</a>
+
+<a href="https://www.youtube.com/@herbarioinpa9459" target="_blank" aria-label="YouTube">
+  <img src="../assets/icons/youtube.svg" alt="YouTube">
+</a>
+
+</div>

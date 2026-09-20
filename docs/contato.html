@@ -36,12 +36,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -144,6 +142,71 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 </script>
+<script>
+/*
+  Language switch (PT <-> EN).
+  Makes the "Português / English" items of the navbar language menu point to
+  the equivalent page in the other language (when it exists), instead of just
+  the home page. If a page is not listed below, the link falls back to the
+  home page of the other language (which is what _quarto.yml already sets).
+
+  When you add a new page to the site, add a line to PT_TO_EN.
+  Paths are relative to each site's root: Portuguese = site root,
+  English = /en/ (source folder _en/).
+*/
+document.addEventListener("DOMContentLoaded", function () {
+
+  var PT_TO_EN = {
+    "": "",
+    "resultados.html": "results.html",
+    "publicacoes.html": "publications.html",
+    "bibliotecaespectral.html": "spectral-library.html",
+    "herbarioinpa.html": "inpa-herbarium.html",
+    "galeria.html": "gallery.html",
+    "contato.html": "contact.html",
+    "download.html": "download.html",
+    "cursos/1curso_inpa.html": "courses/1course_inpa.html",
+    "cursos/2curso_inpa.html": "courses/2course_inpa.html",
+    "cursos/3curso_atto.html": "courses/3course_atto.html",
+    "cursos/4curso_erbot.html": "courses/4course_erbot.html",
+    "cursos/5curso_mpeg.html": "courses/5course_mpeg.html",
+    "cursos/6curso_idsm.html": "courses/6course_idsm.html",
+    "posts/spectrapop-em-um-esforco-global-de-digitalizacao-espectral.html": "posts/spectrapop-global-spectral-digitization-effort.html",
+    "posts/nasce-o-projeto-herbspectra-amazonia.html": "posts/herbspectra-amazonia-project-is-born.html",
+    "posts/conheca-nossos-pibics-2025.html": "posts/meet-our-pibic-students-2025.html",
+    "posts/novo-artigo-confirma-o-potencial-da-espectroscopia-na-amazonia.html": "posts/new-article-confirms-potential-of-spectroscopy-in-amazonia.html"
+  };
+
+  var EN_TO_PT = {};
+  Object.keys(PT_TO_EN).forEach(function (pt) { EN_TO_PT[PT_TO_EN[pt]] = pt; });
+
+  // Root of the current Quarto project (site root for PT, /en/ for EN)
+  var meta = document.querySelector('meta[name="quarto:offset"]');
+  var projectRoot = new URL(meta ? meta.content : "./", window.location.href);
+  var isEnglish = /\/en\/$/.test(projectRoot.pathname);
+  var siteRoot = isEnglish ? new URL("../", projectRoot) : projectRoot;
+  var enRoot = new URL("en/", siteRoot);
+
+  // Path of this page relative to its own project root
+  var rel = window.location.pathname.slice(projectRoot.pathname.length);
+  rel = rel.replace(/index\.html$/, "");
+  if (rel !== "" && !/\/$/.test(rel) && !/\.html$/.test(rel)) rel += ".html";
+  if (/\/$/.test(rel)) rel = "";
+
+  var target = isEnglish ? EN_TO_PT[rel] : PT_TO_EN[rel];
+  if (target === undefined) return;   // unknown page: keep the home page links
+
+  document.querySelectorAll(".navbar .dropdown-menu a.dropdown-item").forEach(function (a) {
+    var label = a.textContent || "";
+    if (!isEnglish && /English/.test(label)) {
+      a.href = new URL(target, enRoot).href;
+    } else if (isEnglish && /Portugu/.test(label)) {
+      a.href = new URL(target, siteRoot).href;
+    }
+  });
+
+});
+</script>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -172,6 +235,10 @@ document.addEventListener("DOMContentLoaded", function () {
   <li class="nav-item">
     <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Início</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./resultados.html"> 
+<span class="menu-text">Resultados</span></a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-cursos" role="link" data-bs-toggle="dropdown" aria-expanded="false">
@@ -205,8 +272,8 @@ document.addEventListener("DOMContentLoaded", function () {
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./producaointelectual.html"> 
-<span class="menu-text">Produção Intelectual</span></a>
+    <a class="nav-link" href="./publicacoes.html"> 
+<span class="menu-text">Publicações</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./bibliotecaespectral.html"> 
@@ -227,7 +294,7 @@ document.addEventListener("DOMContentLoaded", function () {
   </li>  
         <li>
     <a class="dropdown-item" href="./posts/nasce-o-projeto-herbspectra-amazonia.html">
- <span class="dropdown-text">Nasce o projeto HerbSpectra-Amazônia</span></a>
+ <span class="dropdown-text">INPA aprova proposta no CNPq: nasce o projeto HerbSpectra-Amazônia</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./posts/conheca-nossos-pibics-2025.html">
@@ -241,7 +308,7 @@ document.addEventListener("DOMContentLoaded", function () {
   </li>
   <li class="nav-item">
     <a class="nav-link" href="./galeria.html"> 
-<span class="menu-text">Galeria de Fotos</span></a>
+<span class="menu-text">Galeria</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./contato.html" aria-current="page"> 
@@ -253,6 +320,23 @@ document.addEventListener("DOMContentLoaded", function () {
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-bi-translate" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+      <i class="bi bi-translate" role="img" aria-label="Idioma">
+</i> 
+ <span class="menu-text"></span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-bi-translate">    
+        <li>
+    <a class="dropdown-item" href="./index.html">
+ <span class="dropdown-text">🇧🇷 Português</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./en/index.html">
+ <span class="dropdown-text">🇺🇸 English</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/spectrapop"> <i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
@@ -261,7 +345,6 @@ document.addEventListener("DOMContentLoaded", function () {
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
-  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -341,150 +424,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const disableStylesheet = (stylesheets) => {
-    for (let i=0; i < stylesheets.length; i++) {
-      const stylesheet = stylesheets[i];
-      stylesheet.rel = 'prefetch';
-    }
-  }
-  const enableStylesheet = (stylesheets) => {
-    for (let i=0; i < stylesheets.length; i++) {
-      const stylesheet = stylesheets[i];
-      stylesheet.rel = 'stylesheet';
-    }
-  }
-  const manageTransitions = (selector, allowTransitions) => {
-    const els = window.document.querySelectorAll(selector);
-    for (let i=0; i < els.length; i++) {
-      const el = els[i];
-      if (allowTransitions) {
-        el.classList.remove('notransition');
-      } else {
-        el.classList.add('notransition');
-      }
-    }
-  }
-  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
-    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
-    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
-    let newTheme = '';
-    if(darkModeDefault) {
-      newTheme = isAlternate ? baseTheme : alternateTheme;
-    } else {
-      newTheme = isAlternate ? alternateTheme : baseTheme;
-    }
-    const changeGiscusTheme = () => {
-      // From: https://github.com/giscus/giscus/issues/336
-      const sendMessage = (message) => {
-        const iframe = document.querySelector('iframe.giscus-frame');
-        if (!iframe) return;
-        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
-      }
-      sendMessage({
-        setConfig: {
-          theme: newTheme
-        }
-      });
-    }
-    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
-    if (isGiscussLoaded) {
-      changeGiscusTheme();
-    }
-  }
-  const toggleColorMode = (alternate) => {
-    // Switch the stylesheets
-    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
-    manageTransitions('#quarto-margin-sidebar .nav-link', false);
-    if (alternate) {
-      enableStylesheet(alternateStylesheets);
-      for (const sheetNode of alternateStylesheets) {
-        if (sheetNode.id === "quarto-bootstrap") {
-          toggleBodyColorMode(sheetNode);
-        }
-      }
-    } else {
-      disableStylesheet(alternateStylesheets);
-      toggleBodyColorPrimary();
-    }
-    manageTransitions('#quarto-margin-sidebar .nav-link', true);
-    // Switch the toggles
-    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
-    for (let i=0; i < toggles.length; i++) {
-      const toggle = toggles[i];
-      if (toggle) {
-        if (alternate) {
-          toggle.classList.add("alternate");     
-        } else {
-          toggle.classList.remove("alternate");
-        }
-      }
-    }
-    // Hack to workaround the fact that safari doesn't
-    // properly recolor the scrollbar when toggling (#1455)
-    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
-      manageTransitions("body", false);
-      window.scrollTo(0, 1);
-      setTimeout(() => {
-        window.scrollTo(0, 0);
-        manageTransitions("body", true);
-      }, 40);  
-    }
-  }
-  const isFileUrl = () => { 
-    return window.location.protocol === 'file:';
-  }
-  const hasAlternateSentinel = () => {  
-    let styleSentinel = getColorSchemeSentinel();
-    if (styleSentinel !== null) {
-      return styleSentinel === "alternate";
-    } else {
-      return false;
-    }
-  }
-  const setStyleSentinel = (alternate) => {
-    const value = alternate ? "alternate" : "default";
-    if (!isFileUrl()) {
-      window.localStorage.setItem("quarto-color-scheme", value);
-    } else {
-      localAlternateSentinel = value;
-    }
-  }
-  const getColorSchemeSentinel = () => {
-    if (!isFileUrl()) {
-      const storageValue = window.localStorage.getItem("quarto-color-scheme");
-      return storageValue != null ? storageValue : localAlternateSentinel;
-    } else {
-      return localAlternateSentinel;
-    }
-  }
-  const darkModeDefault = false;
-  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
-  // Dark / light mode switch
-  window.quartoToggleColorScheme = () => {
-    // Read the current dark / light value 
-    let toAlternate = !hasAlternateSentinel();
-    toggleColorMode(toAlternate);
-    setStyleSentinel(toAlternate);
-    toggleGiscusIfUsed(toAlternate, darkModeDefault);
-  };
-  // Ensure there is a toggle, if there isn't float one in the top right
-  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
-    const a = window.document.createElement('a');
-    a.classList.add('top-right');
-    a.classList.add('quarto-color-scheme-toggle');
-    a.href = "";
-    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
-    const i = window.document.createElement("i");
-    i.classList.add('bi');
-    a.appendChild(i);
-    window.document.body.appendChild(a);
-  }
-  // Switch to dark mode if need be
-  if (hasAlternateSentinel()) {
-    toggleColorMode(true);
-  } else {
-    toggleColorMode(false);
-  }
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {

@@ -1,0 +1,92 @@
+---
+title: "Popularization of the use of the Species Spectral Signature in the identification of trees in Sustainable Forest Management in the Amazon - SPECTRA POP"
+subtitle: "Call No. 006/2024 - Mulher Faz Ciência - FAPEAM <br> Process No. 01.02.016301.04984/2024-17"
+---
+
+# Abstract
+
+Errors in the identification of timber species affect the entire forest management production chain, from the sustainability of managing high-value commercial species for future harvest cycles to inspection and the sale and trade of timber. Thus, seeking to improve the species identification process for sustainable forest management, this proposal aims to develop and popularize the use of species spectral signatures in the identification of species of high commercial value. The combined use of high-technology instruments and appropriate techniques to discriminate tree species is necessary to improve biodiversity inventory systems in tropical countries. Near-infrared leaf spectroscopy has shown promise for discriminating plant species. We therefore intend to build a spectral herbarium, use protocols, test more accessible equipment, and train people from different groups in society. In this way, we believe in popularizing the use of this tool, developed at the National Institute for Amazonian Research (INPA), to improve the quality of identifications in forest management in the Amazon. The popularization and application of this tool will increase the sustainability of forest management in the state of Amazonas. Thus, this project aims to develop and popularize a technology that will benefit Amazonas environmentally, socially and economically.
+
+# General objective
+
+To develop and popularize the spectral herbarium (near-infrared spectroscopy) of timber and non-timber species of high commercial value, for application in sustainable forest management in the state of Amazonas.
+
+# Team members
+
+## Coordination
+
+<img src="../assets/icons/user.png" width="16"/> **Flávia M. Durgante** (MAUA/ATTO/INPA) <a href="http://lattes.cnpq.br/9866263113578229" target="_blank"><img src="../assets/icons/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-5517-8821" target="_blank"><img src="../assets/icons/orcid.png" width="18"/></a>
+
+## Collaborating researchers
+
+<img src="../assets/icons/user.png" width="16"/> **Florian Wittmann** (KIT/MAUA/ATTO) <a href="http://lattes.cnpq.br/5130662662509830" target="_blank"><img src="../assets/icons/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0001-9180-356X" target="_blank"><img src="../assets/icons/orcid.png" width="18"/></a>
+
+<img src="../assets/icons/user.png" width="16"/> **Jochen Schöngart** (MAUA/ATTO/INPA) <a href="http://lattes.cnpq.br/2468979908831549" target="_blank"><img src="../assets/icons/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-7696-9657" target="_blank"><img src="../assets/icons/orcid.png" width="18"/></a>
+
+<img src="../assets/icons/user.png" width="16"/> **Maria T. F. Piedade** (MAUA/ATTO/INPA) <a href="http://lattes.cnpq.br/0626509177712805" target="_blank"><img src="../assets/icons/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-7320-0498" target="_blank"><img src="../assets/icons/orcid.png" width="18"/></a>
+
+<img src="../assets/icons/user.png" width="16"/> **Layon O. Demarchi** (MAUA/INPA) <a href="http://lattes.cnpq.br/2504309339279053" target="_blank"><img src="../assets/icons/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0001-8441-2106" target="_blank"><img src="../assets/icons/orcid.png" width="18"/></a>
+
+<img src="../assets/icons/user.png" width="16"/> **Alberto Vicentini** (INPA) <a href="http://lattes.cnpq.br/1416853089847332" target="_blank"><img src="../assets/icons/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-5906-9358" target="_blank"><img src="../assets/icons/orcid.png" width="18"/></a>
+
+<img src="../assets/icons/user.png" width="16"/> **Michael J. G. Hopkins** (INPA) <a href="http://lattes.cnpq.br/5738793047673962" target="_blank"><img src="../assets/icons/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0001-5473-2942" target="_blank"><img src="../assets/icons/orcid.png" width="18"/></a>
+
+<img src="../assets/icons/user.png" width="16"/> **Kelly C. Torralvo** (IDSM) <a href="http://lattes.cnpq.br/8990804799144033" target="_blank"><img src="../assets/icons/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0001-8089-7652" target="_blank"><img src="../assets/icons/orcid.png" width="18"/></a>
+
+<img src="../assets/icons/user.png" width="16"/> **Rafael M. Rabelo** (IDSM) <a href="http://lattes.cnpq.br/5351330534364245" target="_blank"><img src="../assets/icons/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0001-5290-7024" target="_blank"><img src="../assets/icons/orcid.png" width="18"/></a>
+
+<img src="../assets/icons/user.png" width="16"/> **Darlene Gris** (IDSM) <a href="http://lattes.cnpq.br/9797541704067903" target="_blank"><img src="../assets/icons/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0003-1165-9997" target="_blank"><img src="../assets/icons/orcid.png" width="18"/></a>
+
+<img src="../assets/icons/user.png" width="16"/> **Caroline C. Vasconcelos** (UFAM) <a href="http://lattes.cnpq.br/1535461703335857" target="_blank"><img src="../assets/icons/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-7850-6672" target="_blank"><img src="../assets/icons/orcid.png" width="18"/></a>
+
+<img src="../assets/icons/user.png" width="16"/> **Caroline L. Mallmann** (UFSM/MAUA/INPA) <a href="http://lattes.cnpq.br/2812901246354210" target="_blank"><img src="../assets/icons/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-2967-1313" target="_blank"><img src="../assets/icons/orcid.png" width="18"/></a>
+
+## Fellows
+
+<img src="../assets/icons/user.png" width="16"/> **Samyra Ramos Chaves** (MAUA/INPA) - PhD - CNPq DTI-A fellow <a href="http://lattes.cnpq.br/1333559162162849" target="_blank"><img src="../assets/icons/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-8937-1419" target="_blank"><img src="../assets/icons/orcid.png" width="18"/></a>
+
+<img src="../assets/icons/user.png" width="16"/> **Hilana L. Hadlich** (MAUA/INPA) - PhD - CNPq DTI-B fellow <a href="http://lattes.cnpq.br/2228944258807319" target="_blank"><img src="../assets/icons/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0002-3054-8574" target="_blank"><img src="../assets/icons/orcid.png" width="18"/></a>
+
+<img src="../assets/icons/user.png" width="16"/> **Kaio Cesar M. da Cunha** (MAUA/INPA) - MSc - CNPq DTI-B fellow <a href="http://lattes.cnpq.br/2664299098538335" target="_blank"><img src="../assets/icons/lattes.png" width="18"/></a><a href="https://orcid.org/0000-0003-2197-9687" target="_blank"><img src="../assets/icons/orcid.png" width="18"/></a>
+
+<img src="../assets/icons/user.png" width="16"/> **Túlio Alex Martins da Silva** (MAUA/INPA) - PhD student - CAPES fellow <a href="http://lattes.cnpq.br/7937040274378072" target="_blank"><img src="../assets/icons/lattes.png" width="18"/></a><a href="https://orcid.org/0009-0008-2315-1932" target="_blank"><img src="../assets/icons/orcid.png" width="18"/></a>
+
+<img src="../assets/icons/user.png" width="16"/> **Maria Clara A. M. O. Ramos Ferro** (MAUA/INPA) - MSc student - CAPES fellow <a href="http://lattes.cnpq.br/8490385946321507" target="_blank"><img src="../assets/icons/lattes.png" width="18"/></a>
+
+<img src="../assets/icons/user.png" width="16"/> **Cassia Sousa Ataide** (UFAM/INPA Herbarium) - Undergraduate - CNPq PIBIC fellow <a href="http://lattes.cnpq.br/6974374662437947" target="_blank"><img src="../assets/icons/lattes.png" width="18"/></a>
+
+<img src="../assets/icons/user.png" width="16"/> **Yasmin Jéssica G. Guedes** (UFAM/INPA Herbarium) - Undergraduate - CNPq PIBIC fellow <a href="http://lattes.cnpq.br/7129000327997949" target="_blank"><img src="../assets/icons/lattes.png" width="18"/></a>
+
+### Alumni
+
+<img src="../assets/icons/user.png" width="16"/> **Eliandra Rodrigues Ferreira** (Estácio/INPA Herbarium) - Undergraduate - CNPq PIBIC fellow <a href="http://lattes.cnpq.br/3358526069960413" target="_blank"><img src="../assets/icons/lattes.png" width="18"/></a>
+
+<img src="../assets/icons/user.png" width="16"/> **Eduardo Leandro Cunha** (UFAM/INPA Herbarium) - Undergraduate - CNPq PIBIC fellow <a href="http://lattes.cnpq.br/2142166621987119" target="_blank"><img src="../assets/icons/lattes.png" width="18"/></a>
+
+# Courses offered
+
+[<img src="../assets/icons/learning.png" width="20"/>](courses/1course_inpa.qmd) **1st Course:** April 2–4, 2025 (INPA, Manaus, AM)
+
+[<img src="../assets/icons/learning.png" width="20"/>](courses/2course_inpa.qmd) **2nd Course:** December 17–19, 2025 (INPA, Manaus, AM)
+
+[<img src="../assets/icons/learning.png" width="20"/>](courses/3course_atto.qmd) **3rd Course:** March 23–30, 2026 (ATTO Site, São Sebastião do Uatumã, AM)
+
+[<img src="../assets/icons/learning.png" width="20"/>](courses/4course_erbot.qmd) **4th Course (ERBOT Norte):** April 26, 2026 (ICB/UFPA, Belém, PA)
+
+[<img src="../assets/icons/learning.png" width="20"/>](courses/5course_mpeg.qmd) **5th Course:** May 4–6, 2026 (Herbarium/Goeldi Museum, Belém, PA)
+
+[<img src="../assets/icons/learning.png" width="20"/>](courses/6course_idsm.qmd) **6th Course:** June 9–11, 2026 (Herbarium/Mamirauá Institute, Tefé, AM)
+
+# Funders
+
+The SPECTRA POP project is funded by the Amazonas State Research Support Foundation (FAPEAM), Call No. 006/2024 - Mulher Faz Ciência (Process No. 01.02.016301.04984/2024-17), and supported by the INPA Herbarium through the MCTI/FINEP/FNDCT Public Call No. 02/2016 – National Multi-User Centers.
+
+![](../assets/logos/financiadores.png)
+
+# Organized by
+
+![](../assets/logos/realizacao2.png)
+
+# Partners
+
+![](../assets/logos/parceiros.png)

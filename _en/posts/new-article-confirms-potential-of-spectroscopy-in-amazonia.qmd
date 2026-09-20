@@ -1,0 +1,65 @@
+---
+title: 'New SpectraPop project article confirms the potential of spectroscopy in the Amazon'
+date: '2025-11-24'
+slug: new-article-confirms-potential-of-spectroscopy-in-amazonia
+subtitle: 'Did you know that identifying trees in the Amazon is one of the biggest challenges for science and for forest management?'
+summary: ''
+authors:
+  - name: 'Caroline C. Vasconcelos'
+    url: 'https://ccvasconcelos.github.io/'
+lastmod: '2025-11-24T22:00:00-04:00'
+---
+
+With thousands of species and very few taxonomic specialists, identification errors are common and can harm biodiversity conservation and the forest economy. But what if we could identify a tree just by the way it reflects light?
+
+We are very proud to announce the most recent publication produced within our project! The article **“Exploring the potential of field spectroscopy for tree species identification in different Amazonian forest ecosystems”**, led by Hilana Hadlich with the participation of our coordinator Flávia Durgante and team, has just been published in the high-impact journal *Global Ecology and Conservation*.
+
+<figure>
+
+![](../../assets/photos/hilana%20e%20equipe.jpg)
+
+<figcaption style="font-size: 0.8em;">
+
+Researchers Caroline Mallmann (left) and Hilana Hadlich (right) and the field assistants, collecting bark spectra in a terra firme forest at the ATTO Site. Photo courtesy of Hilana Hadlich.
+
+</figcaption>
+
+</figure>
+
+------------------------------------------------------------------------
+
+# What did the study find?
+
+The research tested the use of a portable spectroradiometer (the ASD FieldSpec 4) to read the “spectral signature” of trees in three distinct ecosystems of Central Amazonia: terra firme forest (non-flooded upland forest), campinarana (white-sand soil forest) and igapó (flooded forest).
+
+The researchers collected data from three different parts of the trees: outer bark (directly on the trunk), inner bark (after superficially removing the outer bark), and fresh leaves.
+
+# Surprising results
+
+The study showed that spectroscopy is a powerful tool! The models were able to differentiate species with very high accuracy:
+
+• 🍃 Fresh leaves: They were the champions, with accuracy between 92.4% and 100% in species identification.
+
+• 🪵 Inner bark: It proved to be an excellent alternative for the field! Since collecting leaves high in the canopy is difficult and expensive, the inner bark reached an accuracy of 91% to 97%, almost as good as leaves and much more accessible.
+
+• 🌳 General model: One of the biggest findings was that it is possible to create a “general” model that works for all these ecosystems together, maintaining a high hit rate (up to 98% for leaves and 97% for inner bark).
+
+# Why is this important for SpectraPop?
+
+This work scientifically validates the central goal of our project: to popularize the use of spectral signatures for identifying species of high commercial value.
+
+The results prove that this technology works not only in one place, but in different types of forest, and even when tested on trees located hundreds of kilometers away (external validation). This opens the door to a future in which forest inventories will be faster, more precise and more technological, directly supporting sustainable management in the state of Amazonas.
+
+# Want to know more?
+
+This study was funded by FAPEAM (Mulher Faz Ciência call) and supported by the ATTO project (Amazon Tall Tower Observatory) and the MAUA research group (Ecology, Monitoring and Sustainable Use of Wetlands).
+
+🔗 Access the full article here: <img src="../../assets/icons/openaccess.png" width="12"/>
+<span class="doi-badge-inline">
+  <a href="https://doi.org/10.1016/j.gecco.2025.e03970" class="doi-badge" target="_blank">
+    <span class="doi-label">DOI</span>
+    <span class="doi-number">10.1016/j.gecco.2025.e03970</span>
+  </a>
+</span>
+
+Stay tuned to our blog for more news!

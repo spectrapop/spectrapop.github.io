@@ -1,0 +1,161 @@
+---
+title: "Herbarium Spectroscopy with MicroNIR"
+subtitle: "Theory and practice"
+---
+
+# Introduction
+
+Welcome!😊
+
+This course was designed to train students and professionals in the use of the portable MicroNIR spectrometer, covering everything from the initial setup of the equipment to the analysis of spectral data.
+
+Over three days of theoretical and practical activities, participants will explore the fundamentals of near-infrared (NIR) spectroscopy and its application to plant identification.
+
+In addition, the course seeks to identify practical challenges in the use of the equipment, contributing to the development of a standardized application protocol within the [SpectraPop Project](../index.qmd).
+
+# Course details
+
+**Where:** PPG-Botany classroom and INPA Herbarium, National Institute for Amazonian Research (INPA, campus I), Av. André Araújo, 2.936 - 69067-375 - Petrópolis, Manaus, Amazonas, Brazil.
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(leaflet)
+leaflet() %>%
+  addTiles %>% # Add default OpenStreetMap map tiles
+  setView(lng = -59.98748286262644, lat = -3.0950992004397473, zoom = 17)
+```
+
+**Date:** December 17–19, 2025.\
+
+**Target audience:** Students and professionals involved in the herbarium/reference collection workflow who are interested in using portable spectroscopy for scientific research.\
+
+**Number of places:** 20 (in-person places).\
+
+**Course load:** 18 h (a certificate of participation will be issued).\
+
+**Format:** Hybrid, with theoretical classes given in a virtual environment (with the option of attending in person in a classroom at INPA) and practical classes exclusively in person. Four laptops will be available for the practical activities, and participants will be organized into four groups.
+
+**Material:** Slides, *scripts* and data obtained during the course will be made available directly to the students or via [GitHub](https://github.com/ccvasconcelos/spectrapop).
+
+**Important notes:**
+
+-   External participants must present a photo ID (e.g., national ID card) and inform staff at any INPA gate that they are [taking part in a training at the INPA Herbarium]{.underline}.
+
+-   At the end of the course, each participant must fill in an evaluation form to assess the training and to give suggestions for improving the MicroNIR usage protocol, which will later be made available to the entire interested community.
+
+# Schedule
+
+## Overview
+
+The course activities will take place over three consecutive days, from Wednesday to Friday.
+
+Morning sessions will run from 9:00 am to 12:00 pm (Amazonas standard time).
+
+Afternoon sessions will run from 2:00 pm to 5:00 pm (Amazonas standard time).
+
+## Timeline
+
+### Day 1 (Wednesday, Dec 17)
+
+#### Morning (Flávia)
+
+Theoretical fundamentals of NIR spectroscopy and its applications
+
+Link to join the class: <https://meet.jit.si/CursoSpectraPop>
+
+Link to the attendance list: <https://forms.gle/a2zAf1EhNPwFJcek6>
+
+Video: Tour of the Electromagnetic Spectrum (NASA): <https://www.youtube.com/watch?v=2p7FPFvu_j0>
+
+#### Afternoon (Caroline)
+
+-   Presentation of the NIR-S-G1 device (MicroNIR, InnoSpectra Corp.) and accessories
+
+-   Setting up the ISC-NIRScan GUI app (*laptop* and *smartphone*)
+
+-   Calibration, spectral data collection and the care needed when acquiring spectra
+
+-   Understanding the output files
+
+Link to the attendance list: <https://forms.gle/UUx6esK5UtvfUoNs5>
+
+### Day 2 (Thursday, Dec 18)
+
+#### Morning (Luiz and Caroline)
+
+Operating the MicroNIR and practical exercise in spectra acquisition.
+
+Obtaining metadata associated with herbarium specimens.
+
+Link to the attendance list: <https://forms.gle/fWo12i6eGNRvphZ38>
+
+#### Afternoon (Caroline)
+
+-   Installing the required libraries
+
+-   How to import spectral readings into R
+
+-   How to visualize spectra and assess the quality of spectral data
+
+-   How to prepare datasets for analysis
+
+Link to the attendance list: <https://forms.gle/6rTMCeVAexLfMfeN8>
+
+### Day 3 (Friday, Dec 19)
+
+#### Morning (Flávia)
+
+Theoretical fundamentals of NIR spectroscopy and its applications
+
+Link to join the class: <https://meet.jit.si/CursoSpectraPop>
+
+Link to the attendance list: <https://forms.gle/TzM6XT7Y8AfPhQ8F7>
+
+#### Afternoon (Caroline)
+
+-   Discriminant analysis (LDA) with Leave-One-Out (LOO) cross-validation
+
+-   Basic model evaluation (accuracy and confusion matrix)
+
+-   Fill in the course evaluation form
+
+Link to the attendance list: <https://forms.gle/metm2uActUHtmSZr7>
+
+Link to the feedback form: <https://forms.gle/GPvYc9k3WZgeBdXX8>
+
+![](../../assets/images/programacao.png)
+
+# Organizing and training team
+
+<img src="../../assets/icons/user.png" width="12"/> Prof. Dr. Flávia Durgante (SpectraPop Project Coordinator), KIT/INPA/MAUA/ATTO <a href="http://lattes.cnpq.br/9866263113578229" target="_blank"><img src="../../assets/icons/lattes.png" width="18"/></a>
+
+<img src="../../assets/icons/user.png" width="12"/> Dr. Caroline Vasconcelos (SpectraPop Project fellow), INPA <a href="http://lattes.cnpq.br/1535461703335857" target="_blank"><img src="../../assets/icons/lattes.png" width="18"/></a>
+
+<img src="../../assets/icons/user.png" width="12"/> Prof. Dr. Michael Hopkins (Collaborator), INPA Herbarium Curation <a href="http://lattes.cnpq.br/5738793047673962" target="_blank"><img src="../../assets/icons/lattes.png" width="18"/></a>
+
+<img src="../../assets/icons/user.png" width="12"/> Dr. Samyra Ramos (Collaborator), INPA <a href="http://lattes.cnpq.br/1333559162162849" target="_blank"><img src="../../assets/icons/lattes.png" width="18"/></a>
+
+<img src="../../assets/icons/user.png" width="12"/> MSc Kaio Cunha (Collaborator), INPA <a href="http://lattes.cnpq.br/2664299098538335" target="_blank"><img src="../../assets/icons/lattes.png" width="18"/></a>
+
+<img src="../../assets/icons/user.png" width="12"/> MSc Luiz Melo (Collaborator), INPA <a href="http://lattes.cnpq.br/0848738423393318" target="_blank"><img src="../../assets/icons/lattes.png" width="18"/></a>
+
+# Funding
+
+This course is part of the Project “Popularization of the use of the Species Spectral Signature in the identification of trees in Sustainable Forest Management in the Amazon - SPECTRA POP”, funded by the Amazonas State Research Support Foundation (FAPEAM), Call No. 006/2024 - Mulher Faz Ciência (Process No. 01.02.016301.04984/2024-17), and supported by the INPA Herbarium through the MCTI/FINEP/FNDCT Public Call No. 02/2016 – National Multi-User Centers.
+
+# Participants
+
+<figure style="text-align:center;">
+
+![](../../assets/courses/2.jpeg){.slide style="display:block;"}
+
+<figcaption style="font-size:0.9rem; color:#555; margin-top:6px;">
+
+Participants of the 2nd SpectraPop Project Course, INPA Herbarium, December 2025.
+
+</figcaption>
+
+</figure>
+
+# Certificates
+
+To generate your certificate, fill in the form: <https://forms.gle/XGg3XCmdMGUPxqCq9>

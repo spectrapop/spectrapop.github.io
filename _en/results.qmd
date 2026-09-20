@@ -1,0 +1,42 @@
+---
+title: "Project results"
+execute:
+  warning: false
+---
+
+```{r}
+#| include: false
+lang <- "en"
+source("../dados/resultados.R", encoding = "UTF-8")
+r    <- resultados_dados()
+```
+
+An overview of what the SpectraPop Project has delivered so far: people trained, the spectral collection built and scientific output. The numbers of courses, people trained, supervised students and output are counted automatically from the Publications page. Updated in `r resultados_data_texto(lang)`.
+
+## Training people
+
+```{r}
+#| echo: false
+#| output: asis
+resultados_cards(r, c("cursos", "treinados", "estudantes"), lang)
+```
+
+## Spectral collection and tools
+
+```{r}
+#| echo: false
+#| output: asis
+resultados_cards(r, c("espectros", "especies", "exsicatas", "apps"), lang)
+```
+
+Explore the spectral library on the [Spectral Library](spectral-library.qmd) page.
+
+## Scientific output and outreach
+
+```{r}
+#| echo: false
+#| output: asis
+resultados_cards(r, c("artigos", "preprints", "livros", "resumos", "palestras", "eventos"), lang)
+```
+
+The full list, with links and DOIs, is on the [Publications](publications.qmd) page.

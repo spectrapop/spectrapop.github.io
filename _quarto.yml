@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  # Renders the English version (folder _en/ -> docs/en/) after the main site.
+  post-render:
+    - render-en.R
 
 website:
   title: "Projeto SpectraPop"
@@ -8,14 +11,26 @@ website:
 
   navbar:
     logo: assets/logos/logo.png
-    right: 
+    
+    right:
+      - icon: translate
+        aria-label: "Idioma"
+        menu:
+          - text: "🇧🇷 Português"
+            href: index.qmd
+          - text: "🇺🇸 English"
+            href: en/index.html
+      
       - icon: github
         href: https://github.com/spectrapop
         aria-label: GitHub
     left:
       - text: "Início"
         href: index.qmd
-        
+
+      - text: "Resultados"
+        href: resultados.qmd
+
       - text: "Cursos"
         menu:
           - text: "2025 | 1º Curso INPA"
@@ -31,8 +46,8 @@ website:
           - text: "2026 | 6º Curso IDSM"
             href: cursos/6curso_idsm.qmd
         
-      - text: "Produção Intelectual"
-        href: producaointelectual.qmd
+      - text: "Publicações"
+        href: publicacoes.qmd
       
       - text: "Biblioteca Espectral"
         href: bibliotecaespectral.qmd
@@ -45,7 +60,7 @@ website:
           - text: "SpectraPop em um esforço global de digitalização espectral"
             href: posts/spectrapop-em-um-esforco-global-de-digitalizacao-espectral.qmd
             
-          - text: "Nasce o projeto HerbSpectra-Amazônia"
+          - text: "INPA aprova proposta no CNPq: nasce o projeto HerbSpectra-Amazônia"
             href: posts/nasce-o-projeto-herbspectra-amazonia.qmd
             
           - text: "Conheça nossos alunos de Iniciação Científica (PIBIC/INPA 2025–2026)"
@@ -54,7 +69,7 @@ website:
           - text: "Novo artigo confirma o potencial da espectroscopia na Amazônia"
             href: posts/novo-artigo-confirma-o-potencial-da-espectroscopia-na-amazonia.qmd
      
-      - text: "Galeria de Fotos"
+      - text: "Galeria"
         href: galeria.qmd         
      
       - text: "Contato"
@@ -69,12 +84,14 @@ website:
         text: Desenvolvido por Caroline C. Vasconcelos
 format:
   html:
-    theme:
-      light: flatly
-      dark: superhero
-    lightbox: true
+    theme: [flatly, custom.scss]
+    lightbox: false
     css: styles.css
     toc: true
     toc-location: right
     toc-title: "Nesta página"
-    include-in-header: visitor-map.js
+    include-in-header:
+      - visitor-map.js
+      - lang-switch.js
+resources:
+  - _redirects

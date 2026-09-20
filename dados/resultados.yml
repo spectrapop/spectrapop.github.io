@@ -1,0 +1,22 @@
+# =============================================================================
+# Números da página "Resultados" que NÃO podem ser contados automaticamente.
+# Edite aqui, salve e renderize o site (Render Website).
+#
+# Já são contados sozinhos, a partir de publicacoes.qmd (PT):
+# cursos oficiais, minicursos, pessoas capacitadas (soma dos "Pessoas
+# capacitadas: N" de cursos, minicursos e disciplinas), artigos, preprints,
+# livros, resumos, palestras, eventos, aplicações web e estudantes.
+# =============================================================================
+
+# Números vindos do dashboard / banco de dados espectral.
+# Deixe vazio para ocultar o cartão.
+espectros_coletados:      # nº total de espectros coletados
+especies_com_espectros:   # nº de espécies com pelo menos um espectro
+exsicatas:                # nº de exsicatas amostradas
+
+# Se algum número automático estiver errado, force um valor aqui.
+# Chaves possíveis: artigos, preprints, livros, resumos, palestras, eventos, apps,
+# doutorado, mestrado, graduacao, cursos_total, treinados. Exemplo:
+#   override:
+#     eventos: 10
+override:

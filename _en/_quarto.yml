@@ -1,0 +1,97 @@
+# English version of the SpectraPop site.
+# This is a nested Quarto project: it is rendered by `render-en.R`
+# (called automatically as a post-render step of the main site) and its
+# output goes to docs/en/, i.e. https://spectrapop.github.io/en/
+project:
+  type: website
+  output-dir: ../docs/en
+
+website:
+  title: "SpectraPop Project"
+  favicon: ../assets/icons/favicon.ico
+
+  navbar:
+    logo: ../assets/logos/logo.png
+
+    right:
+      - icon: translate
+        aria-label: "Language"
+        menu:
+          - text: "🇧🇷 Português"
+            href: ../index.html
+          - text: "🇺🇸 English"
+            href: index.qmd
+
+      - icon: github
+        href: https://github.com/spectrapop
+        aria-label: GitHub
+    left:
+      - text: "Home"
+        href: index.qmd
+
+      - text: "Results"
+        href: results.qmd
+
+      - text: "Courses"
+        menu:
+          - text: "2025 | 1st INPA Course"
+            href: courses/1course_inpa.qmd
+          - text: "2025 | 2nd INPA Course"
+            href: courses/2course_inpa.qmd
+          - text: "2026 | 3rd ATTO Course"
+            href: courses/3course_atto.qmd
+          - text: "2026 | 4th ERBOT Course"
+            href: courses/4course_erbot.qmd
+          - text: "2026 | 5th MPEG Course"
+            href: courses/5course_mpeg.qmd
+          - text: "2026 | 6th IDSM Course"
+            href: courses/6course_idsm.qmd
+
+      - text: "Publications"
+        href: publications.qmd
+
+      - text: "Spectral Library"
+        href: spectral-library.qmd
+
+      - text: "INPA Herbarium"
+        href: inpa-herbarium.qmd
+
+      - text: "Blog"
+        menu:
+          - text: "SpectraPop in a global effort for spectral digitization"
+            href: posts/spectrapop-global-spectral-digitization-effort.qmd
+
+          - text: "INPA wins CNPq funding: the HerbSpectra-Amazônia project is born"
+            href: posts/herbspectra-amazonia-project-is-born.qmd
+
+          - text: "Meet our undergraduate research students (PIBIC/INPA 2025–2026)"
+            href: posts/meet-our-pibic-students-2025.qmd
+
+          - text: "New article confirms the potential of spectroscopy in the Amazon"
+            href: posts/new-article-confirms-potential-of-spectroscopy-in-amazonia.qmd
+
+      - text: "Gallery"
+        href: gallery.qmd
+
+      - text: "Contact"
+        href: contact.qmd
+
+      - text: "Download"
+        href: download.qmd
+  page-footer:
+    left: "© 2025-2026 SpectraPop Project. All rights reserved."
+    right:
+      - href: https://ccvasconcelos.github.io/
+        text: Developed by Caroline C. Vasconcelos
+
+format:
+  html:
+    theme: [flatly, ../custom.scss]
+    lightbox: false
+    css: ../styles.css
+    toc: true
+    toc-location: right
+    toc-title: "On this page"
+    include-in-header:
+      - ../visitor-map.js
+      - ../lang-switch.js

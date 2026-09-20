@@ -1,0 +1,52 @@
+---
+title: "Download"
+editor: visual
+---
+
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
+<div style="border:1px solid #ddd; padding:18px; border-radius:12px; width:220px; text-align:center;">
+<svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#0e0740" stroke-width="1.5"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
+<p><strong>Institutional logos</strong></p>
+<a href="https://drive.google.com/drive/folders/1VcvIPrWsnVVJCqdQ0rwC2YPsA01Ch-sx?usp=sharing" target="_blank" style="background-color:#0e0740; color:white; padding:10px 16px; border-radius:6px; text-decoration:none;">Download</a>
+</div>
+<div style="border:1px solid #ddd; padding:18px; border-radius:12px; width:220px; text-align:center;">
+<svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#0e0740" stroke-width="1.5"><ellipse cx="12" cy="5" rx="8" ry="3"/><path d="M4 5v6c0 1.7 3.6 3 8 3s8-1.3 8-3V5"/></svg>
+<p><strong>CursoERBOT2026v1.0</strong></p>
+<a href="https://drive.google.com/drive/folders/161p2ZrMnvdCHPFBxl7hZD7A49xBdSYev?usp=sharing" target="_blank" style="background-color:#0e0740; color:white; padding:10px 16px; border-radius:6px; text-decoration:none;">Download</a>
+</div>
+<div style="border:1px solid #ddd; padding:18px; border-radius:12px; width:220px; text-align:center;">
+<svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#0e0740" stroke-width="1.5"><ellipse cx="12" cy="5" rx="8" ry="3"/><path d="M4 5v6c0 1.7 3.6 3 8 3s8-1.3 8-3V5"/></svg>
+<p><strong>CursoGoeldi2026v1.0</strong></p>
+<a href="#" target="_blank" style="background-color:#0e0740; color:white; padding:10px 16px; border-radius:6px; text-decoration:none;">Coming soon</a>
+</div>
+<div style="border:1px solid #ddd; padding:18px; border-radius:12px; width:220px; text-align:center;">
+<svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#0e0740" stroke-width="1.5"><circle cx="12" cy="12" r="9"/><text x="12" y="16" text-anchor="middle" font-size="8" fill="#0e0740"></text></svg>
+<p><strong>R (base)</strong></p>
+<a href="https://cran.r-project.org/" target="_blank" style="background-color:#0e0740; color:white; padding:10px 16px; border-radius:6px; text-decoration:none;">Download</a>
+</div>
+<div style="border:1px solid #ddd; padding:18px; border-radius:12px; width:220px; text-align:center;">
+<svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#0e0740" stroke-width="1.5"><rect x="3" y="4" width="18" height="14"/><line x1="3" y1="9" x2="21" y2="9"/></svg>
+<p><strong>RStudio</strong></p>
+<a href="https://posit.co/download/rstudio-desktop/" target="_blank" style="background-color:#0e0740; color:white; padding:10px 16px; border-radius:6px; text-decoration:none;">Download</a>
+</div>
+<div style="border:1px solid #ddd; padding:18px; border-radius:12px; width:220px; text-align:center;">
+<svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#0e0740" stroke-width="1.5"><path d="M14 7l3-3 3 3-3 3z"/><path d="M2 22l6-6"/></svg>
+<p><strong>Rtools</strong></p>
+<a href="https://cran.r-project.org/bin/windows/Rtools/" target="_blank" style="background-color:#0e0740; color:white; padding:10px 16px; border-radius:6px; text-decoration:none;">Download</a>
+</div>
+<div style="border:1px solid #ddd; padding:18px; border-radius:12px; width:220px; text-align:center;">
+<svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#0e0740" stroke-width="1.5"><path d="M2 12h20"/><path d="M4 8c2-2 6-2 8 0s6 2 8 0"/></svg>
+<p><strong>ISCNIR Scan</strong></p>
+<a href="https://drive.google.com/drive/folders/1gZbpwea3qfhBDjIe8fa_3sOy5WFDn8S5?usp=drive_link" target="_blank" style="background-color:#0e0740; color:white; padding:10px 16px; border-radius:6px; text-decoration:none;">Download</a>
+</div>
+<div style="border:1px solid #ddd; padding:18px; border-radius:12px; width:220px; text-align:center;">
+<svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#0e0740" stroke-width="1.5"><ellipse cx="12" cy="5" rx="8" ry="3"/><path d="M4 5v6c0 1.7 3.6 3 8 3s8-1.3 8-3V5"/></svg>
+<p><strong>INPA Protocol</strong></p>
+<a href="#" target="_blank" style="background-color:#0e0740; color:white; padding:10px 16px; border-radius:6px; text-decoration:none;">Under construction</a>
+</div>
+<div style="border:1px solid #ddd; padding:18px; border-radius:12px; width:220px; text-align:center;">
+<svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#0e0740" stroke-width="1.5"><ellipse cx="12" cy="5" rx="8" ry="3"/><path d="M4 5v6c0 1.7 3.6 3 8 3s8-1.3 8-3V5"/></svg>
+<p><strong>IHerbSpec Protocol</strong></p>
+<a href="https://iherbspec.github.io/protocol.html" target="_blank" style="background-color:#0e0740; color:white; padding:10px 16px; border-radius:6px; text-decoration:none;">Access</a>
+</div>
+</div>

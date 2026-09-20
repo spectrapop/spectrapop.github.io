@@ -1,0 +1,195 @@
+---
+title: 'INPA wins CNPq funding: the HerbSpectra-Amazônia project is born'
+date: '2025-11-20'
+slug: herbspectra-amazonia-project-is-born
+subtitle: 'Good news is coming from the forest!'
+summary: ''
+authors:
+  - name: 'Caroline C. Vasconcelos'
+    url: 'https://ccvasconcelos.github.io/'
+lastmod: '2025-11-20T22:00:00-04:00'
+editor:
+  markdown:
+    wrap: 72
+---
+
+CNPq recently announced the results of the [Call MCTI/CNPq No. 03/2025 -
+Pró-Amazônia](http://memoria2.cnpq.br/web/guest/chamadas-publicas?p_p_id=resultadosportlet_WAR_resultadoscnpqportlet_INSTANCE_0ZaM&filtro=abertas&detalha=chamadaDivulgada&idDivulgacao=12865),
+and the National Institute for Amazonian Research (INPA) had three
+proposals approved — among them, one that fills us with pride: the
+project **"Amazonian Spectral Herbaria Network: Spectroscopy and
+artificial intelligence for the automated identification of biodiversity
+in Amazonian herbaria – HerbSpectra-Amazônia"**, coordinated by Dr.
+Flávia Durgante, whose team and objectives are directly connected to the
+spirit of SpectraPop.
+
+This approval is a milestone for the modernization of Amazonian botanical
+collections and for the advancement of spectroscopy as a complementary
+tool for identifying biodiversity. And, of course, it is a great
+collective achievement for all the Brazilian and international partner
+institutions involved.
+
+![Collaborative network for building spectral herbaria of the
+Amazon.](../../assets/images/mapa-herbspectra-amazonia.png){fig-align="center"
+width="800"}
+
+------------------------------------------------------------------------
+
+# What is HerbSpectra-Amazônia?
+
+The project proposes something unprecedented in Brazil: creating the
+first international network of Amazonian herbaria equipped with NIR
+spectroscopy technology and trained to standardize the spectral reading
+of plants in scientific collections.
+
+The central idea is simple: to digitize, in a standardized and accessible
+way, the spectral signatures of Amazonian plants; to train artificial
+intelligence algorithms to recognize species automatically; and to
+modernize botanical taxonomy, making it faster, more reproducible and
+aligned with emerging digital technologies.
+
+For a biome with more than 15 thousand plant species, where traditional
+identification demands time, specialists and ideal conditions, the
+combination of AI + spectroscopy can change everything.
+
+# An Amazonian and international collaboration network
+
+The proposal was submitted with the support of 16 national and
+international institutions, showing the reach and relevance of the
+initiative. The network of executing herbaria includes:
+
+## Five Brazilian herbaria
+
+-   INPA – National Institute for Amazonian Research (Manaus,
+    Amazonas) - coordinating hub
+
+-   HSTM Herbarium – Federal University of Western Pará (Santarém,
+    Pará)
+
+-   MG Herbarium – Museu Paraense Emílio Goeldi (Belém, Pará)
+
+-   UFACPZ Herbarium – Federal University of Acre (Rio Branco, Acre)
+
+-   UFRR Herbarium – Federal University of Roraima (Boa Vista, Roraima)
+
+## Five herbaria from ACTO countries (Bolivia, Colombia, Peru and Ecuador)
+
+All have already expressed interest in digitizing their collections, some
+even starting to acquire MicroNIR spectrometers.
+
+-   COAH Herbarium – Instituto Amazónico de Investigaciones Científicas
+    SINCHI (Bogotá, Colombia)
+-   HUTI Herbarium – Universidad Tecnológica Indoamérica (Quito, Ecuador)
+-   LPB Herbarium – Instituto de Ecología de la Universidad Mayor de San
+    Andrés/ Museo Nacional de Historia Natural (La Paz, Bolivia)
+-   QCNE Herbarium – Museo Ecuatoriano de Ciencias Naturales del
+    Instituto Nacional de Biodiversidad (Quito, Ecuador)
+-   TKN Herbarium – Instituto de Investigación de la Universidad Nacional
+    Jorge Basadre Grohmann (Tacna, Peru)
+
+## And more:
+
+Leading international institutions that are members of
+[iHerbSpec](https://iherbspec.github.io/), such as the Harvard
+University Herbaria, the Missouri Botanical Garden, Aarhus University and
+the Karlsruhe Institute of Technology, also take part, offering
+expertise, training and global standardization.
+
+# Why does this matter?
+
+The Amazon is one of the most diverse regions on the planet — but also one
+of the most challenging for taxonomists. Near-infrared (NIR)
+spectroscopy:
+
+-   is fast
+
+-   is non-destructive
+
+-   is less costly than DNA-based methods
+
+-   and is able to recognize chemical and physical characteristics of
+    plants with impressive precision.
+
+Recent research shows that spectral signatures can corroborate molecular
+results, predict functional traits and even identify species with high
+accuracy.
+
+With thousands of samples being digitized in different Amazonian herbaria,
+the project will create the largest spectral database of the Amazonian
+flora, something unprecedented on a global scale.
+
+# And the AI models?
+
+Another central axis of the project will be the development of machine
+learning models — from Random Forest to neural networks and deep learning
+— to recognize species, predict functional traits and test the
+transferability of the models between herbaria in different countries.
+
+The team also plans:
+
+-   the use of XAI (SHAP, LIME) to interpret models
+
+-   documented pipelines published on GitHub and Zenodo
+
+-   a minimum accuracy of 85% in species identification
+
+A true technological revolution for Amazonian botany!
+
+# Training for the whole Amazon
+
+The project has a strong training component, including:
+
+-   online courses (in Portuguese and Spanish) on herbarium spectroscopy
+
+-   in-person workshops in nine Amazonian herbaria
+
+-   seminars on AI and biodiversity
+
+-   a 40-hour international course on AI applied to biodiversity
+
+-   creation of materials for science outreach and technical training
+
+> ***In other words: the project not only does science, it also trains
+> people, builds networks and modernizes entire collections.***
+
+# A bit of what we will deliver
+
+HerbSpectra-Amazônia foresees, among other products:
+
+-   A consolidated international network of spectral herbaria
+
+-   Training of more than 100 people
+
+-   A standardized spectral database
+
+-   AI models for species identification
+
+-   Scientific publications and reproducible scripts
+
+-   A closing international workshop
+
+The schedule spans 24 months, with lasting impact for the whole Amazon
+region.
+
+# Why is this also a victory for SpectraPop?
+
+SpectraPop, funded by FAPEAM, has been fundamental in popularizing the use
+of plant spectroscopy in the Amazon, testing accessible equipment such as
+the MicroNIR and bringing the technique to students, technicians and
+communities.
+
+Now, with HerbSpectra-Amazônia, this impact is multiplied: what began as
+a pioneering effort in Manaus becomes a pan-Amazonian network.
+
+# Let's celebrate together!
+
+With pride and enthusiasm, we celebrate this achievement alongside INPA
+and all the partners.
+
+HerbSpectra-Amazônia represents the future of Amazonian botany — a future
+that is faster, more integrative, more technological and more
+collaborative. Soon we will share news: training sessions, workshops,
+courses and the behind-the-scenes of building this mega-project.
+
+Amazonian science remains alive, strong and innovative. And we keep
+going together, illuminating biodiversity… one spectrum at a time.😅

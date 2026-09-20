@@ -2,7 +2,7 @@
 title: "Herbário INPA"
 format:
   html:
-    theme: cosmo
+    theme: [cosmo, custom.scss]
     css: styles.css
 editor: 
   markdown: 
@@ -90,7 +90,7 @@ Manaus, AM, Brasil</li>
 <li><img src="/assets/icons/phone.svg"/> +55 (92) 3643-3129</li>
 
 <li><img src="/assets/icons/email.svg"/>
-<a href="mailto:herbarioinpa\@gmail.com" target="_blank">herbarioinpa\@gmail.com</a></li>
+<a href="mailto:herbarioinpa@gmail.com" target="_blank">herbarioinpa@gmail.com</a></li>
 
 </ul>
 
