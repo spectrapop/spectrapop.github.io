@@ -5,6 +5,9 @@
 project:
   type: website
   output-dir: ../docs/en
+  # Apaga o cache da página de Resultados antes de renderizar (ver o script).
+  pre-render:
+    - ../dados/limpar-cache.R
 
 website:
   title: "SpectraPop Project"

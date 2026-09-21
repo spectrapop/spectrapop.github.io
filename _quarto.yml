@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  # Apaga o cache da página de Resultados antes de renderizar (ver o script).
+  pre-render:
+    - dados/limpar-cache.R
   # Renders the English (_en/ -> docs/en/) and Spanish (_es/ -> docs/es/) versions
   # after the main site.
   post-render:
