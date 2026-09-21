@@ -1,0 +1,366 @@
+[
+  {
+    "objectID": "resultados.html",
+    "href": "resultados.html",
+    "title": "Resultados del proyecto",
+    "section": "",
+    "text": "Un panorama de lo que el Proyecto SpectraPop ha logrado hasta ahora: personas formadas, acervo espectral construido y producción científica. Las cifras de cursos, personas capacitadas, estudiantes asesorados y producción se calculan automáticamente a partir de la página de Publicaciones. Actualizado en septiembre de 2026."
+  },
+  {
+    "objectID": "resultados.html#formación-de-personas",
+    "href": "resultados.html#formación-de-personas",
+    "title": "Resultados del proyecto",
+    "section": "Formación de personas",
+    "text": "Formación de personas\n\n\n\n7\nCursos y minicursos\n5 cursos oficiales · 2 minicursos en eventos\n\n\n\n105\nPersonas capacitadas\n61 en cursos · 34 en minicursos · 10 en un curso de posgrado\n\n\n\n8\nEstudiantes asesorados\n3 doctorado · 1 maestría · 4 pregrado"
+  },
+  {
+    "objectID": "resultados.html#acervo-y-herramientas-espectrales",
+    "href": "resultados.html#acervo-y-herramientas-espectrales",
+    "title": "Resultados del proyecto",
+    "section": "Acervo y herramientas espectrales",
+    "text": "Acervo y herramientas espectrales\n\n\n\n3\nAplicaciones web\ndashboard y lectores de espectros\n\n\n\nExplore la biblioteca espectral en la página Biblioteca espectral."
+  },
+  {
+    "objectID": "resultados.html#producción-científica-y-divulgación",
+    "href": "resultados.html#producción-científica-y-divulgación",
+    "title": "Resultados del proyecto",
+    "section": "Producción científica y divulgación",
+    "text": "Producción científica y divulgación\n\n\n\n4\nArtículos científicos\n\n\n\n2\nPreprints\n\n\n\n1\nLibros e informes\n\n\n\n9\nResúmenes en eventos\n\n\n\n4\nConferencias y simposios\n\n\n\n9\nEventos científicos\ncon participación del proyecto\n\n\n\nLa lista completa, con enlaces y DOI, está en la página Publicaciones."
+  },
+  {
+    "objectID": "posts/spectrapop-en-un-esfuerzo-global-de-digitalizacion-espectral.html",
+    "href": "posts/spectrapop-en-un-esfuerzo-global-de-digitalizacion-espectral.html",
+    "title": "SpectraPop en un esfuerzo global de digitalización espectral",
+    "section": "",
+    "text": "El estudio, titulado “Next-generation specimen digitization: capturing reflectance spectra from the world’s herbaria for modeling plant biology across time, space, and taxa”, en español “Digitalización de especímenes de nueva generación: captura de espectros de reflectancia de los herbarios del mundo para modelar la biología vegetal a lo largo del tiempo, el espacio y los taxones”, acaba de ser publicado en la revista de alto impacto New Phytologist y reúne a investigadores de diversas instituciones de todo el mundo, entre ellos Flávia Durgante, Michael (Mike) Hopkins y Caroline Vasconcelos, coautores del trabajo e integrantes del proyecto SpectraPop.\n\n\n\nFlujo de trabajo de digitalización espectral de herbarios, desde la recolección de especímenes hasta la integración global, y desafíos. © New Phytologist.\n\n\n\n\n¿Qué son los espectros de reflectancia y por qué importan?\nLa reflectancia espectral mide cómo las hojas y otros tejidos vegetales reflejan la luz a lo largo de diferentes longitudes de onda (del visible al infrarrojo). Estas “firmas espectrales” contienen información valiosa sobre la composición química, la estructura, los rasgos funcionales e incluso la identidad taxonómica de las plantas.\n\n\n\nFlujo de trabajo de digitalización espectral de herbarios, desde la recolección de especímenes hasta la integración global, y desafíos. © New Phytologist.\n\n\nEn los últimos años, la espectroscopía ha demostrado ser una herramienta poderosa para:\n\nEstimar rasgos funcionales de las plantas (como nitrógeno, carbono y lignina);\nDiferenciar especies morfológicamente semejantes;\nInvestigar patrones evolutivos y ecológicos;\nConectar los datos de los herbarios con la teledetección y con los modelos ecológicos globales.\n\n\n\nHerbarios del futuro\nEl artículo amplía el concepto de “espécimen extendido”, al proponer que los herbarios —que ya conservan información morfológica, geográfica y temporal— incorporen también datos espectrales estandarizados. Con cerca de 400 millones de especímenes conservados en el mundo, los herbarios representan una oportunidad única para reconstruir la variación fenotípica de las plantas a lo largo del tiempo, del espacio y entre linajes evolutivos.\nIncluso las hojas secas y prensadas, algunas con décadas o siglos de antigüedad, pueden proporcionar espectros confiables para diversos tipos de análisis, desde la taxonomía hasta la ecología funcional.\n\n\nUn esfuerzo global: IHerbSpec\nEl trabajo presenta y discute las bases de IHerbSpec (International Herbarium Spectral Digitization), un grupo internacional creado para:\n\nEstablecer protocolos y estándares de captura espectral en herbarios;\nGarantizar que los datos sean FAIR (Findable, Accessible, Interoperable and Reusable; es decir, localizables, accesibles, interoperables y reutilizables);\nPromover una digitalización espectral ética, equitativa y global, con especial atención a las regiones tropicales históricamente subrepresentadas en los muestreos.\n\n\n\n¿Dónde entra SpectraPop?\nSpectraPop, con el apoyo de la FAPEAM, se alinea directamente con esta visión. El proyecto apuesta por la visualización, la integración y la comunicación de datos espectrales, acercando la ciencia, los herbarios y la sociedad. Al contribuir a este debate global, reforzamos el papel de la espectroscopía como puente entre las colecciones históricas y los grandes desafíos contemporáneos, como el cambio climático, la pérdida de biodiversidad y la conservación.\nLa participación de investigadoras(es) vinculadas(os) a SpectraPop en este artículo destaca la relevancia del proyecto en un escenario científico internacional y reafirma nuestro compromiso con la ciencia abierta, la innovación metodológica y el retorno social del conocimiento.\n🔗 ¿Quiere saber más? Acceda al artículo completo aquí:    DOI 10.1111/nph.70645  \n¡Manténgase atento al blog de SpectraPop para conocer más novedades sobre espectroscopía, herbarios y biodiversidad!"
+  },
+  {
+    "objectID": "posts/nace-el-proyecto-herbspectra-amazonia.html",
+    "href": "posts/nace-el-proyecto-herbspectra-amazonia.html",
+    "title": "INPA aprueba propuesta en el CNPq: nace el proyecto HerbSpectra-Amazônia",
+    "section": "",
+    "text": "El CNPq divulgó recientemente el resultado de la Convocatoria MCTI/CNPq n.º 03/2025 - Pró-Amazônia, y el Instituto Nacional de Investigaciones de la Amazonía (INPA) tuvo tres propuestas aprobadas, entre ellas una que nos llena de orgullo: el proyecto “Red de Herbarios Espectrales de la Amazonía: Espectroscopía e inteligencia artificial para la identificación automatizada de la biodiversidad en herbarios amazónicos – HerbSpectra-Amazônia”, coordinado por la Dra. Flávia Durgante, cuyo equipo y objetivos están directamente conectados con el espíritu de SpectraPop.\nEsta aprobación representa un hito para la modernización de las colecciones botánicas amazónicas y para el avance de la espectroscopía como herramienta complementaria de identificación de la biodiversidad. Y, por supuesto, es un gran logro colectivo para todas las instituciones aliadas brasileñas e internacionales involucradas."
+  },
+  {
+    "objectID": "posts/nace-el-proyecto-herbspectra-amazonia.html#cinco-herbarios-brasileños",
+    "href": "posts/nace-el-proyecto-herbspectra-amazonia.html#cinco-herbarios-brasileños",
+    "title": "INPA aprueba propuesta en el CNPq: nace el proyecto HerbSpectra-Amazônia",
+    "section": "Cinco herbarios brasileños",
+    "text": "Cinco herbarios brasileños\n\nINPA – Instituto Nacional de Investigaciones de la Amazonía (Manaus, Amazonas) - núcleo coordinador\nHerbario HSTM – Universidad Federal del Oeste de Pará (Santarém, Pará)\nHerbario MG – Museu Paraense Emílio Goeldi (Belém, Pará)\nHerbario UFACPZ – Universidad Federal de Acre (Rio Branco, Acre)\nHerbario UFRR – Universidad Federal de Roraima (Boa Vista, Roraima)"
+  },
+  {
+    "objectID": "posts/nace-el-proyecto-herbspectra-amazonia.html#cinco-herbarios-de-países-de-la-otca-bolivia-colombia-perú-y-ecuador",
+    "href": "posts/nace-el-proyecto-herbspectra-amazonia.html#cinco-herbarios-de-países-de-la-otca-bolivia-colombia-perú-y-ecuador",
+    "title": "INPA aprueba propuesta en el CNPq: nace el proyecto HerbSpectra-Amazônia",
+    "section": "Cinco herbarios de países de la OTCA (Bolivia, Colombia, Perú y Ecuador)",
+    "text": "Cinco herbarios de países de la OTCA (Bolivia, Colombia, Perú y Ecuador)\nTodos ya han manifestado interés en digitalizar su acervo, y algunos incluso han comenzado la adquisición de espectrómetros MicroNIR.\n\nHerbario COAH – Instituto Amazónico de Investigaciones Científicas SINCHI (Bogotá, Colombia)\nHerbario HUTI – Universidad Tecnológica Indoamérica (Quito, Ecuador)\nHerbario LPB – Instituto de Ecología de la Universidad Mayor de San Andrés/ Museo Nacional de Historia Natural (La Paz, Bolivia)\nHerbario QCNE – Museo Ecuatoriano de Ciencias Naturales del Instituto Nacional de Biodiversidad (Quito, Ecuador)\nHerbario TKN – Instituto de Investigación de la Universidad Nacional Jorge Basadre Grohmann (Tacna, Perú)"
+  },
+  {
+    "objectID": "posts/nace-el-proyecto-herbspectra-amazonia.html#y-además",
+    "href": "posts/nace-el-proyecto-herbspectra-amazonia.html#y-además",
+    "title": "INPA aprueba propuesta en el CNPq: nace el proyecto HerbSpectra-Amazônia",
+    "section": "Y además:",
+    "text": "Y además:\nInstituciones internacionales de peso, integrantes de iHerbSpec, como el Herbario de Harvard, el Jardín Botánico de Missouri, la Universidad de Aarhus y el Instituto de Tecnología de Karlsruhe, también participan aportando experiencia, capacitación y estandarización global."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Popularización del uso de la Firma Espectral de la Especie en la identificación de los árboles del Manejo Forestal Sostenible en la Amazonía - SPECTRA POP",
+    "section": "",
+    "text": "Los errores en la identificación de especies maderables afectan a toda la cadena productiva del manejo forestal, desde la sostenibilidad del manejo de especies de alto valor comercial para futuros ciclos de aprovechamiento, hasta la fiscalización y la venta y comercialización de la madera. Por ello, con el fin de perfeccionar el proceso de identificación de especies para el manejo forestal sostenible, esta propuesta busca desarrollar y popularizar el uso de la firma espectral de las especies en la identificación de especies de alto valor comercial. El uso combinado de instrumentos de alta tecnología y técnicas apropiadas para discriminar especies arbóreas es necesario para mejorar el sistema de inventario de la biodiversidad en países tropicales. La espectroscopía foliar en el infrarrojo cercano ha mostrado ser prometedora en la discriminación de especies vegetales. Por lo tanto, pretendemos producir un herbario espectral, utilizar protocolos, probar equipos más accesibles y capacitar a personas de diferentes sectores de la sociedad. Así, creemos en la popularización del uso de esta herramienta, desarrollada en el Instituto Nacional de Investigaciones de la Amazonía (INPA), para mejorar la calidad de las identificaciones en el manejo forestal en la Amazonía. La popularización y la aplicación de esta herramienta aumentarán la sostenibilidad del manejo forestal en el estado de Amazonas. De esta manera, este proyecto busca desarrollar y popularizar una tecnología que beneficiará a Amazonas en lo ambiental, lo social y lo económico."
+  },
+  {
+    "objectID": "index.html#coordinación",
+    "href": "index.html#coordinación",
+    "title": "Popularización del uso de la Firma Espectral de la Especie en la identificación de los árboles del Manejo Forestal Sostenible en la Amazonía - SPECTRA POP",
+    "section": "Coordinación",
+    "text": "Coordinación\n Flávia M. Durgante (MAUA/ATTO/INPA)"
+  },
+  {
+    "objectID": "index.html#investigadores-colaboradores",
+    "href": "index.html#investigadores-colaboradores",
+    "title": "Popularización del uso de la Firma Espectral de la Especie en la identificación de los árboles del Manejo Forestal Sostenible en la Amazonía - SPECTRA POP",
+    "section": "Investigadores colaboradores",
+    "text": "Investigadores colaboradores\n Florian Wittmann (KIT/MAUA/ATTO) \n Jochen Schöngart (MAUA/ATTO/INPA) \n Maria T. F. Piedade (MAUA/ATTO/INPA) \n Layon O. Demarchi (MAUA/INPA) \n Alberto Vicentini (INPA) \n Michael J. G. Hopkins (INPA) \n Kelly C. Torralvo (IDSM) \n Rafael M. Rabelo (IDSM) \n Darlene Gris (IDSM) \n Caroline C. Vasconcelos (UFAM) \n Caroline L. Mallmann (UFSM/MAUA/INPA)"
+  },
+  {
+    "objectID": "index.html#becarios",
+    "href": "index.html#becarios",
+    "title": "Popularización del uso de la Firma Espectral de la Especie en la identificación de los árboles del Manejo Forestal Sostenible en la Amazonía - SPECTRA POP",
+    "section": "Becarios",
+    "text": "Becarios\n Samyra Ramos Chaves (MAUA/INPA) - Doctorado - Becaria CNPq DTI-A \n Hilana L. Hadlich (MAUA/INPA) - Doctorado - Becaria CNPq DTI-B \n Kaio Cesar M. da Cunha (MAUA/INPA) - Magíster - Becario CNPq DTI-B \n Túlio Alex Martins da Silva (MAUA/INPA) - Estudiante de doctorado - Becario CAPES \n Maria Clara A. M. O. Ramos Ferro (MAUA/INPA) - Estudiante de maestría - Becaria CAPES \n Cassia Sousa Ataide (UFAM/Herbario INPA) - Estudiante de pregrado - Becaria CNPq PIBIC \n Yasmin Jéssica G. Guedes (UFAM/Herbario INPA) - Estudiante de pregrado - Becaria CNPq PIBIC \n\nEgresados\n Eliandra Rodrigues Ferreira (Estácio/Herbario INPA) - Estudiante de pregrado - Becaria CNPq PIBIC \n Eduardo Leandro Cunha (UFAM/Herbario INPA) - Estudiante de pregrado - Becario CNPq PIBIC"
+  },
+  {
+    "objectID": "galeria.html",
+    "href": "galeria.html",
+    "title": "Galería de fotos",
+    "section": "",
+    "text": "Grupo del 1.er Curso SpectraPop. Abr/2025\n\n\n\n\n\nParticipantes del taller inaugural de IHerbSpec. May/2025.\n\n\n\n\n\nFlávia Durgante durante su charla en Harvard. May/2025\n\n\n\n\n\nMike Hopkins y Flávia Durgante en Harvard. May/2025\n\n\n\n\n\nFlávia Durgante en el CNBot. Ago/2025\n\n\n\n\n\nSpectraPop en el CNBot. Ago/2025\n\n\n\n\n\nFlávia Durgante en el PPGBot-INPA. Ago/2025\n\n\n\n\n\nAsignatura de espectroscopía en el PPGBot-INPA. Ago/2025\n\n\n\n\n\nEstudiantes de iniciación científica trabajando en el Herbario INPA. Sep/2025\n\n\n\n\n\nEstudiantes de iniciación científica trabajando en el Herbario INPA. Sep/2025\n\n\n\n\n\nEstudiantes de iniciación científica trabajando en el Herbario INPA. Sep/2025\n\n\n\n\n\n\n\n\nEquipo del Herbario INPA en la Semana Nacional de C&T del INPA. Oct/2025\n\n\n\n\n\nEstudiantes de iniciación científica presentando sus proyectos en el INPA. Nov/2025\n\n\n\n\n\nEstudiantes de iniciación científica presentando sus proyectos en el INPA. Nov/2025\n\n\n\n\n\nEstudiantes de iniciación científica presentando sus proyectos en el INPA. Nov/2025\n\n\n\n\n\nGrupo del 2.º Curso SpectraPop. Dic/2025\n\n\n\n\n\nClase práctica en el 2.º Curso SpectraPop. Dic/2025\n\n\n\n\n\nClase práctica en el 2.º Curso SpectraPop\n\n\n\n\n\nClase práctica en el 2.º Curso SpectraPop\n\n\n\n\n\nClase práctica en el 2.º Curso SpectraPop\n\n\n\n\n\nGrupo Paulo Boca durante el curso realizado en el sitio ATTO. Mar/2026\n\n\n\n\n\nGrupo de maestría del PPGBOT conociendo los estudios espectrales. Mar/2026\n\n\n\n\n\nMinicurso en el 4.º ERBOT Norte. Belém-PA. Abr/2026\n\n\n\n\n\nVisita al Herbario IAN. Belém-PA. Abr/2026\n\n\n\n\n\n4.º ERBOT Norte. Belém-PA. Abr/2026\n\n\n\n\n\n4.º ERBOT Norte. Belém-PA. Abr/2026\n\n\n\n\n\n1.er Curso HerbSpectra en el MPEG. Belém-PA. May/2026\n\n\n\n\n\nVisita al Herbario MG. Belém-PA. May/2026\n\n\n\n\n\nVisita al Herbario MG. Belém-PA. May/2026\n\n\n\n\n\n1.er Curso HerbSpectra en el MPEG. Belém-PA. May/2026\n\n\n\n\n\n1.er Curso HerbSpectra en el MPEG. Belém-PA. May/2026\n\n\n\n\n\n\n\n\n\n\n1.er Curso HerbSpectra en el MPEG. Belém-PA. May/2026\n\n\n\n\n\nIHerbSpec Research Symposium and Meeting. Missouri Botanical Garden. May 19-20, 2026\n\n\n\n\n\nCurso en Tefé, AM. Jun/2026\n\n\n\n\n\nCurso en Tefé, AM. Jun/2026\n\n\n\n\n\nEquipo SpectraPop en el Taller del CFBBA. INPA, Manaus. Jun/2026\n\n\n\n\n\nParticipantes del Taller del CFBBA. INPA, Manaus. Jun/2026"
+  },
+  {
+    "objectID": "cursos/6curso_idsm.html",
+    "href": "cursos/6curso_idsm.html",
+    "title": "Curso de Espectroscopía en herbario con NIR portátil",
+    "section": "",
+    "text": "¡Sean bienvenidos(as)!😊\nEste curso fue desarrollado para capacitar a estudiantes y profesionales en el uso del espectrómetro portátil, abarcando desde la configuración inicial del equipo hasta el análisis de los datos espectrales.\nA lo largo de tres días de actividades teóricas y prácticas, los participantes explorarán los fundamentos de la espectroscopía en el infrarrojo cercano (NIR) y su aplicación en la identificación de plantas.\nAdemás, el curso busca identificar desafíos prácticos en el uso del equipo, contribuyendo al desarrollo de un protocolo estandarizado de aplicación en el marco del Proyecto SpectraPop."
+  },
+  {
+    "objectID": "cursos/6curso_idsm.html#visión-general",
+    "href": "cursos/6curso_idsm.html#visión-general",
+    "title": "Curso de Espectroscopía en herbario con NIR portátil",
+    "section": "Visión general",
+    "text": "Visión general\nLas actividades del curso se realizarán durante tres días consecutivos, de martes a jueves.\nLas sesiones de la mañana serán de 09:00 a 12:00 (hora estándar de Amazonas).\nLas sesiones de la tarde serán de 14:00 a 17:00 (hora estándar de Amazonas)."
+  },
+  {
+    "objectID": "cursos/6curso_idsm.html#línea-de-tiempo",
+    "href": "cursos/6curso_idsm.html#línea-de-tiempo",
+    "title": "Curso de Espectroscopía en herbario con NIR portátil",
+    "section": "Línea de tiempo",
+    "text": "Línea de tiempo\n\nDía 1 (martes, 9 de junio)\n\nMañana\n\nFundamentos teóricos de la espectroscopía NIR y sus aplicaciones - parte I\n\n📚 Material complementario: Video – Tour del Espectro Electromagnético (NASA): https://www.youtube.com/watch?v=2p7FPFvu_j0\n\n\nTarde\n\nPresentación del dispositivo NIR-S-G1 (InnoSpectra Corp.) y accesorios\nConfiguración de la aplicación ISC-NIRScan GUI\nIntroducción al flujo de trabajo con el NIR portátil\n\n\n\n\nDía 2 (miércoles, 10 de junio)\n\nMañana\n\nEjercicio práctico de adquisición de espectros y metadatos de ejemplares de herbario\nLas especies enumeradas en este enlace se probarán durante el curso.\n\n\n\nTarde\n\nEjercicio práctico de adquisición de espectros y metadatos de ejemplares de herbario\n\n\n\n\nDía 3 (jueves, 11 de junio)\n\nMañana\n\nFundamentos teóricos de la espectroscopía NIR y sus aplicaciones - parte II\n\n\n\nTarde\n\nEn entorno R:\n\nInstalación y carga de las bibliotecas necesarias\nImportación de datos espectrales\nVisualización: evaluación de la calidad de los espectros y PCA\nPreparación de los datos para el análisis\nAnálisis discriminante (LDA) con validación cruzada Leave-One-Out (LOO)\nEvaluación del desempeño (exactitud y matriz de confusión)\nInterpretación de los resultados\n\nConsideraciones finales sobre el curso"
+  },
+  {
+    "objectID": "cursos/4curso_erbot.html",
+    "href": "cursos/4curso_erbot.html",
+    "title": "Firma espectral de las especies: teoría y práctica de la espectroscopía en herbario con NIR portátil",
+    "section": "",
+    "text": "¡Sean bienvenidos(as)!😊\nEste curso fue desarrollado para capacitar a estudiantes y profesionales en el uso de espectrómetros portátiles de infrarrojo cercano (NIR). A lo largo del día, los participantes explorarán los fundamentos de la espectroscopía NIR y sus aplicaciones en la identificación de plantas en el contexto de herbario.\nTambién se abordarán, de forma teórica y práctica, los principales flujos de trabajo analíticos, incluyendo la adquisición de espectros y el control de calidad (con fines demostrativos), la curaduría de datos espectrales y los análisis aplicados a la discriminación de especies.\n\n\n\nAfiche de difusión del minicurso en el ERBOT Norte 2026."
+  },
+  {
+    "objectID": "cursos/4curso_erbot.html#visión-general",
+    "href": "cursos/4curso_erbot.html#visión-general",
+    "title": "Firma espectral de las especies: teoría y práctica de la espectroscopía en herbario con NIR portátil",
+    "section": "Visión general",
+    "text": "Visión general\nLas actividades del curso se realizarán en jornada completa, de 8:00 a 12:00, con pausa para el almuerzo, y de 14:00 a 17:00 (hora local de Belém).\n\n⚠️ Atención (almuerzo):\nPor tratarse de un domingo, los restaurantes de la UFPA no estarán en funcionamiento.\nLa organización del evento gestionó una comida con un valor de R$ 17,00 por persona (menú: plancha mixta o filete de pollo empanizado). Las personas interesadas deben comunicarse con Jesiane [enlace eliminado], realizar el pago mediante PIX a ese número y enviar el comprobante."
+  },
+  {
+    "objectID": "cursos/4curso_erbot.html#línea-de-tiempo",
+    "href": "cursos/4curso_erbot.html#línea-de-tiempo",
+    "title": "Firma espectral de las especies: teoría y práctica de la espectroscopía en herbario con NIR portátil",
+    "section": "Línea de tiempo",
+    "text": "Línea de tiempo\n\nMañana (clase impartida de forma virtual por Flávia Durgante)\n\nFundamentos de la espectroscopía en el infrarrojo cercano (NIR)\nAplicaciones en herbarios e identificación de especies\nIntroducción a los análisis espectrales\n\nAcceso a la clase: https://meet.jit.si/MinicursoERBOT2026\nMaterial complementario: Video – Tour del Espectro Electromagnético (NASA) https://www.youtube.com/watch?v=2p7FPFvu_j0\n\n\nTarde (clase impartida por Caroline Vasconcelos y Kaio Cunha)\nDemostración práctica del NIR portátil\n\nPresentación del dispositivo NIR-S-G1 (InnoSpectra Corp.), accesorios y aplicación\n\nDemostración de la adquisición de espectros en ejemplares de herbario (muestras de referencia)\n\n\nAnálisis en R\n(utilizando un conjunto de datos disponible previamente — https://doi.org/10.5281/zenodo.15531968)\n\nInstalación y carga de las bibliotecas necesarias\n\nImportación de datos espectrales\n\nVisualización y evaluación de la calidad de los espectros\n\nPreparación de los datos para el análisis\n\nAnálisis discriminante (LDA) con validación cruzada Leave-One-Out (LOO)\n\nEvaluación del desempeño (exactitud y matriz de confusión)"
+  },
+  {
+    "objectID": "cursos/2curso_inpa.html",
+    "href": "cursos/2curso_inpa.html",
+    "title": "Curso de Espectroscopía en herbario con MicroNIR",
+    "section": "",
+    "text": "¡Sean bienvenidos(as)!😊\nEste curso fue desarrollado para capacitar a estudiantes y profesionales en el uso del espectrómetro portátil MicroNIR, abarcando desde la configuración inicial del equipo hasta el análisis de los datos espectrales.\nA lo largo de tres días de actividades teóricas y prácticas, los participantes explorarán los fundamentos de la espectroscopía en el infrarrojo cercano (NIR) y su aplicación en la identificación de plantas.\nAdemás, el curso busca identificar desafíos prácticos en el uso del equipo, contribuyendo al desarrollo de un protocolo estandarizado de aplicación en el marco del Proyecto SpectraPop."
+  },
+  {
+    "objectID": "cursos/2curso_inpa.html#visión-general",
+    "href": "cursos/2curso_inpa.html#visión-general",
+    "title": "Curso de Espectroscopía en herbario con MicroNIR",
+    "section": "Visión general",
+    "text": "Visión general\nLas actividades del curso se realizarán durante tres días consecutivos, de miércoles a viernes.\nLas sesiones de la mañana serán de 09:00 a 12:00 (hora estándar de Amazonas).\nLas sesiones de la tarde serán de 14:00 a 17:00 (hora estándar de Amazonas)."
+  },
+  {
+    "objectID": "cursos/2curso_inpa.html#línea-de-tiempo",
+    "href": "cursos/2curso_inpa.html#línea-de-tiempo",
+    "title": "Curso de Espectroscopía en herbario con MicroNIR",
+    "section": "Línea de tiempo",
+    "text": "Línea de tiempo\n\nDía 1 (miércoles, 17/dic)\n\nMañana (Flávia)\nFundamentos teóricos de la espectroscopía NIR y sus aplicaciones\nEnlace para acceder a la clase: https://meet.jit.si/CursoSpectraPop\nEnlace para acceder a la lista de asistencia: https://forms.gle/a2zAf1EhNPwFJcek6\nVideo: Tour del Espectro Electromagnético (NASA): https://www.youtube.com/watch?v=2p7FPFvu_j0\n\n\nTarde (Caroline)\n\nPresentación del dispositivo NIR-S-G1 (MicroNIR, InnoSpectra Corp.) y accesorios\nConfiguración de la aplicación ISC-NIRScan GUI (laptop y smartphone)\nCalibración, recolección de datos espectrales y cuidados necesarios en la obtención de los espectros\nComprensión de los archivos de salida\n\nEnlace para acceder a la lista de asistencia: https://forms.gle/UUx6esK5UtvfUoNs5\n\n\n\nDía 2 (jueves, 18/dic)\n\nMañana (Luiz y Caroline)\nOperaciones con el MicroNIR y ejercicio práctico de adquisición de espectros.\nObtención de los metadatos asociados a los ejemplares de herbario.\nEnlace para acceder a la lista de asistencia: https://forms.gle/fWo12i6eGNRvphZ38\n\n\nTarde (Caroline)\n\nInstalación de las bibliotecas necesarias\nCómo importar las lecturas espectrales a R\nCómo visualizar espectros y evaluar la calidad de los datos espectrales\nCómo preparar los conjuntos de datos para el análisis\n\nEnlace para acceder a la lista de asistencia: https://forms.gle/6rTMCeVAexLfMfeN8\n\n\n\nDía 3 (viernes, 19/dic)\n\nMañana (Flávia)\nFundamentos teóricos de la espectroscopía NIR y sus aplicaciones\nEnlace para acceder a la clase: https://meet.jit.si/CursoSpectraPop\nEnlace para acceder a la lista de asistencia: https://forms.gle/TzM6XT7Y8AfPhQ8F7\n\n\nTarde (Caroline)\n\nAnálisis discriminante (LDA) con validación cruzada Leave-One-Out (LOO)\nEvaluación básica de los modelos (exactitud y matriz de confusión)\nResponder el formulario de aprovechamiento del curso\n\nEnlace para acceder a la lista de asistencia: https://forms.gle/metm2uActUHtmSZr7\nEnlace para acceder al formulario de retroalimentación: https://forms.gle/GPvYc9k3WZgeBdXX8"
+  },
+  {
+    "objectID": "contacto.html",
+    "href": "contacto.html",
+    "title": "Contacto",
+    "section": "",
+    "text": "Para ponerse en contacto, utilice el formulario a continuación.\n\n\nNombre \n\n\nCorreo electrónico \n\n\nInstitución \n\n\nAsunto \n\n\nMensaje\n\n\n\nEnviar"
+  },
+  {
+    "objectID": "cursos/1curso_inpa.html",
+    "href": "cursos/1curso_inpa.html",
+    "title": "Curso de Espectroscopía en herbario con MicroNIR",
+    "section": "",
+    "text": "¡Sean bienvenidos(as)!😊\nEste curso fue desarrollado para capacitar a funcionarios y becarios en el uso del espectrómetro portátil MicroNIR, abarcando desde la configuración inicial del equipo hasta el análisis de los datos espectrales.\nA lo largo de tres días de actividades teóricas y prácticas, los participantes explorarán los fundamentos de la espectroscopía en el infrarrojo cercano (NIR) y su aplicación en la identificación de plantas.\nAdemás, el curso busca identificar desafíos prácticos en el uso del equipo, contribuyendo al desarrollo de un protocolo de aplicación en el marco del Proyecto SpectraPop."
+  },
+  {
+    "objectID": "cursos/1curso_inpa.html#visión-general",
+    "href": "cursos/1curso_inpa.html#visión-general",
+    "title": "Curso de Espectroscopía en herbario con MicroNIR",
+    "section": "Visión general",
+    "text": "Visión general\nLas actividades del taller se realizarán durante tres días consecutivos, de miércoles a viernes.\nLas sesiones de la mañana serán de 09:00 a 12:00 (hora estándar de Amazonas).\nLas sesiones de la tarde serán de 14:00 a 17:00 (hora estándar de Amazonas)."
+  },
+  {
+    "objectID": "cursos/1curso_inpa.html#línea-de-tiempo",
+    "href": "cursos/1curso_inpa.html#línea-de-tiempo",
+    "title": "Curso de Espectroscopía en herbario con MicroNIR",
+    "section": "Línea de tiempo",
+    "text": "Línea de tiempo\n\nDía 1 (miércoles)\n\nMañana (Flávia)\nFundamentos teóricos de la espectroscopía NIR y sus aplicaciones\nEnlace para acceder a la clase: https://meet.jit.si/Spectrapop\nEnlace para acceder a la lista de asistencia: https://forms.gle/PTZiQRaphvAgcDwu7\nVideo: Tour del Espectro Electromagnético (NASA): https://www.youtube.com/watch?v=2p7FPFvu_j0\n\n\nTarde (Caroline)\n\nPresentación del dispositivo NIR-S-G1 (MicroNIR, InnoSpectra Corp.) y accesorios\nConfiguración de la aplicación ISC-NIRScan GUI (laptop y smartphone)\nCalibración, recolección de datos espectrales y cuidados necesarios en la obtención de los espectros\nComprensión de los archivos de salida\n\nEnlace para acceder a la lista de asistencia: https://forms.gle/7Y52iFG1BNhstmey6\n\n\n\nDía 2 (jueves)\n\nMañana (Caroline)\nEjercicio práctico de adquisición de lecturas espectrales - Ejemplo con algunas de las especies CITES (Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres) enumeradas a continuación:\n\n\n\nId\nFamilia\nEspecie\n\n\n1\nBignoniaceae\nHandroanthus barbatus\n\n\n2\nBignoniaceae\nH. capitatus\n\n\n3\nBignoniaceae\nH. impetiginosus\n\n\n4\nBignoniaceae\nH. incanus\n\n\n5\nBignoniaceae\nH. ochraceus\n\n\n6\nBignoniaceae\nH. serratifolius\n\n\n7\nBignoniaceae\nTabebuia aurea\n\n\n8\nBignoniaceae\nT. insignis\n\n\n9\nMeliaceae\nCedrela odorata\n\n\n10\nFabaceae\nDipteryx magnifica\n\n\n11\nFabaceae\nD. odorata\n\n\n12\nFabaceae\nD. polyphylla\n\n\n13\nFabaceae\nD. punctata\n\n\n\nEnlace para acceder a la lista de asistencia: https://forms.gle/ucjn7CXmNSVrbKdH7\n\n\nTarde (Caroline)\n\nInstalación de las bibliotecas necesarias\nCómo importar las lecturas espectrales a R\nCómo visualizar espectros y evaluar la calidad de los datos espectrales\nCómo preparar los conjuntos de datos para el análisis\n\nEnlace para acceder a la lista de asistencia: https://forms.gle/WnXsJYpzR1aw5kxT8\n\n\n\nDía 3 (viernes)\n\nMañana (Flávia)\nFundamentos teóricos de la espectroscopía NIR y sus aplicaciones\nEnlace para acceder a la clase: https://meet.jit.si/Spectrapop\nEnlace para acceder a la lista de asistencia: https://forms.gle/j6JUzh1RKtncAZT67\n\n\nTarde (Caroline)\n\nAnálisis discriminante (LDA) con validación cruzada Leave-One-Out (LOO)\nEvaluación básica de los modelos (exactitud y matriz de confusión)\nResponder el formulario de aprovechamiento del curso\n\nEnlace para acceder a la lista de asistencia: https://forms.gle/BtVwHsepLdAKL55R7\nEnlace para acceder al formulario de retroalimentación: https://forms.gle/jFX8RhJp2MVVybRa9"
+  },
+  {
+    "objectID": "cursos/3curso_atto.html",
+    "href": "cursos/3curso_atto.html",
+    "title": "Curso para Auxiliares de Campo ATTO 2026",
+    "section": "",
+    "text": "El curso fue desarrollado en el marco del Proyecto SpectraPop, con el objetivo de capacitar a auxiliares de campo para su desempeño en investigaciones científicas en la Amazonía, con énfasis en prácticas seguras, organización de datos y recolección botánica. Realizado en el sitio ATTO (Amazon Tall Tower Observatory), el curso integró teoría y práctica en un entorno real de bosque, ofreciendo a los participantes una experiencia inmersiva en las rutinas de campo.\n\n\n\nAfiche de difusión del curso de formación de Auxiliares de Campo del Proyecto SpectraPop."
+  },
+  {
+    "objectID": "cursos/3curso_atto.html#visión-general",
+    "href": "cursos/3curso_atto.html#visión-general",
+    "title": "Curso para Auxiliares de Campo ATTO 2026",
+    "section": "Visión general",
+    "text": "Visión general\n\nLos participantes recibieron orientaciones sobre seguridad en campo, incluyendo el desplazamiento por senderos, el uso de equipos y la conducta en el entorno de bosque.\nSe abordaron principios de ética en la recolección de material biológico, respetando las normas científicas y ambientales.\nLas actividades incluyeron una intensa rutina de campo, que exigió preparación física y adaptación a las condiciones amazónicas."
+  },
+  {
+    "objectID": "cursos/3curso_atto.html#línea-de-tiempo",
+    "href": "cursos/3curso_atto.html#línea-de-tiempo",
+    "title": "Curso para Auxiliares de Campo ATTO 2026",
+    "section": "Línea de tiempo",
+    "text": "Línea de tiempo\nVea la programación completa:"
+  },
+  {
+    "objectID": "cursos/3curso_atto.html#comisión-organizadora",
+    "href": "cursos/3curso_atto.html#comisión-organizadora",
+    "title": "Curso para Auxiliares de Campo ATTO 2026",
+    "section": "Comisión organizadora",
+    "text": "Comisión organizadora\n Dra. Flávia Machado Durgante (MAUA/ATTO/INPA) \n Dra. Samyra Ramos Chaves (MAUA/INPA) \n Dra. Caroline da Cruz Vasconcelos (MAUA/INPA) \n Mg. Kaio Cesar Marinho da Cunha (MAUA/INPA) \n Roberta Pereira de Souza (ATTO)"
+  },
+  {
+    "objectID": "cursos/3curso_atto.html#comunicadores-científicos",
+    "href": "cursos/3curso_atto.html#comunicadores-científicos",
+    "title": "Curso para Auxiliares de Campo ATTO 2026",
+    "section": "Comunicadores científicos",
+    "text": "Comunicadores científicos\n Dra. Aline Radaelli Basso (ATTO) \n Luciano Lima Francisco (MAUA/INPA)"
+  },
+  {
+    "objectID": "cursos/3curso_atto.html#profesores",
+    "href": "cursos/3curso_atto.html#profesores",
+    "title": "Curso para Auxiliares de Campo ATTO 2026",
+    "section": "Profesores",
+    "text": "Profesores\n Dra. Caroline da Cruz Vasconcelos (MAUA/INPA) \n Dra. Dirce Leimi Komura (INPA) \n Dra. Flávia Machado Durgante (MAUA/ATTO/INPA) \n Mg. Francisco Alcinei Gomes da Silva (ATTO) \n Mg. Francisco Javier Farroñay Pacaya (PDBFF/INPA) \n Dr. Layon Oreste Demarchi (MAUA/INPA) \n Dr. Michael John Gilbert Hopkins (INPA) \n Sipko Marten Bulthuis (ATTO)\n Dra. Vania Nobuko Yoshikawa (INPA) \n Mg. Yago Rodrigues Santos (ATTO)"
+  },
+  {
+    "objectID": "cursos/3curso_atto.html#profesores-asistentes",
+    "href": "cursos/3curso_atto.html#profesores-asistentes",
+    "title": "Curso para Auxiliares de Campo ATTO 2026",
+    "section": "Profesores asistentes",
+    "text": "Profesores asistentes\n Alice Silva de Lima (INPA) \n Mg. Kaio Cesar Marinho da Cunha (MAUA/INPA) \n Dra. Samyra Ramos Chaves (MAUA/INPA) \n Mg. Rafaela Araujo Ferreira Gurgel (MAUA/INPA)"
+  },
+  {
+    "objectID": "cursos/3curso_atto.html#instructores",
+    "href": "cursos/3curso_atto.html#instructores",
+    "title": "Curso para Auxiliares de Campo ATTO 2026",
+    "section": "Instructores",
+    "text": "Instructores\n Francisco Marques Bezerra (Auxiliar de campo)\n Jose Francisco Tenacol Andes Jr. (Auxiliar de campo)\n Jose Raimundo Ferreira Nunes (Auxiliar de campo/Escalador)\n Ocirio de Souza Pereira (Auxiliar de campo)"
+  },
+  {
+    "objectID": "cursos/3curso_atto.html#apoyo-técnico",
+    "href": "cursos/3curso_atto.html#apoyo-técnico",
+    "title": "Curso para Auxiliares de Campo ATTO 2026",
+    "section": "Apoyo técnico",
+    "text": "Apoyo técnico\n André Luiz Matos (Jefe de cocina, ATTO)\n Antonio Huxley Melo do Nascimento (Apoyo logístico, ATTO)\n Adi Vasconcelos Brandão (Auxiliar de cocina, ATTO)\n Valmir Ferreira Lima (Apoyo logístico, ATTO)\n Keven Muniz de Lima (Apoyo logístico, ATTO)"
+  },
+  {
+    "objectID": "cursos/5curso_mpeg.html",
+    "href": "cursos/5curso_mpeg.html",
+    "title": "Firma espectral foliar en herbario",
+    "section": "",
+    "text": "¡Sean bienvenidos(as)!😊\nEste curso fue desarrollado en el marco del Proyecto HerbSpectra-Amazônia (Convocatoria n.º 03/2025 - Pró-Amazônia) para capacitar a estudiantes y profesionales en el uso del espectrómetro portátil NIR, abarcando desde la configuración inicial del equipo hasta el análisis de los datos espectrales.\nA lo largo de tres días de actividades teóricas y prácticas, los participantes explorarán los fundamentos de la espectroscopía en el infrarrojo cercano (NIR) y su aplicación en la identificación de plantas.\n\n\n\nAfiche de difusión del curso en el Herbario del Museu Paraense Emílio Goeldi."
+  },
+  {
+    "objectID": "cursos/5curso_mpeg.html#visión-general",
+    "href": "cursos/5curso_mpeg.html#visión-general",
+    "title": "Firma espectral foliar en herbario",
+    "section": "Visión general",
+    "text": "Visión general\nLas actividades del curso se realizarán durante tres días consecutivos, de lunes a miércoles.\nLas sesiones de la mañana serán de 08:30 a 12:00 (hora local de Belém).\nLas sesiones de la tarde serán de 14:00 a 17:00 (hora local de Belém)."
+  },
+  {
+    "objectID": "cursos/5curso_mpeg.html#línea-de-tiempo",
+    "href": "cursos/5curso_mpeg.html#línea-de-tiempo",
+    "title": "Firma espectral foliar en herbario",
+    "section": "Línea de tiempo",
+    "text": "Línea de tiempo\n\nDía 1 (lunes, 04/may)\n\nMañana (Flávia Durgante)\n\nFundamentos teóricos de la espectroscopía NIR y sus aplicaciones (parte I)\n\n▶️ Acceso a la clase: https://meet.jit.si/CursoGoeldi\n📚 Material complementario: Video – Tour del Espectro Electromagnético (NASA): https://www.youtube.com/watch?v=2p7FPFvu_j0\n\n\nTarde (Caroline Vasconcelos, Kaio Cunha y Gabrielly Ribeiro)\n\nPresentación del dispositivo NIR-S-G1 (InnoSpectra Corp.) y accesorios\nConfiguración de la aplicación ISC-NIRScan GUI (laptop y smartphone)\nIntroducción al flujo de trabajo con el NIR portátil\n\n\n\n\nDía 2 (martes, 05/may)\n\nMañana (Caroline Vasconcelos, Kaio Cunha y Gabrielly Ribeiro)\n\nEjercicio práctico de adquisición de espectros y metadatos de ejemplares de herbario\nLas especies enumeradas en este enlace se probarán durante el curso.\n\n\n\nTarde (Caroline Vasconcelos, Kaio Cunha y Gabrielly Ribeiro)\n\nEjercicio práctico de adquisición de espectros y metadatos de ejemplares de herbario\n\n\n\n\nDía 3 (miércoles, 06/may)\n\nMañana (Caroline Vasconcelos, Kaio Cunha y Gabrielly Ribeiro)\n\nEjercicio práctico de adquisición de espectros y metadatos de ejemplares de herbario\n\n\n\nTarde (Caroline Vasconcelos, Kaio Cunha, Gabrielly Ribeiro, Flávia Durgante)\n\nEn entorno R:\n\nInstalación y carga de las bibliotecas necesarias\nImportación de datos espectrales\nVisualización: evaluación de la calidad de los espectros y PCA\nPreparación de los datos para el análisis\nAnálisis discriminante (LDA) con validación cruzada Leave-One-Out (LOO)\nEvaluación del desempeño (exactitud y matriz de confusión)\nInterpretación de los resultados\n\nConsideraciones finales sobre el curso\n\n▶️ Acceso a la clase: https://meet.jit.si/CursoGoeldi"
+  },
+  {
+    "objectID": "descargas.html",
+    "href": "descargas.html",
+    "title": "Descargas",
+    "section": "",
+    "text": "Logotipos institucionales\n\nDescargar\n\n\n\n\n\n\nCursoERBOT2026v1.0\n\nDescargar\n\n\n\n\n\n\nCursoGoeldi2026v1.0\n\nDescargar\n\n\n\n\n\n\nR (base)\n\nDescargar\n\n\n\n\n\n\nRStudio\n\nDescargar\n\n\n\n\n\n\nRtools\n\nDescargar\n\n\n\n\n\n\nISCNIR Scan\n\nDescargar\n\n\n\n\n\n\nProtocolo INPA\n\nEn construcción\n\n\n\n\n\n\nProtocolo IHerbSpec\n\nAcceder"
+  },
+  {
+    "objectID": "herbario-inpa.html",
+    "href": "herbario-inpa.html",
+    "title": "Herbario INPA",
+    "section": "",
+    "text": "Visión general\n\n\n\n\nFundado en 1954\n\n\nDesarrolla actividades de documentación, identificación y conservación de plantas, apoyando la enseñanza, la investigación científica y la conservación de la biodiversidad.\n\n\n\n\n\n+300 000 registros\n\n\nEl mayor herbario de la Amazonía brasileña y el quinto mayor de Brasil. La flora brasileña representa más del 90 % de los ejemplares, lo que lo convierte en una referencia nacional e internacional.\n\n\n\n\n\n+30 000 registros\n\n\nImportante referencia para los hongos de la región amazónica, especialmente para los macrohongos.\n\n\n\n\n\n+20 000 registros\n\n\nColección de musgos y hepáticas de la Amazonía, importante para comprender la biodiversidad y la conservación de estos grupos.\n\n\n\n\n\n+10 000 registros\n\n\nLa xiloteca (colección de maderas) tiene gran valor científico, histórico y cultural, y es una referencia para los estudios de la biodiversidad de la región.\n\n\n\n\n\n+3000 registros\n\n\nLa colección carpológica (de frutos y semillas) más representativa de la Amazonía. Contribuye de manera significativa a la sistemática de los frutos amazónicos.\n\n\n\n\nVisite el acervo\n\nActualmente, el acervo del Herbario INPA está disponible en la plataforma de la red speciesLink, que reúne registros biológicos de diversas regiones de Brasil y de América del Sur.\n\n\n Acceda al acervo virtual &gt; \n\n\n\nContacto\n\n\nCurador: Michael J. G. Hopkins\n\n\nCuradora suplente: Vânia N. Yoshikawa\n\n\nGerente: Mariana R. Mesquita\n\n\n Av. André Araújo, 2936 - 69067-375 - Manaus, AM, Brasil\n\n\n +55 (92) 3643-3129\n\n\n herbarioinpa@gmail.com\n\n\n\n\n\n\n\n\n\n\nRedes sociales"
+  },
+  {
+    "objectID": "posts/conozca-a-nuestros-pibics-2025.html",
+    "href": "posts/conozca-a-nuestros-pibics-2025.html",
+    "title": "Conozca a nuestros estudiantes de iniciación científica (PIBIC/INPA 2025–2026)",
+    "section": "",
+    "text": "En la semana del 17 de noviembre de 2025, el Instituto Nacional de Investigaciones de la Amazonía (INPA) fue sede de la sesión de presentaciones parciales del Programa Institucional de Becas de Iniciación en Desarrollo Tecnológico e Innovación (PIBIC) del CNPq/INPA, con la entusiasta participación de nuestros estudiantes del área de Botánica.\nEl PIBIC/INPA tiene como objetivo estimular a los estudiantes de educación superior en las actividades, metodologías, conocimientos y prácticas propias del desarrollo tecnológico y de los procesos de innovación. El público objetivo son estudiantes de pregrado regularmente matriculados en instituciones de educación superior, públicas y privadas, en carreras compatibles con las áreas de alcance propuestas en el programa, tales como:\n\nTecnologías Estratégicas, en los siguientes sectores: Espacial, Nuclear, Cibernética, y Seguridad Pública y de Frontera\nTecnologías Habilitadoras, en los siguientes sectores: Inteligencia Artificial, Internet de las Cosas, Materiales Avanzados, Biotecnología y Nanotecnología.\nTecnologías de Producción, en los siguientes sectores: Industria, Agronegocio, Comunicaciones, Infraestructura y Servicios.\nTecnologías para el Desarrollo Sostenible, en los siguientes sectores: Ciudades Inteligentes y Sostenibles, Energías Renovables, Bioeconomía, Tratamiento y Reciclaje de Residuos Sólidos, Tratamiento de la Contaminación, Monitoreo, prevención y recuperación de desastres naturales y ambientales, y Preservación Ambiental.\nTecnologías para la Calidad de Vida, en los siguientes sectores: Salud, Saneamiento Básico, Seguridad Hídrica y Tecnologías de Asistencia.\n\nMantenido por la Coordinación de Capacitación, el PIBIC es una alianza entre el INPA y el Consejo Nacional de Desarrollo Científico y Tecnológico (CNPq), que otorga las becas de investigación.\n\n\nEduardo Leandro Cunha\n\n\n\nFoto de Maria Clara Ferro (2025).\n\n\nInstitución: Universidad Federal de Amazonas (UFAM)\nCarrera: Ingeniería de la Computación\nSemestre: 6.º\nLattes: http://lattes.cnpq.br/2142166621987119\nProyecto desarrollado en el INPA: Inteligencia artificial aplicada a la taxonomía de Ecclinusa (Sapotaceae): validación espectral e interoperabilidad con espectrómetros portátiles\nAsesor: Dr. Michael Hopkins\nCoasesora: Dra. Caroline Vasconcelos\nColaboradoras: Dra. Flávia Durgante, Dra. Samyra Ramos y Maria Clara Ferro\nEl trabajo de Eduardo investiga cómo las firmas espectrales de las hojas (obtenidas en ejemplares del Herbario INPA) pueden ayudar a identificar especies del género Ecclinusa, un grupo desafiante de la familia Sapotaceae. El foco del proyecto es probar si los espectrómetros portátiles, como el ISC NIR-S-G1 (MicroNIR), logran reproducir con buena exactitud los resultados de equipos de alta resolución, como el ASD FieldSpec 4. Con ello, el proyecto contribuye a hacer la espectroscopía más accesible para los herbarios tropicales, fortalecer el uso de la tecnología en el INPA y ampliar nuestras bibliotecas espectrales.\n\n\n\nEliandra Rodrigues Ferreira\n\n\n\nFoto de Jéssica Soares (2025).\n\n\nInstitución: Estácio de Amazonas\nCarrera: Licenciatura en Ciencias Biológicas (bacharelado)\nSemestre: 6.º\nLattes: https://lattes.cnpq.br/3358526069960413\nProyecto desarrollado en el INPA: Desarrollo de bibliotecas espectrales para la identificación de especies en el Herbario INPA: un estudio con Fabaceae y Meliaceae\nAsesor: Dr. Michael Hopkins\nCoasesora: Dra. Flávia Durgante\nColaboradoras: Dra. Caroline Vasconcelos, Dra. Samyra Ramos y Maria Clara Ferro\nLa investigación de Eliandra se centra en dos familias de gran importancia ecológica y económica (Fabaceae y Meliaceae), que incluyen especies enumeradas en la CITES, como Dipteryx (popularmente conocidas como cumarú) y Cedrela (cedro). Utilizando espectroscopía de reflectancia en ejemplares de herbario, está construyendo una biblioteca espectral robusta que permitirá identificar rápidamente especies amenazadas y apoyar la fiscalización y la curaduría taxonómica del herbario.\n\n\n\nYasmin Jéssica Guimarães Guedes\n\n\n\nFoto de Maria Clara Ferro (2025).\n\n\nInstitución: Universidad Federal de Amazonas (UFAM)\nCarrera: Licenciatura en Biología (con formación docente)\nSemestre: 6.º\nLattes: https://lattes.cnpq.br/7129000327997949\nProyecto desarrollado en el INPA: Construcción de una biblioteca espectral aplicada a la identificación de Bignoniaceae en el Herbario INPA\nAsesor: Dr. Michael Hopkins\nCoasesora: Dra. Flávia Durgante\nColaboradoras: Dra. Caroline Vasconcelos, Dra. Samyra Ramos y Maria Clara Ferro\nYasmin trabaja con Bignoniaceae, una familia emblemática de la flora sudamericana que también incluye especies protegidas por la CITES. Su objetivo es desarrollar una biblioteca espectral capaz de diferenciar especies de Handroanthus y Tabebuia, grupos con alto valor maderable y frecuente confusión taxonómica. El proyecto refuerza el papel de los herbarios en la identificación de especies amenazadas y abre puertas al uso de la espectroscopía como herramienta de monitoreo ambiental.\n\nPor último, es un privilegio acompañar la formación de estos nuevos investigadores y ver cómo tecnologías emergentes —como la espectroscopía de reflectancia, el aprendizaje automático y las bibliotecas digitales— están transformando la forma en que investigamos, curamos y comprendemos la biodiversidad amazónica.\n¡Felicitaciones a los estudiantes por sus presentaciones y por su compromiso con la ciencia producida en la Amazonía! 👏"
+  },
+  {
+    "objectID": "posts/nuevo-articulo-confirma-el-potencial-de-la-espectroscopia-en-la-amazonia.html",
+    "href": "posts/nuevo-articulo-confirma-el-potencial-de-la-espectroscopia-en-la-amazonia.html",
+    "title": "Nuevo artículo del proyecto SpectraPop confirma el potencial de la espectroscopía en la Amazonía",
+    "section": "",
+    "text": "Con miles de especies y poquísimos especialistas taxonómicos, los errores de identificación son comunes y pueden perjudicar la conservación de la biodiversidad y la economía del bosque. Pero ¿y si pudiéramos identificar un árbol solo por la forma en que refleja la luz?\n¡Con mucho orgullo damos a conocer la publicación más reciente producida en el marco de nuestro proyecto! El artículo “Exploring the potential of field spectroscopy for tree species identification in different Amazonian forest ecosystems”, en español “Explorando el potencial de la espectroscopía de campo para la identificación de especies arbóreas en diferentes ecosistemas forestales de la Amazonía”, liderado por Hilana Hadlich y con la participación de nuestra coordinadora Flávia Durgante y su equipo, acaba de ser publicado en la revista de alto impacto Global Ecology and Conservation.\n\n\n\nLas investigadoras Caroline Mallmann (izquierda) e Hilana Hadlich (derecha) y los asistentes de campo, recolectando espectros de corteza en un bosque de tierra firme en el sitio ATTO. Foto cedida por Hilana Hadlich.\n\n\n\n\n¿Qué descubrió el estudio?\nLa investigación probó el uso de un espectrorradiómetro portátil (el ASD FieldSpec 4) para leer la “firma espectral” de árboles en tres ecosistemas distintos de la Amazonía Central: el bosque de tierra firme, la campinarana (suelo de arena blanca) y el igapó (bosque inundable).\nLos investigadores recolectaron datos de tres partes diferentes de los árboles: corteza externa (directamente en el tronco), corteza interna (después de retirar superficialmente la corteza externa) y hojas frescas.\n\n\nResultados sorprendentes\n¡El estudio mostró que la espectroscopía es una herramienta poderosa! Los modelos lograron diferenciar las especies con altísima precisión:\n• 🍃 Hojas frescas: Fueron las campeonas, con una precisión de entre 92,4 % y 100 % en la identificación de las especies.\n• 🪵 Corteza interna: ¡Resultó ser una excelente alternativa para el campo! Como recolectar hojas en lo alto de la copa es difícil y costoso, la corteza interna alcanzó una precisión de 91 % a 97 %, casi tan buena como la de las hojas y mucho más accesible.\n• 🌳 Modelo general: Uno de los mayores descubrimientos fue que es posible crear un modelo “general” que funciona para todos estos ecosistemas en conjunto, manteniendo una alta tasa de acierto (hasta 98 % para hojas y 97 % para corteza interna).\n\n\n¿Por qué es importante para SpectraPop?\nEste trabajo valida científicamente el objetivo central de nuestro proyecto: popularizar el uso de la firma espectral para la identificación de especies de alto valor comercial.\nLos resultados demuestran que esta tecnología funciona no solo en un lugar, sino en diferentes tipos de bosque e incluso cuando se prueba en árboles ubicados a cientos de kilómetros de distancia (validación externa). Esto abre las puertas a un futuro en el que los inventarios forestales serán más rápidos, precisos y tecnológicos, apoyando directamente el manejo sostenible en el estado de Amazonas.\n\n\n¿Quiere saber más?\nEste estudio contó con financiamiento de la FAPEAM (Convocatoria Mulher Faz Ciência) y con el apoyo del proyecto ATTO (Amazon Tall Tower Observatory) y del grupo de investigación MAUA (Ecología, Monitoreo y Uso Sostenible de Humedales).\n🔗 Acceda al artículo completo aquí:    DOI 10.1016/j.gecco.2025.e03970  \n¡Manténgase atento(a) a nuestro blog para conocer más novedades!"
+  },
+  {
+    "objectID": "publicaciones.html",
+    "href": "publicaciones.html",
+    "title": "Publicaciones",
+    "section": "",
+    "text": "Durgante FM, CC Vasconcelos, HL Hadlich, CL Mallmann, RO Perdiz, KCM Cunha, SR Chaves, C Paquini, K Torralvo, M Hopkins, J Schöngart, MTF Piedade, PA Sá, MLG Conde, & F Wittmann. Near-infrared spectral signature enables tree species identification from herbarium specimens and standing trees in the Amazon Forest using low-cost and reference spectrometers. Sometido a publicación, 2026. Preprint disponible.   DOI 10.32942/X2T97T  \n White DM, FM Durgante, MW Austin, JA Guzmán Q, JA Kennedy, CO Nichodemus, NI Ahlstrand, C Baraloto, B Bekta¸ K Boughalmi, W Cardinal-McTeague, TLP Couvreur, RP Fortier, RS Fuller, OM Grace, R Jackson, K Karbstein, S Kothari, AK Lee, JL Viana, E Martinez-Victoria, JE Meireles, TH Murphy, C Rodrigues-Vaz, D Spalink, H Tuomisto, CC Vasconcelos, & J Cavender-Bares. A Protocol for Standardizing Measurements and Enabling Global Harmonization of Herbarium Leaf Reflectance Spectra. Sometido a publicación, 2026. Preprint disponible.   DOI 10.32942/X2SD4D  \n  Hadlich HL, J Schöngart, F Wittmann, CC Vasconcelos, CL Mallmann, MLG Conde, PA Sá, LO Demarchi, GB Mori, MTF Piedade, & FM Durgante. 2025. Exploring the potential of field spectroscopy for tree species identification in different Amazonian forest ecosystems. Global Ecology and Conservation, 54: e03970.   DOI 10.1016/j.gecco.2025.e03970  \n  Cavender-Bares J, DM White, NI Ahlstrand, M Austin, D Bastianelli, S Bazan, K Boughalmi, W Cardinal-McTeague, E Chacón-Madrigal, TLP Couvreur, C Davis, FM Durgante, OM Grace, JA Guzmán, K Hansen, MS Hernández-Leal, MJG Hopkins, R Jackson, S Kothari, AK Lee, E Léveillé-Bourret, J Pinto-Ledezma, NLQ Casaverde, JE Meireles, B Neto-Bradley, CO Nichodemus, RH Ree, M Schmull, DE Soltis, PS Soltis, H Tuomisto, S Ustin, & CC Vasconcelos. 2025. Next-generation specimen digitization: capturing reflectance spectra from the world’s herbaria for modeling plant biology across time, space, and taxa. New Phytologist (versión de registro).   DOI 10.1111/nph.70645  \n  Robin M, FM Durgante, CL Mallmann, HL Hadlich, C Römermann, LS Falcão, CD Lacerda, s Duvoisin, F Wittmann, MTF Piedade, J Schöngart, & EG Alves. 2025. Leaf spectroscopy as a tool for predicting the presence of isoprene emissions and terpene storage in central Amazon forest trees. Plant Methods 21(1): 78.   DOI 10.1186/s13007-025-01400-w  \n Vasconcelos CC, IDK Ferraz, FM Durgante, F Wittmann, J Schöngart, MTF Piedade, JLC Camargo, & MH Terra-Araujo. 2025. Ecclinusa nervosa (Sapotaceae, Chrysophylloideae), a new species discovered in Central Amazonia. Systematic Botany 50(1): 55-66.  DOI 10.1600/036364425X17466502618821"
+  },
+  {
+    "objectID": "publicaciones.html#artículos-científicos",
+    "href": "publicaciones.html#artículos-científicos",
+    "title": "Publicaciones",
+    "section": "",
+    "text": "Durgante FM, CC Vasconcelos, HL Hadlich, CL Mallmann, RO Perdiz, KCM Cunha, SR Chaves, C Paquini, K Torralvo, M Hopkins, J Schöngart, MTF Piedade, PA Sá, MLG Conde, & F Wittmann. Near-infrared spectral signature enables tree species identification from herbarium specimens and standing trees in the Amazon Forest using low-cost and reference spectrometers. Sometido a publicación, 2026. Preprint disponible.   DOI 10.32942/X2T97T  \n White DM, FM Durgante, MW Austin, JA Guzmán Q, JA Kennedy, CO Nichodemus, NI Ahlstrand, C Baraloto, B Bekta¸ K Boughalmi, W Cardinal-McTeague, TLP Couvreur, RP Fortier, RS Fuller, OM Grace, R Jackson, K Karbstein, S Kothari, AK Lee, JL Viana, E Martinez-Victoria, JE Meireles, TH Murphy, C Rodrigues-Vaz, D Spalink, H Tuomisto, CC Vasconcelos, & J Cavender-Bares. A Protocol for Standardizing Measurements and Enabling Global Harmonization of Herbarium Leaf Reflectance Spectra. Sometido a publicación, 2026. Preprint disponible.   DOI 10.32942/X2SD4D  \n  Hadlich HL, J Schöngart, F Wittmann, CC Vasconcelos, CL Mallmann, MLG Conde, PA Sá, LO Demarchi, GB Mori, MTF Piedade, & FM Durgante. 2025. Exploring the potential of field spectroscopy for tree species identification in different Amazonian forest ecosystems. Global Ecology and Conservation, 54: e03970.   DOI 10.1016/j.gecco.2025.e03970  \n  Cavender-Bares J, DM White, NI Ahlstrand, M Austin, D Bastianelli, S Bazan, K Boughalmi, W Cardinal-McTeague, E Chacón-Madrigal, TLP Couvreur, C Davis, FM Durgante, OM Grace, JA Guzmán, K Hansen, MS Hernández-Leal, MJG Hopkins, R Jackson, S Kothari, AK Lee, E Léveillé-Bourret, J Pinto-Ledezma, NLQ Casaverde, JE Meireles, B Neto-Bradley, CO Nichodemus, RH Ree, M Schmull, DE Soltis, PS Soltis, H Tuomisto, S Ustin, & CC Vasconcelos. 2025. Next-generation specimen digitization: capturing reflectance spectra from the world’s herbaria for modeling plant biology across time, space, and taxa. New Phytologist (versión de registro).   DOI 10.1111/nph.70645  \n  Robin M, FM Durgante, CL Mallmann, HL Hadlich, C Römermann, LS Falcão, CD Lacerda, s Duvoisin, F Wittmann, MTF Piedade, J Schöngart, & EG Alves. 2025. Leaf spectroscopy as a tool for predicting the presence of isoprene emissions and terpene storage in central Amazon forest trees. Plant Methods 21(1): 78.   DOI 10.1186/s13007-025-01400-w  \n Vasconcelos CC, IDK Ferraz, FM Durgante, F Wittmann, J Schöngart, MTF Piedade, JLC Camargo, & MH Terra-Araujo. 2025. Ecclinusa nervosa (Sapotaceae, Chrysophylloideae), a new species discovered in Central Amazonia. Systematic Botany 50(1): 55-66.  DOI 10.1600/036364425X17466502618821"
+  },
+  {
+    "objectID": "publicaciones.html#libros-e-informes",
+    "href": "publicaciones.html#libros-e-informes",
+    "title": "Publicaciones",
+    "section": "Libros e informes",
+    "text": "Libros e informes\n  Antonelli A, C Fry, RJ Smith, J Eden, PJ Kersey, I Larridon, AJ Paton MSJ Simmonds, AM Ainsworth, SP Bachman, M Cheek, CC Davis, F Forest, S Lennon, DP Little, M Nesbitt, E Nic Lughadha, SA Smith, T Wilkinson, …FM Durgante,… CC Vasconcelos, et al. 2026. State of the World’s Plants and Fungi 2026. Royal Botanic Gardens, Kew.   DOI 10.34885/rdzs-ky83"
+  },
+  {
+    "objectID": "publicaciones.html#material-instruccional",
+    "href": "publicaciones.html#material-instruccional",
+    "title": "Publicaciones",
+    "section": "Material instruccional",
+    "text": "Material instruccional\n  White DM, NI Ahlstrand, MW Austin, D Bastianelli, S Bazan, K Boughalmi, W Cardinal-McTeague, TLP Couvreur, F Durgante, OM Grace, JA Guzmán Q, K Hansen, M Hopkins, R Jackson, JA Kennedy, S Kothari, AK Lee, É Léveillé-Bourret, JE Meireles, BM Neto-Bradley, CO Nichodemus, NL Quinteros Casaverde, C Rodrigues-Vaz, M Schmull, PS Soltis, D Spalink, CC Vasconcelos, JL Viana, H Tuomisto, T Wells, & J Cavender-Bares. 2025. IHerbSpec Protocol. Zenodo.  DOI 10.5281/zenodo.15849668 \n  Vasconcelos CC & FM Durgante. 2025. R codes and datasets used in the course ‘Herbarium Spectroscopy with MicroNIR: theory and practice’. Zenodo.  DOI 10.5281/zenodo.15531968"
+  },
+  {
+    "objectID": "publicaciones.html#participación-en-eventos",
+    "href": "publicaciones.html#participación-en-eventos",
+    "title": "Publicaciones",
+    "section": "Participación en eventos",
+    "text": "Participación en eventos\n\nResúmenes\n Cunha KCM, FM Durgante, CC Vasconcelos, F Farroñay, JB Silva, A Andrade, & A Vicentini. Resumen: Near-infrared spectroscopy (NIRS) reveals a new species and validates the delimitation of genus Manilkara Adans. in Central Amazonia. En: Taller Franco-Brasileño “Botánica del Futuro: Nuevos Enfoques para el Estudio de la Flora Amazónica”, Instituto Nacional de Investigaciones de la Amazonía (INPA), Manaus, AM, Brasil. Junio/2026.\n Ferreira ER, FM Durgante, CC Vasconcelos, MCAMO Ramos-Ferro, SR Chaves, KCM Cunha, & MJG Hopkins. Resumen: Building a spectral library for the identification of the genus Dipteryx Schreb. (Fabaceae) at the INPA Herbarium. En: Taller Franco-Brasileño “Botánica del Futuro: Nuevos Enfoques para el Estudio de la Flora Amazónica”, Instituto Nacional de Investigaciones de la Amazonía (INPA), Manaus, AM, Brasil. Junio/2026.\n Silva TAM, CC Vasconcelos, MTF Piedade, C Dapolito-Junior, MCAMO Ramos-Ferro, FM Durgante, & LO Demarchi. Resumen: Can near-infrared spectroscopy distinguish morphotypes of Mabea speciosa (Euphorbiaceae s.s.)?. En: Taller Franco-Brasileño “Botánica del Futuro: Nuevos Enfoques para el Estudio de la Flora Amazónica”, Instituto Nacional de Investigaciones de la Amazonía (INPA), Manaus, AM, Brasil. Junio/2026.\n Guedes YJG, FM Durgante, CC Vasconcelos, MCAMO Ramos-Ferro, KCM Cunha, SR Chaves, MJG Hopkins. Resumen: Building a spectral library for the identification of the Bignoniaceae family at the INPA Herbarium. En: Taller Franco-Brasileño “Botánica del Futuro: Nuevos Enfoques para el Estudio de la Flora Amazónica”, Instituto Nacional de Investigaciones de la Amazonía (INPA), Manaus, AM, Brasil. Junio/2026.\n Ataide CS, FM Durgante, CC Vasconcelos, MCAMO Ramos-Ferro, SR Chaves, KCM Cunha, MJG Hopkins. Resumen: Portable NIR Spectroscopy for species discrimination in Ecclinusa (Sapotaceae): Can Amazonian species be distinguished using a low-cost instrument?. En: Taller Franco-Brasileño “Botánica del Futuro: Nuevos Enfoques para el Estudio de la Flora Amazónica”, Instituto Nacional de Investigaciones de la Amazonía (INPA), Manaus, AM, Brasil. Junio/2026.\n Durgante FM, CC Vasconcelos, MCAMO Ramos-Ferro, SR Ramos-Chave, HL Hadlich, CL Mallmann, KCM Cunha, MJG Hopkins, A Vicentini. Resumen: HerbSpectra-Amazonia: A spectral herbaria network for automated Amazonian species identification. En: Taller Franco-Brasileño “Botánica del Futuro: Nuevos Enfoques para el Estudio de la Flora Amazónica”, Instituto Nacional de Investigaciones de la Amazonía (INPA), Manaus, AM, Brasil. Junio/2026.\n Ramos-Ferro MCAMO, CC Vasconcelos, SR Chaves, KCM Cunha, TAM Siva, MJG Hopkins, & FM Durgante. Resumen: Standardizing NIR spectroscopy measurements of herbarium specimens: A comparison of background materials using three Sapotaceae species. En: Taller Franco-Brasileño “Botánica del Futuro: Nuevos Enfoques para el Estudio de la Flora Amazónica”, Instituto Nacional de Investigaciones de la Amazonía (INPA), Manaus, AM, Brasil. Junio/2026.\n Durgante FM, CC Vasconcelos, MCAMO Ramos-Ferro, SR Chaves, HL Hadlich, CL Mallmann, KCM Cunha, YJG Guedes, EL Cunha, CS Ataide, ER Ferreira, TAM Silva, MJG Hopkins, A Vicentini, LO Demarchi, D Gris, KC Torralvo, RM Rabelo, F Wittmann, MTF Piedade, & J. Schongart. Resumen: Popularización del uso de la Firma Espectral de la Especie en la identificación de los árboles del Manejo Forestal Sostenible en la Amazonía: Proyecto SpectraPop.. En: 4.º ERBOT NORTE - Encuentro Regional de Botánicos del Norte, Universidad Federal de Pará (UFPA), Belém, PA, Brasil. Abril/2026.\n  Lima KT, KAL Santos, JB Moreira, CC Vasconcelos, FM Durgante, & HS Pereira. Resumen: Espectroscopía NIR aplicada a la identificación de etnovariedades de Ananas comosus. En: XXI Semana de Agronomía (SEMAGRO), Universidad Federal de Amazonas (UFAM), Manaus, AM, Brasil. Octubre/2025.  RESUMEN https://shre.ink/L29n \n\n\nConferencias\n Durgante FM. Conferencia: HerbSpectra Amazônia and Spectrapop projects in the Amazon Forest. En: IHerbSpec Research Symposium and Meeting, Missouri Botanical Garden, St. Louis, EE. UU. Mayo/2026.\n Durgante FM, JL Viana, CC Vasconcelos, HL Hadlich, & CL Mallmann. Simposio: Espectroscopía aplicada a la identificación de plantas: avances para herbarios, manejo y conservación. En: 75.º Congreso Nacional de Botánica y 39.ª Reunión Nordestina de Botánica, Universidad Federal del Delta del Parnaíba (UFDPar), Parnaíba, PI, Brasil. Agosto/2025.\n Torralvo KC, R Holanda, IY Fernandes, AP Lima, C Pasquini, FM Durgante, & WE Magnusson. Conferencia: Uso de la espectroscopía NIR en el reconocimiento de anuros: método, pruebas de eficiencia y perspectivas de aplicación, incluidos equipos de bajo costo. En: XI Congreso Brasileño de Herpetología, Sociedad Brasileña de Herpetología, Manaus, AM, Brasil. Agosto/2025.\n Durgante FM. Conferencia: Spectral herbarium from INPA: equipment, methods and applications to species identification. En: International Herbarium Spectral Digitization (IHerbSpec) Working Group, Harvard University Herbaria, Cambridge, MA, EE. UU. Mayo/2025.  YouTube https://www.youtube.com/live/Zko1-NvlGUE \n\n\nMinicursos\n Durgante FM, CC Vasconcelos, & KCM Cunha. Minicurso: Firma espectral de las especies: teoría y práctica de la espectroscopía en herbario con NIR portátil. En: 4.º ERBOT NORTE - Encuentro Regional de Botánicos del Norte, Universidad Federal de Pará (UFPA), Belém, PA, Brasil. Abril/2026. Personas capacitadas: 4.\n Torralvo KC. Minicurso: Teoría y diseño de muestreos espectrales de infrarrojo cercano (NIR) para el reconocimiento de la biodiversidad. En: 21.º Simposio sobre Conservación y Manejo Participativo en la Amazonía, Instituto de Desarrollo Sostenible Mamirauá, Tefé, AM, Brasil. Julio/2025. Personas capacitadas: 30.\n\n\nExposición\n YJG Guedes, EL Cunha, ER Ferreira. En: 22.ª Semana Nacional de Ciencia y Tecnología del INPA. Instituto Nacional de Investigaciones de la Amazonía (INPA), Manaus, AM, Brasil. Octubre/2025."
+  },
+  {
+    "objectID": "publicaciones.html#asesorías",
+    "href": "publicaciones.html#asesorías",
+    "title": "Publicaciones",
+    "section": "Asesorías",
+    "text": "Asesorías\n\nEn curso\n Maria Clara Abreu Mota de Oliveira Ramos Ferro (MAUA/INPA). Estudiante de maestría, PPGBOT-INPA: ¿Importa el material de fondo? Probando patrones de reflectancia en la espectroscopía de hojas de herbario sobre diferentes tipos de material de fondo y su eficacia en la discriminación de especies. Inicio: Marzo/2025. Asesoría: Flávia Durgante. Coasesoría: Caroline Vasconcelos.\n Túlio Alex Martins da Silva (MAUA/INPA). Estudiante de doctorado, PPGBOT-INPA: Desentrañando el género Mabea Aubl. (Euphorbioideae: Euphorbiaceae) en la Panamazonía. Inicio: Enero/2026. Asesoría: Layon Demarchi. Coasesoría: Caroline Vasconcelos.\n\n\nConcluidas\n Caroline L. Mallmann (UFSM/MAUA/INPA). Doctorado PPGGEO-UFSM: Applications of Remote Sensing in a drought gradient in Amazon Forest Ecosystems. Inicio: Marzo/2021. Fin: Junio/2026. Asesoría: Waterloo Pereira Filho. Coasesoría: Flávia Durgante.\n Hilana L. Hadlich (MAUA/INPA). Doctorado PPGBOT-INPA: Reconocimiento de especies y características funcionales de los árboles en campo mediante espectroscopía en el visible e infrarrojo cercano en la Amazonía. Inicio: Marzo/2021. Fin: Junio/2026. Asesoría: Flávia Durgante. Coasesoría: Jochen Schöngart.\n Yasmin Jéssica Guimarães Guedes (UFAM/ Herbario INPA). Estudiante de pregrado, PIBIC-INPA: Construcción de una biblioteca espectral aplicada a la identificación de Bignoniaceae en el Herbario INPA. Inicio: Septiembre/2025. Fin: Agosto/2026. Asesoría: Michael Hopkins.\n Cassia Sousa Ataide (UFAM/Herbario INPA). Estudiante de pregrado, PIBIC-INPA: Inteligencia artificial aplicada a la taxonomía de Ecclinusa (Sapotaceae): validación espectral e interoperabilidad con espectrómetros portátiles. Inicio: Febrero/2026. Fin: Agosto/2026. Supervisión: Michael Hopkins.\n\n\nEgresados\n Eliandra Rodrigues Ferreira (Estácio/Herbario INPA). Estudiante de pregrado, PIBIC-INPA: Desarrollo de bibliotecas espectrales para la identificación de especies en el Herbario INPA: un estudio con Fabaceae y Meliaceae. Inicio: Septiembre/2025. Fin: Agosto/2026. Asesoría: Michael Hopkins.\n Eduardo Leandro Cunha (UFAM/ Herbario INPA). Estudiante de pregrado, PIBIC-INPA: Inteligencia artificial aplicada a la taxonomía de Ecclinusa (Sapotaceae): validación espectral e interoperabilidad con espectrómetros portátiles. Inicio: Septiembre/2025. Fin: Enero/2026. Supervisión: Michael Hopkins."
+  },
+  {
+    "objectID": "publicaciones.html#cursos-oficiales",
+    "href": "publicaciones.html#cursos-oficiales",
+    "title": "Publicaciones",
+    "section": "Cursos oficiales",
+    "text": "Cursos oficiales\n Durgante FM, & CC Vasconcelos. Curso de Espectroscopía en herbario con MicroNIR: Teoría y práctica, realizado del 2 al 4 de abril de 2025 (18 horas). Instituto Nacional de Investigaciones de la Amazonía, Manaus, AM, Brasil. Personas capacitadas: 13.\n Durgante FM, CC Vasconcelos, & LS Melo. Curso de Espectroscopía en herbario con MicroNIR: Teoría y práctica, realizado del 17 al 19 de diciembre de 2025 (18 horas). Instituto Nacional de Investigaciones de la Amazonía, Manaus, AM, Brasil. Personas capacitadas: 12.\n Durgante FM, SR Chaves, CC Vasconcelos, KCM Cunha, RP Souza, DL Komura, FAG Silva, F Farroñay, LO Demarchi, MJG Hopkins, SM Bulthuis, VN Yoshikawa, YR Santos, AS Lima, & RAF Gurgel. Curso para Auxiliares de Campo ATTO 2026: Grupo Paulo Boca, realizado del 23 al 30 de marzo de 2026 (66 horas). Sitio ATTO, São Sebastião do Uatumã, AM, Brasil. Personas capacitadas: 13.\n Durgante FM, CC Vasconcelos, KCM Cunha. Firma espectral foliar en herbario, realizado del 4 al 6 de mayo de 2026 (18 horas). Museu Paraense Emílio Goeldi, Belém, PA, Brasil. Personas capacitadas: 15.\n Durgante FM, SR Chaves, KCM Cunha. Curso de Espectroscopía en herbario con NIR portátil: Teoría y práctica, realizado del 9 al 11 de junio de 2026 (18 horas). Instituto de Desarrollo Sostenible Mamirauá, Tefé, AM, Brasil. Personas capacitadas: 8."
+  },
+  {
+    "objectID": "publicaciones.html#asignaturas",
+    "href": "publicaciones.html#asignaturas",
+    "title": "Publicaciones",
+    "section": "Asignaturas",
+    "text": "Asignaturas\n Durgante FM. Asignatura: Tópico Especial - Uso de la espectroscopía para el reconocimiento de la biodiversidad, realizada del 25 de agosto al 6 de septiembre de 2025 (60 horas). Instituto Nacional de Investigaciones de la Amazonía, programa de maestría y doctorado del Programa de Posgrado en Botánica (PPGBOT). Personas capacitadas: 10."
+  },
+  {
+    "objectID": "publicaciones.html#aplicaciones-web",
+    "href": "publicaciones.html#aplicaciones-web",
+    "title": "Publicaciones",
+    "section": "Aplicaciones web",
+    "text": "Aplicaciones web\n Vasconcelos CC, M Hopkins, & FM Durgante. 2026. Biblioteca Espectral del Proyecto SpectraPop – Dashboard desarrollado para facilitar la visualización de la biblioteca espectral del Proyecto SpectraPop en el Herbario INPA.  APP https://spectrapop.shinyapps.io/dashboard/ \n Vasconcelos CC, KCM Cunha, & FM Durgante. 2025. iscreader app – Aplicación web desarrollada para facilitar la importación, visualización y procesamiento de los archivos sin procesar generados por el espectrómetro portátil MicroNIR modelo NIR-S-G1 (InnoSpectra Corp).  APP https://spectrapop.shinyapps.io/iscreaderapp/ \n Vasconcelos CC & FM Durgante. 2025. multispecreader app – Aplicación web desarrollada para facilitar la importación, visualización y procesamiento de los archivos sin procesar generados por los espectrómetros Antaris™ II (FT-NIR Analyzer, Thermo Fisher Scientific Inc.) y ASD FieldSpec® (Malvern Panalytical Ltd).  APP https://spectrapop.shinyapps.io/multispecreaderapp/"
+  }
+]

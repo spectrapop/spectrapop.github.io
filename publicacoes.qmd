@@ -181,7 +181,7 @@ Durgante FM. Palestra:
 
 <img src="assets/icons/learning.png" width="12"/> Durgante FM, CC Vasconcelos, & KCM Cunha. Minicurso: **Assinatura espectral das espécies: teoria e prática sobre a espectroscopia em herbário com NIR portátil**. <em>In:</em> 4º ERBOT NORTE - Encontro Regional de Botânicos do Norte, Universidade Federal do Pará (UFPA), Belém, PA, Brasil. Abril/2026. Pessoas capacitadas: 4.
 
-<img src="assets/icons/learning.png" width="12"/> Torralvo KC. Minicurso: **Teoria e delineamento de coletas espectrais de Infravermelho Próximo (NIR) para reconhecimento da biodiversidade**. *In:* 21° Simpósio Sobre Conservação e Manejo Participativo na Amazônia, Instituto de Desenvolvimento Sustentável Mamirauá, Tefé, AM, Brasil. Julho/2025. Pessoas capacidadas: 10.
+<img src="assets/icons/learning.png" width="12"/> Torralvo KC. Minicurso: **Teoria e delineamento de coletas espectrais de Infravermelho Próximo (NIR) para reconhecimento da biodiversidade**. *In:* 21° Simpósio Sobre Conservação e Manejo Participativo na Amazônia, Instituto de Desenvolvimento Sustentável Mamirauá, Tefé, AM, Brasil. Julho/2025. Pessoas capacidadas: 30.
 
 
 ### Exposição

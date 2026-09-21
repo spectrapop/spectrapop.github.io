@@ -1,0 +1,16 @@
+---
+title: "Biblioteca espectral"
+format:
+  html:
+    theme: [cosmo, ../custom.scss]
+editor:
+  markdown:
+    wrap: 72
+---
+
+<iframe
+  src="https://spectrapop.shinyapps.io/dashboard/"
+  width="130%"
+  height="1000px"
+  style="border:none; border-radius:8px;">
+</iframe>

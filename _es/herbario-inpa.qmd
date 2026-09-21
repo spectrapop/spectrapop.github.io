@@ -1,0 +1,117 @@
+---
+title: "Herbario INPA"
+format:
+  html:
+    theme: [cosmo, ../custom.scss]
+    css: ../styles.css
+editor:
+  markdown:
+    wrap: 72
+---
+### Visión general
+
+<section class="icon-stats">
+
+::: {.icon-card}
+<img src="../assets/icons/calendar.svg" alt="Fundación">
+<h4>Fundado en 1954</h4>
+<p>
+  Desarrolla actividades de documentación, identificación y conservación de plantas, apoyando la enseñanza, la investigación científica y la conservación de la biodiversidad.
+</p>
+:::
+
+::: {.icon-card}
+<img src="../assets/icons/plant.svg" alt="Herbario">
+<h4> +300&nbsp;000 registros</h4>
+<p>
+  El mayor herbario de la Amazonía brasileña y el quinto mayor de Brasil. La flora brasileña representa más del 90 % de los ejemplares, lo que lo convierte en una referencia nacional e internacional.
+</p>
+:::
+
+::: {.icon-card}
+<img src="../assets/icons/fungi.svg" alt="Hongos">
+<h4> +30&nbsp;000 registros</h4>
+<p>
+ Importante referencia para los hongos de la región amazónica, especialmente para los macrohongos.
+</p>
+:::
+
+::: {.icon-card}
+<img src="../assets/icons/briofitas.svg" alt="Briófitas">
+<h4> +20&nbsp;000 registros</h4>
+<p>Colección de musgos y hepáticas de la Amazonía, importante para comprender la biodiversidad y la conservación de estos grupos.</p>
+:::
+
+::: {.icon-card}
+<img src="../assets/icons/wood.svg" alt="Xiloteca">
+<h4> +10&nbsp;000 registros</h4>
+<p>
+  La xiloteca (colección de maderas) tiene gran valor científico, histórico y cultural, y es una referencia para los estudios de la biodiversidad de la región.
+</p>
+:::
+
+::: {.icon-card}
+<img src="../assets/icons/carpo.svg" alt="Carpoteca">
+<h4> +3000 registros</h4>
+<p>
+ La colección carpológica (de frutos y semillas) más representativa de la Amazonía. Contribuye de manera significativa a la sistemática de los frutos amazónicos.
+</p>
+:::
+
+::: {.cta-section}
+### Visite el acervo
+
+<p class="text-justify">
+Actualmente, el acervo del Herbario INPA está disponible en la plataforma de la red
+<strong><i>species</i>Link</strong>, que reúne registros biológicos de
+diversas regiones de Brasil y de América del Sur.
+</p>
+
+::: cta-wrapper
+<a class="cta-button"
+     href="https://specieslink.net/search/records/col/694"
+     target="_blank"> Acceda al acervo virtual \> </a>
+:::
+:::
+
+### Contacto
+
+<ul class="contact-list">
+
+<li><img src="../assets/icons/user.svg"/>Curador: Michael J. G. Hopkins</li>
+
+<li><img src="../assets/icons/user.svg"/>Curadora suplente: Vânia N. Yoshikawa</li>
+
+<li><img src="../assets/icons/user.svg"/>Gerente: Mariana R. Mesquita</li>
+
+<li><img src="../assets/icons/map.svg"/> Av. André Araújo, 2936 - 69067-375 -
+Manaus, AM, Brasil</li>
+
+<li><img src="../assets/icons/phone.svg"/> +55 (92) 3643-3129</li>
+
+<li><img src="../assets/icons/email.svg"/>
+<a href="mailto:herbarioinpa@gmail.com" target="_blank">herbarioinpa@gmail.com</a></li>
+
+</ul>
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, fig.height=3.5}
+library(leaflet)
+
+leaflet() %>%
+  addTiles() %>%
+  setView(lng =  -59.986914, lat = -3.095557, zoom = 17)
+```
+
+### Redes sociales
+
+<div class="social-icons">
+
+<a href="https://instagram.com/herbarioinpa/" target="_blank" aria-label="Instagram">
+  <img src="../assets/icons/instagram.svg" alt="Instagram">
+</a>
+
+<a href="https://www.youtube.com/@herbarioinpa9459" target="_blank" aria-label="YouTube">
+  <img src="../assets/icons/youtube.svg" alt="YouTube">
+</a>
+
+</div>

@@ -1,7 +1,8 @@
 project:
   type: website
   output-dir: docs
-  # Renders the English version (folder _en/ -> docs/en/) after the main site.
+  # Renders the English (_en/ -> docs/en/) and Spanish (_es/ -> docs/es/) versions
+  # after the main site.
   post-render:
     - render-en.R
 
@@ -20,6 +21,8 @@ website:
             href: index.qmd
           - text: "🇺🇸 English"
             href: en/index.html
+          - text: "Español"
+            href: es/index.html
       
       - icon: github
         href: https://github.com/spectrapop

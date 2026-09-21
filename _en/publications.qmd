@@ -181,7 +181,7 @@ Durgante FM. Talk:
 
 <img src="../assets/icons/learning.png" width="12"/> Durgante FM, CC Vasconcelos, & KCM Cunha. Short course: **Species spectral signature: theory and practice of herbarium spectroscopy with portable NIR**. <em>In:</em> 4th ERBOT NORTE - Regional Meeting of Botanists of the North, Federal University of Pará (UFPA), Belém, PA, Brazil. April 2026. People trained: 4.
 
-<img src="../assets/icons/learning.png" width="12"/> Torralvo KC. Short course: **Theory and design of near-infrared (NIR) spectral sampling for biodiversity recognition**. *In:* 21st Symposium on Conservation and Participatory Management in the Amazon, Mamirauá Institute for Sustainable Development, Tefé, AM, Brazil. July 2025. People trained: 10.
+<img src="../assets/icons/learning.png" width="12"/> Torralvo KC. Short course: **Theory and design of near-infrared (NIR) spectral sampling for biodiversity recognition**. *In:* 21st Symposium on Conservation and Participatory Management in the Amazon, Mamirauá Institute for Sustainable Development, Tefé, AM, Brazil. July 2025. People trained: 30.
 
 
 ### Exhibition

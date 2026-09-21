@@ -1,0 +1,192 @@
+---
+title: "Firma espectral foliar en herbario"
+subtitle: "Teoría y práctica"
+editor:
+  markdown:
+    wrap: 72
+---
+
+# Presentación
+
+¡Sean bienvenidos(as)!😊
+
+Este curso fue desarrollado en el marco del Proyecto
+[HerbSpectra-Amazônia](https://linktr.ee/herbspectraamazonia) (Convocatoria
+n.º 03/2025 - Pró-Amazônia) para capacitar a estudiantes y profesionales en el
+uso del espectrómetro portátil NIR, abarcando desde la configuración
+inicial del equipo hasta el análisis de los datos espectrales.
+
+A lo largo de tres días de actividades teóricas y prácticas, los
+participantes explorarán los fundamentos de la espectroscopía en el
+infrarrojo cercano (NIR) y su aplicación en la identificación de plantas.
+
+<figure style="text-align:center;">
+
+![](../../assets/courses/5-1.png){.slide style="display:block;"}
+
+<figcaption style="font-size:0.9rem; color:#555; margin-top:6px;">
+
+Afiche de difusión del curso en el Herbario del Museu Paraense Emílio
+Goeldi.
+
+</figcaption>
+
+</figure>
+
+# Detalles del curso
+
+**Dónde:** Herbario MG, Campus de Investigación - Museu Paraense Emílio
+Goeldi, Av. Perimetral, 1901 - 66077-830 - Terra Firme, Belém, Pará.
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(leaflet)
+leaflet() %>%
+  addTiles %>% # Add default OpenStreetMap map tiles
+  setView(lng = -48.443668, lat = -1.451330, zoom = 17)
+```
+
+**Fecha:** Del 4 al 6 de mayo de 2026.\
+
+**Público objetivo:** Estudiantes y profesionales involucrados en el flujo de
+trabajo de herbarios/colecciones de referencia que tengan interés en el uso
+de la espectroscopía portátil para la investigación científica.\
+
+**Número de cupos:** 16 (cupos presenciales).\
+
+**Carga horaria:** 18 h (con emisión de certificado de participación).\
+
+**Formato:** Curso presencial, con clases teóricas transmitidas en vivo
+en un entorno virtual y actividades prácticas realizadas de manera presencial.
+Para las actividades prácticas habrá cuatro *laptops* disponibles y los
+participantes se organizarán en cuatro grupos.
+
+**Material:** El material del curso se pondrá a disposición directamente de los
+participantes o a través de ⬇️ [Descargas](../descargas.qmd).
+
+# Cronograma
+
+## Visión general
+
+Las actividades del curso se realizarán durante tres días consecutivos, de lunes
+a miércoles.
+
+Las sesiones de la mañana serán de 08:30 a 12:00 (hora local de Belém).
+
+Las sesiones de la tarde serán de 14:00 a 17:00 (hora local de Belém).
+
+## Línea de tiempo
+
+### Día 1 (lunes, 04/may)
+
+#### Mañana (Flávia Durgante)
+
+-   Fundamentos teóricos de la espectroscopía NIR y sus aplicaciones (parte I)
+
+▶️ Acceso a la clase: <https://meet.jit.si/CursoGoeldi>
+
+📚 Material complementario: Video – Tour del Espectro Electromagnético
+(NASA): <https://www.youtube.com/watch?v=2p7FPFvu_j0>
+
+#### Tarde (Caroline Vasconcelos, Kaio Cunha y Gabrielly Ribeiro)
+
+-   Presentación del dispositivo NIR-S-G1 (InnoSpectra Corp.) y
+    accesorios
+
+-   Configuración de la aplicación ISC-NIRScan GUI (*laptop* y *smartphone*)
+
+-   Introducción al flujo de trabajo con el NIR portátil
+
+### Día 2 (martes, 05/may)
+
+#### Mañana (Caroline Vasconcelos, Kaio Cunha y Gabrielly Ribeiro)
+
+-   Ejercicio práctico de adquisición de espectros y metadatos de ejemplares de herbario
+
+-   Las especies enumeradas [en este enlace](https://docs.google.com/spreadsheets/d/1nDfQMOe26fblt0OLafKL6Gx1h7syhyFjfGT0lVjOYj4/edit?usp=sharing) se probarán durante el curso.
+
+#### Tarde (Caroline Vasconcelos, Kaio Cunha y Gabrielly Ribeiro)
+
+-   Ejercicio práctico de adquisición de espectros y metadatos de ejemplares de herbario
+
+### Día 3 (miércoles, 06/may)
+
+#### Mañana (Caroline Vasconcelos, Kaio Cunha y Gabrielly Ribeiro)
+
+-   Ejercicio práctico de adquisición de espectros y metadatos de ejemplares de herbario
+
+#### Tarde (Caroline Vasconcelos, Kaio Cunha, Gabrielly Ribeiro, Flávia Durgante)
+
+-   En entorno R:
+    -   Instalación y carga de las bibliotecas necesarias
+    -   Importación de datos espectrales
+    -   Visualización: evaluación de la calidad de los espectros y PCA
+    -   Preparación de los datos para el análisis
+    -   Análisis discriminante (LDA) con validación cruzada Leave-One-Out (LOO)
+    -   Evaluación del desempeño (exactitud y matriz de confusión)
+    -   Interpretación de los resultados
+
+-   Consideraciones finales sobre el curso
+
+▶️ Acceso a la clase: <https://meet.jit.si/CursoGoeldi>
+
+# Equipo de organización y capacitación
+
+<img src="../../assets/icons/user.png" width="12"/> Profa. Dra. Flávia Durgante
+(Coordinadora del HerbSpectra-Amazônia), MAUA/ATTO/INPA
+<a href="http://lattes.cnpq.br/9866263113578229" target="_blank"><img src="../../assets/icons/lattes.png" width="18"/></a>
+
+<img src="../../assets/icons/user.png" width="12"/> Dra. Caroline Vasconcelos
+(Becaria del HerbSpectra-Amazônia), MAUA/INPA
+<a href="http://lattes.cnpq.br/1535461703335857" target="_blank"><img src="../../assets/icons/lattes.png" width="18"/></a>
+
+<img src="../../assets/icons/user.png" width="12"/> Mg. Kaio Cunha (Becario del
+HerbSpectra-Amazônia), MAUA/INPA
+<a href="http://lattes.cnpq.br/2664299098538335" target="_blank"><img src="../../assets/icons/lattes.png" width="18"/></a>
+
+<img src="../../assets/icons/user.png" width="12"/> Mg. Gabrielly Guabiraba Ribeiro
+(Estudiante de doctorado en el PPGBOT), JBRJ
+<a href="http://lattes.cnpq.br/4435352680317467" target="_blank"><img src="../../assets/icons/lattes.png" width="18"/></a>
+
+# Financiamiento
+
+Este curso cuenta con el apoyo de los proyectos "Red de Herbarios Espectrales
+de la Amazonía: Espectroscopía e inteligencia artificial para la identificación
+automatizada de la biodiversidad en herbarios amazónicos -
+HerbSpectra-Amazônia", financiado por el Consejo Nacional de
+Desarrollo Científico y Tecnológico (CNPq), Convocatoria Pública
+MCTI/CNPq n.º 03/2025 - Pró-Amazônia (proceso n.º 385465/2025-4);
+"Building a near-infrared spectral library to reveal new species of
+*Ecclinusa* (Sapotaceae, Chrysophylloideae) in South America", financiado
+por la International Association for Plant Taxonomy (IAPT, ronda 2025); y
+"Popularización del uso de la Firma Espectral de la Especie en la
+identificación de los árboles del Manejo Forestal Sostenible en la Amazonía -
+SPECTRA POP", financiado por la Fundación de Apoyo a la Investigación del Estado de
+Amazonas (FAPEAM), Convocatoria n.º 006/2024 - Mulher Faz Ciência (Proceso
+n.º 01.02.016301.04984/2024-17). El curso también cuenta con el apoyo del
+Herbario INPA a través de la Convocatoria pública MCTI/FINEP/FNDCT n.º 02/2016 – Centros
+Nacionales Multiusuarios.
+
+# Participantes
+
+<figure style="text-align:center;">
+
+<img src="../../assets/courses/5-2.jpeg" class="slide" style="width:100%; display:block;"/>
+
+<figcaption style="font-size:0.9rem; color:#555; margin-top:6px;">
+
+Participantes del 5.º Curso del Proyecto SpectraPop y 1.er Curso del Proyecto HerbSpectra-Amazônia, Herbario Emílio Goeldi, mayo de 2026.
+
+</figcaption>
+
+</figure>
+
+
+# Certificados
+
+Para generar su certificado, complete el formulario:
+
+🔗 <https://forms.gle/3R5HoPVWErxvzQDY8>
+
+Los certificados pueden consultarse en el enlace que aparece a continuación. Busque su nombre en la lista de archivos y utilice los tres primeros dígitos de su CPF (documento de identificación brasileño) para acceder al certificado correspondiente.
+
+📂 [Acceder a los certificados](https://drive.google.com/drive/folders/1wdWcgZcYjocJ5Nymd0UqMQvTZX7CJl_x?usp=sharing)

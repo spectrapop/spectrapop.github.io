@@ -1,0 +1,65 @@
+---
+title: 'Nuevo artículo del proyecto SpectraPop confirma el potencial de la espectroscopía en la Amazonía'
+date: '2025-11-24'
+slug: nuevo-articulo-confirma-el-potencial-de-la-espectroscopia-en-la-amazonia
+subtitle: '¿Sabía que identificar árboles en la Amazonía es uno de los mayores desafíos para la ciencia y para el manejo forestal?'
+summary: ''
+authors:
+  - name: 'Caroline C. Vasconcelos'
+    url: 'https://ccvasconcelos.github.io/'
+lastmod: '2025-11-24T22:00:00-04:00'
+---
+
+Con miles de especies y poquísimos especialistas taxonómicos, los errores de identificación son comunes y pueden perjudicar la conservación de la biodiversidad y la economía del bosque. Pero ¿y si pudiéramos identificar un árbol solo por la forma en que refleja la luz?
+
+¡Con mucho orgullo damos a conocer la publicación más reciente producida en el marco de nuestro proyecto! El artículo **“Exploring the potential of field spectroscopy for tree species identification in different Amazonian forest ecosystems”**, en español **"Explorando el potencial de la espectroscopía de campo para la identificación de especies arbóreas en diferentes ecosistemas forestales de la Amazonía"**, liderado por Hilana Hadlich y con la participación de nuestra coordinadora Flávia Durgante y su equipo, acaba de ser publicado en la revista de alto impacto *Global Ecology and Conservation*.
+
+<figure>
+
+![](../../assets/photos/hilana%20e%20equipe.jpg)
+
+<figcaption style="font-size: 0.8em;">
+
+Las investigadoras Caroline Mallmann (izquierda) e Hilana Hadlich (derecha) y los asistentes de campo, recolectando espectros de corteza en un bosque de tierra firme en el sitio ATTO. Foto cedida por Hilana Hadlich.
+
+</figcaption>
+
+</figure>
+
+------------------------------------------------------------------------
+
+# ¿Qué descubrió el estudio?
+
+La investigación probó el uso de un espectrorradiómetro portátil (el ASD FieldSpec 4) para leer la “firma espectral” de árboles en tres ecosistemas distintos de la Amazonía Central: el bosque de tierra firme, la campinarana (suelo de arena blanca) y el igapó (bosque inundable).
+
+Los investigadores recolectaron datos de tres partes diferentes de los árboles: corteza externa (directamente en el tronco), corteza interna (después de retirar superficialmente la corteza externa) y hojas frescas.
+
+# Resultados sorprendentes
+
+¡El estudio mostró que la espectroscopía es una herramienta poderosa! Los modelos lograron diferenciar las especies con altísima precisión:
+
+• 🍃 Hojas frescas: Fueron las campeonas, con una precisión de entre 92,4 % y 100 % en la identificación de las especies.
+
+• 🪵 Corteza interna: ¡Resultó ser una excelente alternativa para el campo! Como recolectar hojas en lo alto de la copa es difícil y costoso, la corteza interna alcanzó una precisión de 91 % a 97 %, casi tan buena como la de las hojas y mucho más accesible.
+
+• 🌳 Modelo general: Uno de los mayores descubrimientos fue que es posible crear un modelo “general” que funciona para todos estos ecosistemas en conjunto, manteniendo una alta tasa de acierto (hasta 98 % para hojas y 97 % para corteza interna).
+
+# ¿Por qué es importante para SpectraPop?
+
+Este trabajo valida científicamente el objetivo central de nuestro proyecto: popularizar el uso de la firma espectral para la identificación de especies de alto valor comercial.
+
+Los resultados demuestran que esta tecnología funciona no solo en un lugar, sino en diferentes tipos de bosque e incluso cuando se prueba en árboles ubicados a cientos de kilómetros de distancia (validación externa). Esto abre las puertas a un futuro en el que los inventarios forestales serán más rápidos, precisos y tecnológicos, apoyando directamente el manejo sostenible en el estado de Amazonas.
+
+# ¿Quiere saber más?
+
+Este estudio contó con financiamiento de la FAPEAM (Convocatoria Mulher Faz Ciência) y con el apoyo del proyecto ATTO (Amazon Tall Tower Observatory) y del grupo de investigación MAUA (Ecología, Monitoreo y Uso Sostenible de Humedales).
+
+🔗 Acceda al artículo completo aquí: <img src="../../assets/icons/openaccess.png" width="12"/>
+<span class="doi-badge-inline">
+  <a href="https://doi.org/10.1016/j.gecco.2025.e03970" class="doi-badge" target="_blank">
+    <span class="doi-label">DOI</span>
+    <span class="doi-number">10.1016/j.gecco.2025.e03970</span>
+  </a>
+</span>
+
+¡Manténgase atento(a) a nuestro blog para conocer más novedades!

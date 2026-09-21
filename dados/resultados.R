@@ -1,7 +1,8 @@
 # =============================================================================
 # Página "Resultados" / "Results"
 #
-# Este arquivo é lido por resultados.qmd (PT) e _en/results.qmd (EN).
+# Este arquivo é lido por resultados.qmd (PT), _en/results.qmd (EN) e
+# _es/resultados.qmd (ES).
 # Ele calcula os números da página e monta os cartões (cards) em HTML.
 #
 #  * Números AUTOMÁTICOS (contados a cada renderização a partir de
@@ -186,13 +187,35 @@ resultados_dados <- function(raiz = resultados_raiz()) {
     tr_disc = c("in a graduate course", "in graduate courses"),
     dout = "PhD", mest = "MSc", grad = "undergraduate",
     apps_d = "dashboard and spectra readers"
+  ),
+  # Espanhol (América Latina). Separador de milhar = espaço fino (sem quebra),
+  # que evita a confusão ponto/vírgula entre países.
+  es = list(
+    sep = " ", mes = c("enero","febrero","marzo","abril","mayo","junio","julio",
+                            "agosto","septiembre","octubre","noviembre","diciembre"),
+    cursos = "Cursos y minicursos", treinados = "Personas capacitadas",
+    treinados_d = "", estudantes = "Estudiantes asesorados",
+    espectros = "Espectros colectados", especies = "Especies con espectros",
+    exsicatas = "Ejemplares de herbario muestreados", apps = "Aplicaciones web",
+    artigos = "Artículos científicos", preprints = "Preprints",
+    livros = "Libros e informes", resumos = "Resúmenes en eventos",
+    palestras = "Conferencias y simposios", eventos = "Eventos científicos",
+    eventos_d = "con participación del proyecto",
+    curso = c("curso oficial", "cursos oficiales"),
+    mini  = c("minicurso en evento", "minicursos en eventos"),
+    tr_cursos = "en cursos", tr_mini = "en minicursos",
+    tr_disc = c("en un curso de posgrado", "en cursos de posgrado"),
+    dout = "doctorado", mest = "maestría", grad = "pregrado",
+    apps_d = "dashboard y lectores de espectros"
   )
 )
 
 resultados_data_texto <- function(lang = "pt", hoje = Sys.Date()) {
   t <- .txt[[lang]]
   m <- as.integer(format(hoje, "%m"))
-  if (lang == "pt") paste0(t$mes[m], "/", format(hoje, "%Y")) else paste0(t$mes[m], " ", format(hoje, "%Y"))
+  if (lang == "pt") paste0(t$mes[m], "/", format(hoje, "%Y"))
+  else if (lang == "es") paste0(t$mes[m], " de ", format(hoje, "%Y"))
+  else paste0(t$mes[m], " ", format(hoje, "%Y"))
 }
 
 # ---- ícones (SVG simples, 24x24) -------------------------------------------

@@ -1,0 +1,80 @@
+---
+title: 'SpectraPop en un esfuerzo global de digitalización espectral'
+date: '2025-11-03'
+slug: spectrapop-en-un-esfuerzo-global-de-digitalizacion-espectral
+subtitle: 'Un artículo recién publicado marca un paso importante para el futuro de la investigación en biodiversidad vegetal y la digitalización de acervos científicos'
+summary: ''
+authors:
+  - name: 'Caroline C. Vasconcelos'
+    url: 'https://ccvasconcelos.github.io/'
+lastmod: '2025-11-03T22:00:00-04:00'
+---
+
+El estudio, titulado **"Next-generation specimen digitization: capturing reflectance spectra from the world’s herbaria for modeling plant biology across time, space, and taxa"**, en español **"Digitalización de especímenes de nueva generación: captura de espectros de reflectancia de los herbarios del mundo para modelar la biología vegetal a lo largo del tiempo, el espacio y los taxones"**, acaba de ser publicado en la revista de alto impacto *New Phytologist* y reúne a investigadores de diversas instituciones de todo el mundo, entre ellos Flávia Durgante, Michael (Mike) Hopkins y Caroline Vasconcelos, coautores del trabajo e integrantes del proyecto SpectraPop.
+
+<figure>
+
+![](../../assets/images/nph70645-fig-0005-m.jpg)
+
+<figcaption style="font-size: 0.8em;">
+
+Flujo de trabajo de digitalización espectral de herbarios, desde la recolección de especímenes hasta la integración global, y desafíos. © New Phytologist.
+
+</figcaption>
+
+</figure>
+
+------------------------------------------------------------------------
+
+# ¿Qué son los espectros de reflectancia y por qué importan?
+
+La reflectancia espectral mide cómo las hojas y otros tejidos vegetales reflejan la luz a lo largo de diferentes longitudes de onda (del visible al infrarrojo). Estas "firmas espectrales" contienen información valiosa sobre la composición química, la estructura, los rasgos funcionales e incluso la identidad taxonómica de las plantas.
+
+<figure>
+
+![](../../assets/images/nph70645-fig-0001-m.jpg)
+
+<figcaption style="font-size: 0.8em;">
+
+Flujo de trabajo de digitalización espectral de herbarios, desde la recolección de especímenes hasta la integración global, y desafíos. © New Phytologist.
+
+</figcaption>
+
+</figure>
+
+En los últimos años, la espectroscopía ha demostrado ser una herramienta poderosa para:
+
+-   Estimar rasgos funcionales de las plantas (como nitrógeno, carbono y lignina);
+-   Diferenciar especies morfológicamente semejantes;
+-   Investigar patrones evolutivos y ecológicos;
+-   Conectar los datos de los herbarios con la teledetección y con los modelos ecológicos globales.
+
+# Herbarios del futuro
+
+El artículo amplía el concepto de "espécimen extendido", al proponer que los herbarios —que ya conservan información morfológica, geográfica y temporal— incorporen también datos espectrales estandarizados. Con cerca de 400 millones de especímenes conservados en el mundo, los herbarios representan una oportunidad única para reconstruir la variación fenotípica de las plantas a lo largo del tiempo, del espacio y entre linajes evolutivos.
+
+Incluso las hojas secas y prensadas, algunas con décadas o siglos de antigüedad, pueden proporcionar espectros confiables para diversos tipos de análisis, desde la taxonomía hasta la ecología funcional.
+
+# Un esfuerzo global: IHerbSpec
+
+El trabajo presenta y discute las bases de [IHerbSpec](https://iherbspec.github.io/) (International Herbarium Spectral Digitization), un grupo internacional creado para:
+
+-   Establecer protocolos y estándares de captura espectral en herbarios;
+-   Garantizar que los datos sean FAIR (Findable, Accessible, Interoperable and Reusable; es decir, localizables, accesibles, interoperables y reutilizables);
+-   Promover una digitalización espectral ética, equitativa y global, con especial atención a las regiones tropicales históricamente subrepresentadas en los muestreos.
+
+# ¿Dónde entra SpectraPop?
+
+SpectraPop, con el apoyo de la FAPEAM, se alinea directamente con esta visión. El proyecto apuesta por la visualización, la integración y la comunicación de datos espectrales, acercando la ciencia, los herbarios y la sociedad. Al contribuir a este debate global, reforzamos el papel de la espectroscopía como puente entre las colecciones históricas y los grandes desafíos contemporáneos, como el cambio climático, la pérdida de biodiversidad y la conservación.
+
+La participación de investigadoras(es) vinculadas(os) a SpectraPop en este artículo destaca la relevancia del proyecto en un escenario científico internacional y reafirma nuestro compromiso con la ciencia abierta, la innovación metodológica y el retorno social del conocimiento.
+
+🔗 ¿Quiere saber más? Acceda al artículo completo aquí: <img src="../../assets/icons/openaccess.png" width="12"/>
+<span class="doi-badge-inline">
+  <a href="https://doi.org/10.1111/nph.70645" class="doi-badge" target="_blank">
+    <span class="doi-label">DOI</span>
+    <span class="doi-number">10.1111/nph.70645</span>
+  </a>
+</span>
+
+¡Manténgase atento al blog de SpectraPop para conocer más novedades sobre espectroscopía, herbarios y biodiversidad!

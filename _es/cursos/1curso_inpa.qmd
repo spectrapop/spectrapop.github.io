@@ -1,0 +1,166 @@
+---
+title: "Curso de Espectroscopía en herbario con MicroNIR"
+subtitle: "Teoría y práctica"
+---
+
+# Presentación
+
+¡Sean bienvenidos(as)!😊
+
+Este curso fue desarrollado para capacitar a funcionarios y becarios en el uso del espectrómetro portátil MicroNIR, abarcando desde la configuración inicial del equipo hasta el análisis de los datos espectrales.
+
+A lo largo de tres días de actividades teóricas y prácticas, los participantes explorarán los fundamentos de la espectroscopía en el infrarrojo cercano (NIR) y su aplicación en la identificación de plantas.
+
+Además, el curso busca identificar desafíos prácticos en el uso del equipo, contribuyendo al desarrollo de un protocolo de aplicación en el marco del [Proyecto SpectraPop](../index.qmd).
+
+# Detalles del curso
+
+**Dónde:** Herbario INPA (1.er piso, Sala IFN), Av. André Araújo, 2.936 - 69067-375 - Petrópolis, Manaus, Amazonas, Brasil.
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(leaflet)
+leaflet() %>%
+  addTiles %>% # Add default OpenStreetMap map tiles
+  setView(lng = -59.98748286262644, lat = -3.0950992004397473, zoom = 17)
+```
+
+**Fecha:** Del 2 al 4 de abril de 2025.\
+
+**Público objetivo:** Funcionarios y becarios involucrados en el flujo de trabajo del herbario que tengan interés en el uso de la espectroscopía portátil para la investigación científica.\
+
+**Número de cupos:** 13 (participantes seleccionados previamente).\
+
+**Carga horaria:** 18 h (con emisión de constancia de participación).\
+
+**Formato:** Híbrido, con clases teóricas virtuales y clases prácticas presenciales. Habrá cuatro *laptops* disponibles para las clases prácticas, y las actividades se realizarán en cuatro grupos.
+
+**Material:** Las diapositivas, los *scripts* y los datos obtenidos durante el curso se pondrán a disposición directamente de los alumnos o a través de [GitHub](https://github.com/ccvasconcelos/spectrapop).
+
+**Observaciones importantes:**
+
+-   Los participantes externos deben presentar un documento de identidad con foto (p. ej., cédula de identidad o documento nacional) e informar en cualquier portería del INPA que están [participando en una capacitación en el Herbario INPA]{.underline}.
+
+-   Para las clases teóricas, los participantes pueden seguirlas desde su casa o utilizar las instalaciones del INPA. En este último caso, por favor, avísennos con anticipación.
+
+-   Al finalizar el curso, cada participante debe responder un formulario de aprovechamiento para evaluar la capacitación y aportar sugerencias para mejorar el protocolo de uso del MicroNIR, que en el futuro se pondrá a disposición de toda la comunidad interesada.
+
+# Cronograma
+
+## Visión general
+
+Las actividades del taller se realizarán durante tres días consecutivos, de miércoles a viernes.
+
+Las sesiones de la mañana serán de 09:00 a 12:00 (hora estándar de Amazonas).
+
+Las sesiones de la tarde serán de 14:00 a 17:00 (hora estándar de Amazonas).
+
+## Línea de tiempo
+
+### Día 1 (miércoles)
+
+#### Mañana (Flávia)
+
+Fundamentos teóricos de la espectroscopía NIR y sus aplicaciones
+
+Enlace para acceder a la clase: [[https://meet.jit.si/Spectrapop]{.underline}](https://meet.jit.si/Spectrapop)
+
+Enlace para acceder a la lista de asistencia: <https://forms.gle/PTZiQRaphvAgcDwu7>
+
+Video: Tour del Espectro Electromagnético (NASA): <https://www.youtube.com/watch?v=2p7FPFvu_j0>
+
+#### Tarde (Caroline)
+
+-   Presentación del dispositivo NIR-S-G1 (MicroNIR, InnoSpectra Corp.) y accesorios
+
+-   Configuración de la aplicación ISC-NIRScan GUI (*laptop* y *smartphone*)
+
+-   Calibración, recolección de datos espectrales y cuidados necesarios en la obtención de los espectros
+
+-   Comprensión de los archivos de salida
+
+Enlace para acceder a la lista de asistencia: <https://forms.gle/7Y52iFG1BNhstmey6>
+
+### Día 2 (jueves)
+
+#### Mañana (Caroline)
+
+Ejercicio práctico de adquisición de lecturas espectrales - Ejemplo con algunas de las especies CITES (Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres) enumeradas a continuación:
+
+|        |                  |                             |
+|--------|------------------|-----------------------------|
+| **Id** | **Familia**      | **Especie**                 |
+| **1**  | **Bignoniaceae** | ***Handroanthus barbatus*** |
+| 2      | Bignoniaceae     | *H. capitatus*              |
+| **3**  | **Bignoniaceae** | ***H. impetiginosus***      |
+| **4**  | **Bignoniaceae** | ***H. incanus***            |
+| **5**  | **Bignoniaceae** | ***H. ochraceus***          |
+| 6      | Bignoniaceae     | *H. serratifolius*          |
+| 7      | Bignoniaceae     | *Tabebuia aurea*            |
+| 8      | Bignoniaceae     | *T. insignis*               |
+| 9      | Meliaceae        | *Cedrela odorata*           |
+| 10     | Fabaceae         | *Dipteryx magnifica*        |
+| 11     | Fabaceae         | *D. odorata*                |
+| 12     | Fabaceae         | *D. polyphylla*             |
+| 13     | Fabaceae         | *D. punctata*               |
+
+Enlace para acceder a la lista de asistencia: <https://forms.gle/ucjn7CXmNSVrbKdH7>
+
+#### Tarde (Caroline)
+
+-   Instalación de las bibliotecas necesarias
+
+-   Cómo importar las lecturas espectrales a R
+
+-   Cómo visualizar espectros y evaluar la calidad de los datos espectrales
+
+-   Cómo preparar los conjuntos de datos para el análisis
+
+Enlace para acceder a la lista de asistencia: <https://forms.gle/WnXsJYpzR1aw5kxT8>
+
+### Día 3 (viernes)
+
+#### Mañana (Flávia)
+
+Fundamentos teóricos de la espectroscopía NIR y sus aplicaciones
+
+Enlace para acceder a la clase: [[https://meet.jit.si/Spectrapop]{.underline}](https://meet.jit.si/Spectrapop)
+
+Enlace para acceder a la lista de asistencia: <https://forms.gle/j6JUzh1RKtncAZT67>
+
+#### Tarde (Caroline)
+
+-   Análisis discriminante (LDA) con validación cruzada *Leave-One-Out* (LOO)
+
+-   Evaluación básica de los modelos (exactitud y matriz de confusión)
+
+-   Responder el formulario de aprovechamiento del curso
+
+Enlace para acceder a la lista de asistencia: [[https://forms.gle/BtVwHsepLdAKL55R7]{.underline}](https://forms.gle/BtVwHsepLdAKL55R7)
+
+Enlace para acceder al formulario de retroalimentación: <https://forms.gle/jFX8RhJp2MVVybRa9>
+
+# Equipo de organización y capacitación
+
+<img src="../../assets/icons/user.png" width="12"/> Profa. Dra. Flávia Durgante (Coordinadora del Proyecto SpectraPop), KIT/MAUA/INPA <a href="http://lattes.cnpq.br/9866263113578229" target="_blank"><img src="../../assets/icons/lattes.png" width="18"/></a>
+
+<img src="../../assets/icons/user.png" width="12"/> Dra. Caroline Vasconcelos (Becaria AT/III del Proyecto SpectraPop), INPA <a href="http://lattes.cnpq.br/1535461703335857" target="_blank"><img src="../../assets/icons/lattes.png" width="18"/></a>
+
+<img src="../../assets/icons/user.png" width="12"/> Prof. Dr. Michael Hopkins (Colaborador), Curaduría del Herbario INPA <a href="http://lattes.cnpq.br/5738793047673962" target="_blank"><img src="../../assets/icons/lattes.png" width="18"/></a>
+
+# Financiamiento
+
+Este curso forma parte del Proyecto “Popularización del uso de la Firma Espectral de la Especie en la identificación de los árboles del Manejo Forestal Sostenible en la Amazonía - SPECTRA POP”, financiado por la Fundación de Apoyo a la Investigación del Estado de Amazonas (FAPEAM), Convocatoria n.º 006/2024 - Mulher Faz Ciência (Proceso n.º 01.02.016301.04984/2024-17), y cuenta con el apoyo del Herbario INPA a través de la Convocatoria pública MCTI/FINEP/FNDCT n.º 02/2016 – Centros Nacionales Multiusuarios.
+
+# Participantes
+
+<figure style="text-align:center;">
+
+<img src="../../assets/courses/1.jpg" class="slide" style="width:100%; display:block;"/>
+
+<figcaption style="font-size:0.9rem; color:#555; margin-top:6px;">
+
+Participantes del 1.er Curso del Proyecto SpectraPop, Herbario INPA, abril de 2025.
+
+</figcaption>
+
+</figure>

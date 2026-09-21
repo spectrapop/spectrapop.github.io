@@ -1,0 +1,42 @@
+---
+title: "Resultados del proyecto"
+execute:
+  warning: false
+---
+
+```{r}
+#| include: false
+lang <- "es"
+source("../dados/resultados.R", encoding = "UTF-8")
+r    <- resultados_dados()
+```
+
+Un panorama de lo que el Proyecto SpectraPop ha logrado hasta ahora: personas formadas, acervo espectral construido y producción científica. Las cifras de cursos, personas capacitadas, estudiantes asesorados y producción se calculan automáticamente a partir de la página de Publicaciones. Actualizado en `r resultados_data_texto(lang)`.
+
+## Formación de personas
+
+```{r}
+#| echo: false
+#| output: asis
+resultados_cards(r, c("cursos", "treinados", "estudantes"), lang)
+```
+
+## Acervo y herramientas espectrales
+
+```{r}
+#| echo: false
+#| output: asis
+resultados_cards(r, c("espectros", "especies", "exsicatas", "apps"), lang)
+```
+
+Explore la biblioteca espectral en la página [Biblioteca espectral](biblioteca-espectral.qmd).
+
+## Producción científica y divulgación
+
+```{r}
+#| echo: false
+#| output: asis
+resultados_cards(r, c("artigos", "preprints", "livros", "resumos", "palestras", "eventos"), lang)
+```
+
+La lista completa, con enlaces y DOI, está en la página [Publicaciones](publicaciones.qmd).

@@ -1,0 +1,314 @@
+---
+title: "Galería de fotos"
+editor: visual
+---
+
+::: scroll-container
+<figure>
+
+<img src="../assets/photos/04_curso1.jpg"/>
+
+<figcaption>Grupo del 1.er Curso SpectraPop. Abr/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/05_harvard (1).jpeg"/>
+
+<figcaption>Participantes del taller inaugural de IHerbSpec. May/2025.</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/05_harvard (2).jpeg"/>
+
+<figcaption>Flávia Durgante durante su charla en Harvard. May/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/05_harvard (3).jpeg"/>
+
+<figcaption>Mike Hopkins y Flávia Durgante en Harvard. May/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/08_cnbot (1).jpeg"/>
+
+<figcaption>Flávia Durgante en el CNBot. Ago/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/08_cnbot (3).jpeg"/>
+
+<figcaption>SpectraPop en el CNBot. Ago/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/08_disciplina (1).jpeg"/>
+
+<figcaption>Flávia Durgante en el PPGBot-INPA. Ago/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/08_disciplina (2).jpg"/>
+
+<figcaption>Asignatura de espectroscopía en el PPGBot-INPA. Ago/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/09_herbario (1).jpeg"/>
+
+<figcaption>Estudiantes de iniciación científica trabajando en el Herbario INPA. Sep/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/09_herbario (2).jpeg"/>
+
+<figcaption>Estudiantes de iniciación científica trabajando en el Herbario INPA. Sep/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/09_herbario (3).jpeg"/>
+
+<figcaption>Estudiantes de iniciación científica trabajando en el Herbario INPA. Sep/2025</figcaption>
+
+</figure>
+
+<figure><img src="../assets/photos/09_herbario (4).jpeg"/></figure>
+
+<figure>
+
+<img src="../assets/photos/10_snct (1).jpeg"/>
+
+<figcaption>Equipo del Herbario INPA en la Semana Nacional de C&T del INPA. Oct/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/11_pibic_eduardo.jpeg"/>
+
+<figcaption>Estudiantes de iniciación científica presentando sus proyectos en el INPA. Nov/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/11_pibic_eliandra.jpg"/>
+
+<figcaption>Estudiantes de iniciación científica presentando sus proyectos en el INPA. Nov/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/11_pibic_yasmin.jpeg"/>
+
+<figcaption>Estudiantes de iniciación científica presentando sus proyectos en el INPA. Nov/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/12_curso2 (1).jpeg"/>
+
+<figcaption>Grupo del 2.º Curso SpectraPop. Dic/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/12_curso2 (2).jpeg"/>
+
+<figcaption>Clase práctica en el 2.º Curso SpectraPop. Dic/2025</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/12_curso2 (3).jpeg"/>
+
+<figcaption>Clase práctica en el 2.º Curso SpectraPop</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/12_curso2 (4).jpeg"/>
+
+<figcaption>Clase práctica en el 2.º Curso SpectraPop</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/12_curso2 (5).jpeg"/>
+
+<figcaption>Clase práctica en el 2.º Curso SpectraPop</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/13_curso4.jpeg"/>
+
+<figcaption>Grupo Paulo Boca durante el curso realizado en el sitio ATTO. Mar/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/14_disciplinaMike.jpeg"/>
+
+<figcaption>Grupo de maestría del PPGBOT conociendo los estudios espectrales. Mar/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/BEL (1.1).jpg"/>
+
+<figcaption>Minicurso en el 4.º ERBOT Norte. Belém-PA. Abr/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/BEL (1.2).jpeg"/>
+
+<figcaption>Visita al Herbario IAN. Belém-PA. Abr/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/BEL (2).jpeg"/>
+
+<figcaption>4.º ERBOT Norte. Belém-PA. Abr/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/BEL (3).jpeg"/>
+
+<figcaption>4.º ERBOT Norte. Belém-PA. Abr/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/BEL (4).jpeg"/>
+
+<figcaption>1.er Curso HerbSpectra en el MPEG. Belém-PA. May/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/BEL (5).jpeg"/>
+
+<figcaption>Visita al Herbario MG. Belém-PA. May/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/BEL (6).jpeg"/>
+
+<figcaption>Visita al Herbario MG. Belém-PA. May/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/BEL (7).jpeg"/>
+
+<figcaption>1.er Curso HerbSpectra en el MPEG. Belém-PA. May/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/BEL (8).jpeg"/>
+
+<figcaption>1.er Curso HerbSpectra en el MPEG. Belém-PA. May/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/BEL (9).jpeg"/>
+
+<figcaption>
+
+</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/BEL (10).jpeg"/>
+
+<figcaption>1.er Curso HerbSpectra en el MPEG. Belém-PA. May/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/IHerbSpec Meeting MOBOT 002.jpg"/>
+
+<figcaption>IHerbSpec Research Symposium and Meeting. Missouri Botanical Garden. May 19-20, 2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/curso tefe treinamento.jpeg"/>
+
+<figcaption>Curso en Tefé, AM. Jun/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/cursotefe.jpeg"/>
+
+<figcaption>Curso en Tefé, AM. Jun/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/equipe spetrapop.jpeg"/>
+
+<figcaption>Equipo SpectraPop en el Taller del CFBBA. INPA, Manaus. Jun/2026</figcaption>
+
+</figure>
+
+<figure>
+
+<img src="../assets/photos/workshop cfbba.jpeg"/>
+
+<figcaption>Participantes del Taller del CFBBA. INPA, Manaus. Jun/2026</figcaption>
+
+</figure>
+:::

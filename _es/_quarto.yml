@@ -1,0 +1,99 @@
+# Versión en español (América Latina) del sitio SpectraPop.
+# Es un proyecto Quarto anidado: lo renderiza `render-en.R` (que se ejecuta
+# automáticamente como post-render del sitio principal) y su salida va a
+# docs/es/, es decir https://spectrapop.github.io/es/
+project:
+  type: website
+  output-dir: ../docs/es
+
+website:
+  title: "Proyecto SpectraPop"
+  favicon: ../assets/icons/favicon.ico
+
+  navbar:
+    logo: ../assets/logos/logo.png
+
+    right:
+      - icon: translate
+        aria-label: "Idioma"
+        menu:
+          - text: "🇧🇷 Português"
+            href: ../index.html
+          - text: "🇺🇸 English"
+            href: ../en/index.html
+          - text: "Español"
+            href: index.qmd
+
+      - icon: github
+        href: https://github.com/spectrapop
+        aria-label: GitHub
+    left:
+      - text: "Inicio"
+        href: index.qmd
+
+      - text: "Resultados"
+        href: resultados.qmd
+
+      - text: "Cursos"
+        menu:
+          - text: "2025 | 1.er Curso INPA"
+            href: cursos/1curso_inpa.qmd
+          - text: "2025 | 2.º Curso INPA"
+            href: cursos/2curso_inpa.qmd
+          - text: "2026 | 3.er Curso ATTO"
+            href: cursos/3curso_atto.qmd
+          - text: "2026 | 4.º Curso ERBOT"
+            href: cursos/4curso_erbot.qmd
+          - text: "2026 | 5.º Curso MPEG"
+            href: cursos/5curso_mpeg.qmd
+          - text: "2026 | 6.º Curso IDSM"
+            href: cursos/6curso_idsm.qmd
+
+      - text: "Publicaciones"
+        href: publicaciones.qmd
+
+      - text: "Biblioteca espectral"
+        href: biblioteca-espectral.qmd
+
+      - text: "Herbario INPA"
+        href: herbario-inpa.qmd
+
+      - text: "Blog"
+        menu:
+          - text: "SpectraPop en un esfuerzo global de digitalización espectral"
+            href: posts/spectrapop-en-un-esfuerzo-global-de-digitalizacion-espectral.qmd
+
+          - text: "INPA aprueba propuesta en el CNPq: nace el proyecto HerbSpectra-Amazônia"
+            href: posts/nace-el-proyecto-herbspectra-amazonia.qmd
+
+          - text: "Conozca a nuestros estudiantes de iniciación científica (PIBIC/INPA 2025–2026)"
+            href: posts/conozca-a-nuestros-pibics-2025.qmd
+
+          - text: "Nuevo artículo confirma el potencial de la espectroscopía en la Amazonía"
+            href: posts/nuevo-articulo-confirma-el-potencial-de-la-espectroscopia-en-la-amazonia.qmd
+
+      - text: "Galería"
+        href: galeria.qmd
+
+      - text: "Contacto"
+        href: contacto.qmd
+
+      - text: "Descargas"
+        href: descargas.qmd
+  page-footer:
+    left: "© 2025-2026 Proyecto SpectraPop. Todos los derechos reservados."
+    right:
+      - href: https://ccvasconcelos.github.io/
+        text: Desarrollado por Caroline C. Vasconcelos
+
+format:
+  html:
+    theme: [flatly, ../custom.scss]
+    lightbox: false
+    css: ../styles.css
+    toc: true
+    toc-location: right
+    toc-title: "En esta página"
+    include-in-header:
+      - ../visitor-map.js
+      - ../lang-switch.js
